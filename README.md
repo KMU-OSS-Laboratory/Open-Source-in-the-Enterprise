@@ -7,6 +7,9 @@ CC-BY-NC 4.0 International Public License에 의거하여
 
 이 저작권의 세부 내용은 [Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/legalcode) 사이트에서 확인할 수 있습니다.
 
+이 책의 원본은 [여기](https://d1.awsstatic.com/Open%20Source/enterprise-oss-book.pdf)에서 PDF 파일을 받으실 수 있습니다.
+
 이책의 번역과 리뷰는 여러 분들의 기여에 의해 이루어졌습니다.
-[임시 작업 분담표 : http://bit.ly/OSE-E2K](http://bit.ly/OSE-E2K)
+
+임시 [작업 분담표 : http://bit.ly/OSE-E2K](http://bit.ly/OSE-E2K)
 
