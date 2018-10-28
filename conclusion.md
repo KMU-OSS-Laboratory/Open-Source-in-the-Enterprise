@@ -1,9 +1,15 @@
 ﻿
 ### Conclusion
 
+* (번역중 : 이민석)
+* (1차 리뷰 : )
+* (1차 리뷰 반영 : )
+* (2차 리뷰 : )
+* (2차 리뷰 반영 : )
+* ...
+
 ### 결어
 
-(번역중)
 
 The production and use of open source software has matured tremendously over the past decade. From informal collaboration, often around a “benevolent dicta‐ tor,” it has evolved into a discipline. Community managers, open source program offices, codes of conduct, and other facets of organized development practices are widespread. Websites have become more sophisticated, good communication practices and processes are codified on collaboration sites such as GitHub by groups like the TODO Group, and projects recognize the importance of that long-neglected cousin to source code: documentation.
 
