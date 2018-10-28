@@ -10,7 +10,6 @@
 
 ### 결어
 
-
 The production and use of open source software has matured tremendously over the past decade. From informal collaboration, often around a “benevolent dicta‐ tor,” it has evolved into a discipline. Community managers, open source program offices, codes of conduct, and other facets of organized development practices are widespread. Websites have become more sophisticated, good communication practices and processes are codified on collaboration sites such as GitHub by groups like the TODO Group, and projects recognize the importance of that long-neglected cousin to source code: documentation.
 
 This book described open source as it is conducted by the most advanced, tech‐ nology led companies and government agencies in 2018, with a look toward the future. We have consolidated resources and references to materials that will make your open source ventures successful and answered questions where you might have had concerns. Yes, there’s a lot to learn in the adoption, use, and release of open source code. Yet many companies are doing so successfully. They maximize the strategic value of adopting open source through culture change and by investing in support for developers and all employees engaged in these efforts.

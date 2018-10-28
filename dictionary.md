@@ -8,6 +8,8 @@
 | 영어 단어, 단어 조합  | 한글 표현 |
 |--|--|
 | Best Practice | 모범 사례 |
+| Cloud | 클라우드 |
+| Community | 커뮤니티 |
 | Contributtion | 기여 또는 공헌 |
 | Enterprise  | 엔터프라이즈 |
 | Open Source | 오픈소스 |
