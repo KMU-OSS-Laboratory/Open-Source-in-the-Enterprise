@@ -1,5 +1,6 @@
-Acknowledgments
-감사의 글
+### Acknowledgments
+
+### 감사의 글
 
 Creating and growing open source projects and communities takes a village. Throughout this book, we reference projects, processes, books, reports, best practices, and all forms of contributions developed by foundations, companies, communities, and individuals. We trust that these will be incredibly valuable resources on your open source journey and will provide the additional depth needed on each topic.
 

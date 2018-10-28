@@ -24,4 +24,5 @@ CC-BY-NC 4.0 International Public License에 의거하여
 8. Launching an Open Source Project
 9. Open Source and the Cloud
 10. Conclusion
-11. 
+11. About Authors
+12. [역자 소개](translators.md)
