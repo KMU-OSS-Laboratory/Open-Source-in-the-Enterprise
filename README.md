@@ -11,11 +11,12 @@ CC-BY-NC 4.0 International Public License에 의거하여
 
 이 책의 번역과 리뷰는 여러 분들의 기여에 의해 이루어졌습니다.
 
-임시 [작업 분담표 : http://bit.ly/OSE-E2K](http://bit.ly/OSE-E2K)
+* (임시) [작업 분담표 : http://bit.ly/OSE-E2K](http://bit.ly/OSE-E2K)
+* [번역을 위한 단어장](dictionary.md)
 
 ### 목차
 
-* [Acknowledgments](Acknowledgments.md)
+* [Acknowledgments](acknowledgments.md)
 * Open Source in the Enterprise
 * Why Are Companies and Governments Turning to Open Source?
 * More Than a License or Even Code
@@ -25,7 +26,7 @@ CC-BY-NC 4.0 International Public License에 의거하여
 * Contributing to Open Source Projects
 * Launching an Open Source Project
 * Open Source and the Cloud
-* [Conclusion](Conclusion.md)
-* [About Authors](Authors.md)
+* [Conclusion](conclusion.md)
+* [About Authors](authors.md)
 * [역자 소개](translators.md)
 * [이 책에 있는 모든 외부 링크](links.md)
