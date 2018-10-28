@@ -24,6 +24,12 @@
 
 #### [Conclusion](Conclusion.md)
 
+* [Arduino : https://www.arduino.cc/](https://www.arduino.cc/)
+* [Creative Commons Licenses : https://creativecommons.org/](https://creativecommons.org/)
+* [Open License : https://opendatacommons.org/](https://opendatacommons.org/)
+* [Open Standards Principles Defined by the UK Government : http://bit.ly/2JI5H1m](http://bit.ly/2JI5H1m)
+* [Open License by Government : http://bit.ly/2JBTxLm](http://bit.ly/2JBTxLm)
+
 #### [About Authors](Authors.md)
 * [OpenOffice.org : http://www.openoffice.org/](http://www.openoffice.org/)
 * [NetBeans.org : http://www.netbeans.org/](http://www.netbeans.org/)
