@@ -32,7 +32,7 @@
 
 #### [About Authors](authors.md)
 * [OpenOffice.org : http://www.openoffice.org/](http://www.openoffice.org/)
-* (역자추가)[Mifos Initiative : http://mifos.org/](http://mifos.org/)
+* [Mifos Initiative : http://mifos.org/](http://mifos.org/) (역자추가)
 * [NetBeans.org : http://www.netbeans.org/](http://www.netbeans.org/)
 * [Twitter @zahedab](https://twitter.com/zahedab)
 
