@@ -53,7 +53,7 @@ CC-BY-NC 4.0 International Public License에 의거하여
   - Set Rules for Participation (**할당 안됨**)
   - Foster Open Communication (**할당 안됨**)
 * [Launching an Open Source Project](src/10-launching-an-open-source-project.md) (번역중:김영하)
-  - Choose a License (번역완료)
+  - Choose a License (1차리뷰완료)
   - Open the Code Right Out of the Gate (**할당 안됨**)
   - Use Best Practices for Stable Code (**할당 안됨**)
   - Set Up Public Discussion Forums (번역중:이서연)

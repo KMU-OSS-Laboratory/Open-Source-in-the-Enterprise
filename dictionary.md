@@ -12,6 +12,7 @@
 | Community | 커뮤니티 |
 | Contributtion | 기여 또는 공헌 |
 | Enterprise  | 엔터프라이즈 |
+| License | 라이선스 |
 | Open Source | 오픈소스 |
 | Process | 프로세스 |
 | Project | 프로젝트 |
