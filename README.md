@@ -44,7 +44,7 @@ CC-BY-NC 4.0 International Public License에 의거하여
   - Manage Community Code as Seriously as the Code You Create (**할당 안됨**)
   - Change Your Reward and Management Structure (**할당 안됨**)
   - Ego and Open Source (**할당 안됨**)
-* [Participating in a Project’s Community](src/08-participating-in-a-projects-community.md) (**할당 안됨**)
+* [Participating in a Project’s Community](src/08-participating-in-a-projects-community.md) (번역중:윤건영)
   - Quality and Security: A Comparison of Open and Closed Source (번역중:김대희)
 * [Contributing to Open Source Projects](src/09-contributing-to-open-source-project.md) (**할당 안됨**)
   - Establish the “Why” Throughout the Company (**할당 안됨**)
