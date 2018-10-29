@@ -1,6 +1,6 @@
 ﻿### Contributing to Open Source Projects
 
-* (번역중 : 할당 안됨)
+* (번역중 : 김영하)
 * (1차 리뷰 : )
 * (1차 리뷰 반영 : )
 * (2차 리뷰 : )

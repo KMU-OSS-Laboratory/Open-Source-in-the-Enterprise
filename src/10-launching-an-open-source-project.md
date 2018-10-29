@@ -1,6 +1,6 @@
 ﻿### Launching an Open Source Project
 
-* (번역중 : 할당안됨)
+* (번역중 : 김영하)
 * (1차 리뷰 : )
 * (1차 리뷰 반영 : )
 * (2차 리뷰 : )
@@ -10,6 +10,14 @@
 ### 오픈소스 프로젝트의 시작
 
 #### Choose a License
+
+* (번역완료 : 윤종민)
+* (1차 리뷰 : )
+* (1차 리뷰 반영 : )
+* (2차 리뷰 : )
+* (2차 리뷰 반영 : )
+* ...
+
 #### 라이선스의 선택
 Your legal staff must understand how you plan to use the code, including whether you will make closed enhancements for internal use. The license you choose will control your own use as well as the decisions other companies and individuals make to adopt your software. So, make sure it is aligned to the business’s strategy.
 
@@ -48,7 +56,7 @@ There is no reason to get fancy, though. Earlier in this book, we mentioned a fe
 
 #### Set Up Public Discussion Forums
 
-* (번역중 : 할당안됨)
+* (번역중 : 이서연)
 * (1차 리뷰 : )
 * (1차 리뷰 반영 : )
 * (2차 리뷰 : )
@@ -57,7 +65,7 @@ There is no reason to get fancy, though. Earlier in this book, we mentioned a fe
 
 #### Make Life Easy for Newbies
 
-* (번역중 : 할당안됨)
+* (번역중 : 이서연)
 * (1차 리뷰 : )
 * (1차 리뷰 반영 : )
 * (2차 리뷰 : )
@@ -75,7 +83,7 @@ There is no reason to get fancy, though. Earlier in this book, we mentioned a fe
 
 #### Adopt Metrics and Measurement
 
-* (번역중 : 할당안됨)
+* (번역중 : 오연호)
 * (1차 리뷰 : )
 * (1차 리뷰 반영 : )
 * (2차 리뷰 : )
@@ -84,7 +92,7 @@ There is no reason to get fancy, though. Earlier in this book, we mentioned a fe
 
 #### Release the Project to an Independent Governance Organization 
 
-* (번역중 : 할당안됨)
+* (번역중 : 오연호)
 * (1차 리뷰 : )
 * (1차 리뷰 반영 : )
 * (2차 리뷰 : )
