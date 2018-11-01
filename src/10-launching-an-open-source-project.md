@@ -80,7 +80,7 @@ There is no reason to get fancy, though. Earlier in this book, we mentioned a fe
 * (2차 리뷰 반영 : )
 * ...
 
-#### Release the Project to an Independent Governance Organization 
+#### Release the Project to an Independent Governance Organization
 
 * (번역중 : 오연호)
 * (1차 리뷰 : )
@@ -89,4 +89,58 @@ There is no reason to get fancy, though. Earlier in this book, we mentioned a fe
 * (2차 리뷰 반영 : )
 * ...
 
+#### 독립된 관리 조직(Organization) 에 프로젝트 릴리즈하기
 
+Suppose that you have followed the advice of this book and the resources to
+which we’ve pointed you. Your project looks like a success and is being adopted
+by people outside your organization. When the project is big and stable enough,
+it’s probably valuable to make it independent from your company. This will fur‐
+ther encourage other organizations to support it, financially and otherwise. It will
+announce to the world that the project is sustainable and does not depend on
+your own management decisions for its future, which in turn will draw more
+people to use it and contribute to it. But because making an independent founda‐
+tion is a lot of work, you should wait for clear evidence that it’s important; for
+instance, requests from major contributors or the need to raise funds outside
+your own organization.
+
+여러분이 이 책의 조언과 자료들을 잘 따라왔다고 가정해 봅시다.
+여러분의 프로젝트는 성공한 것처럼 보일 것이며, 조직 외부사람들에게도 알려지고
+채택될 겁니다. 프로젝트가 커지고 충분히 안정되면, 프로젝트를 여러분의 회사로부터
+독립시키는 것이 중요합니다. 이는 다른 조직들이 재정적으로, 혹은 다른 방법으로
+해당 프로젝트를 지원하는 일이 늘어나는 것을 도와줍니다.
+또한 이를 통해서 해당 프로젝트가 지속성 있고, 미래에 대한 의사결정이
+여러분 개인의 판단에 의존하지 않을 것을 세상에 알릴 수 있습니다.
+따라서 더 많은 사람들이 프로젝트를 사용하고, 기여할 것입니다.
+하지만 독립 재단을 설립하는 건 고된 일입니다. 따라서 여러분은 프로젝트를
+독립시켜야겠다는 확신이 있어야 합니다; 예를 들자면, 주요 기여자의 요청이 들어오거나
+여러분의 조직 외부에서 자금을 모아야 할때 말이죠.
+
+Setting up a foundation is a complex task. A few major projects set up independ‐
+ent foundations, such as [Linux], [Mozilla], and [OpenStack], but the vast majority of
+open source projects—even such popular tools as the [Spark data processing tool]
+—work under the auspices of an existing foundation. [The Apache Software Foundation],
+[Eclipse Foundation], and [Linux Foundation] sponsor wide varieties of
+software that extend beyond their original missions. Other organizations serve
+particular industries, such as [HL7] for health care and [Automotive Grade Linux]
+for software in cars.
+
+재단을 세운다는건 복잡한 일입니다. 물론 [Linux], [Mozilla], [OpenStack] 등의
+몇몇 주요 프로젝트는 독립 재단을 세웠지만, 대부분의 오픈소스 프로젝트는
+-[Spark data processing tool] 등의 유명한 툴도 포함해서- 기존 재단의 후원 하에
+있습니다. [아파치 소프트웨어 재단], [이클립스 재단], [리눅스 재단] 은 자신들의
+원래 임무를 뛰어넘는 다양한 소프트웨어를 후원합니다. 이외에도 특정 산업을 취급하는
+건강 관리를 위한 [HL7] 이나 자동차 소프트웨어를 위한 [Automotive Grade Linux] 등의
+조직들도 있습니다.
+
+[Linux]: http://bit.ly/2LQAtWa
+[Mozilla]: https://mzl.la/2HOXeaO
+[OpenStack]: http://bit.ly/2LPYjBx
+[Spark data processing tool]: https://spark.apache.org/
+[The Apache Software Foundation]: http://bit.ly/2JCHspm
+[Eclipse Foundation]: http://bit.ly/2MsxzZd
+[Linux Foundation]: http://bit.ly/2JAiZRr
+[아파치 소프트웨어 재단]: http://bit.ly/2JCHspm
+[이클립스 재단]: http://bit.ly/2MsxzZd
+[리눅스 재단]: http://bit.ly/2JAiZRr
+[HL7]: http://www.hl7.org/
+[Automotive Grade Linux]: https://www.automotivelinux.org/
