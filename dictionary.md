@@ -16,5 +16,5 @@
 | Open Source | 오픈소스 |
 | Process | 프로세스 |
 | Project | 프로젝트 |
-| Resource | 자원 |
+| Resource | 자료 또는 자원 |
 | Software    | 소프트웨어 |

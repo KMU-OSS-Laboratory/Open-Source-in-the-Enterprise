@@ -83,8 +83,7 @@ There is no reason to get fancy, though. Earlier in this book, we mentioned a fe
 #### Release the Project to an Independent Governance Organization
 
 * (번역중 : 오연호)
-* (1차 리뷰 : )
-* (1차 리뷰 반영 : )
+* (1차 리뷰 완료 : 이민석)
 * (2차 리뷰 : )
 * (2차 리뷰 반영 : )
 * ...
@@ -93,34 +92,28 @@ There is no reason to get fancy, though. Earlier in this book, we mentioned a fe
 
 Suppose that you have followed the advice of this book and the resources to
 which we’ve pointed you. Your project looks like a success and is being adopted
-by people outside your organization. When the project is big and stable enough,
+by people outside your organization. 
+When the project is big and stable enough,
 it’s probably valuable to make it independent from your company. This will fur‐
-ther encourage other organizations to support it, financially and otherwise. It will
-announce to the world that the project is sustainable and does not depend on
-your own management decisions for its future, which in turn will draw more
-people to use it and contribute to it. But because making an independent founda‐
-tion is a lot of work, you should wait for clear evidence that it’s important; for
-instance, requests from major contributors or the need to raise funds outside
-your own organization.
+ther encourage other organizations to support it, financially and otherwise. It will announce to the world that the project is sustainable and does not depend on your own management decisions for its future, 
+which in turn will draw more people to use it and contribute to it. 
+But because making an independent foundation is a lot of work, you should wait for clear evidence that it’s important; 
+for instance, requests from major contributors or the need to raise funds outside your own organization.
 
 여러분이 이 책의 조언과 자료들을 잘 따라왔다고 가정해 봅시다.
-여러분의 프로젝트는 성공한 것처럼 보일 것이며, 조직 외부사람들에게도 알려지고
-채택될 겁니다. 프로젝트가 커지고 충분히 안정되면, 프로젝트를 여러분의 회사로부터
+여러분의 프로젝트는 성공한 것처럼 보일 것이며, 조직 외부사람들에게도 알려지고 채택될 겁니다. 
+프로젝트가 커지고 충분히 안정되면, 프로젝트를 회사로부터
 독립시키는 것이 중요합니다. 이는 다른 조직들이 재정적으로, 혹은 다른 방법으로
-해당 프로젝트를 지원하는 일이 늘어나는 것을 도와줍니다.
-또한 이를 통해서 해당 프로젝트가 지속성 있고, 미래에 대한 의사결정이
-여러분 개인의 판단에 의존하지 않을 것을 세상에 알릴 수 있습니다.
-따라서 더 많은 사람들이 프로젝트를 사용하고, 기여할 것입니다.
-하지만 독립 재단을 설립하는 건 고된 일입니다. 따라서 여러분은 프로젝트를
-독립시켜야겠다는 확신이 있어야 합니다; 예를 들자면, 주요 기여자의 요청이 들어오거나
-여러분의 조직 외부에서 자금을 모아야 할때 말이죠.
+그 프로젝트를 더 잘 지원하는 것을 도와줍니다.
+또 이를 통해서 해당 프로젝트가 지속성 있고, 프로젝트의 미래에 대한 의사결정이
+회사의 경영적 판단에 의존하지 않을 것을 세상에 알리는 길이기도 합니다.
+그럼으로써 더 많은 사람들이 프로젝트를 사용하고, 기여할 것입니다.
+하지만 그 프로젝트를 위해 독립적인 재단을 설립하는 것은 일이 매우 많아서 정말 재단 설립이 중요한지에 대한 명확한 이유가 생긴 후에 진행합니다. 예를 들면, 주요 기여자들의 요청이 있거나 외부의 조직에서 자금을 모아야 할때 말이죠.
 
-Setting up a foundation is a complex task. A few major projects set up independ‐
-ent foundations, such as [Linux](http://bit.ly/2LQAtWa), [Mozilla](https://mzl.la/2HOXeaO),
+Setting up a foundation is a complex task. A few major projects set up independent foundations, such as [Linux](http://bit.ly/2LQAtWa), [Mozilla](https://mzl.la/2HOXeaO),
 and [OpenStack](http://bit.ly/2LPYjBx), but the vast majority of
 open source projects—even such popular tools as the
-[Spark data processing tool](https://spark.apache.org/) —work under the auspices
-of an existing foundation. [The Apache Software Foundation](http://bit.ly/2JCHspm),
+[Spark data processing tool](https://spark.apache.org/) —work under the auspices of an existing foundation. [The Apache Software Foundation](http://bit.ly/2JCHspm),
 [Eclipse Foundation](http://bit.ly/2MsxzZd), and [Linux Foundation](http://bit.ly/2JAiZRr)
 sponsor wide varieties of software that extend beyond their original missions.
 Other organizations serve particular industries, such as [HL7](http://www.hl7.org/)
@@ -132,7 +125,6 @@ for software in cars.
 몇몇 주요 프로젝트는 독립 재단을 세웠지만, 대부분의 오픈소스 프로젝트는
 -[Spark 데이터 처리 툴](https://spark.apache.org/) 등의 유명한 툴도 포함해서-
 기존 재단의 후원 하에 있습니다. [아파치 소프트웨어 재단](http://bit.ly/2JCHspm),
-[이클립스 재단](http://bit.ly/2MsxzZd), [리눅스 재단](http://bit.ly/2JAiZRr) 은 자신들의
-원래 임무를 뛰어넘는 다양한 소프트웨어를 후원합니다. 이외에도 특정 산업을 취급하는
-건강 관리를 위한 [HL7](http://www.hl7.org/) 이나 자동차 소프트웨어를 위한
-[Automotive Grade Linux](https://www.automotivelinux.org/) 등의 조직들도 있습니다.
+[이클립스 재단](http://bit.ly/2MsxzZd), [리눅스 재단](http://bit.ly/2JAiZRr) 등은 자신들의 원래 미션을 뛰어넘는 다양한 소프트웨어를 후원합니다. 
+그밖에도 헬스케어 분야의 [HL7](http://www.hl7.org/)이나 자동차 분야의
+[Automotive Grade Linux](https://www.automotivelinux.org/) 등, 특정 산업을 취급하는 조직들도 있습니다.
