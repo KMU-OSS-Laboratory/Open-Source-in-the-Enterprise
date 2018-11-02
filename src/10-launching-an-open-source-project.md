@@ -88,7 +88,7 @@ There is no reason to get fancy, though. Earlier in this book, we mentioned a fe
 * (2차 리뷰 반영 : )
 * ...
 
-#### 독립된 관리 조직(Organization) 에 프로젝트 릴리즈하기
+#### 독립된 관리 조직에 프로젝트 릴리즈하기
 
 Suppose that you have followed the advice of this book and the resources to
 which we’ve pointed you. Your project looks like a success and is being adopted

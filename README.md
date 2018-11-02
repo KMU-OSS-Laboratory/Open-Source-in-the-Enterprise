@@ -60,7 +60,7 @@ CC-BY-NC 4.0 International Public License에 의거하여
   - Make Life Easy for Newbies (번역중:이서연)
   - Keep Up Communication (**할당 안됨**)
   - Adopt Metrics and Measurement (번역중:오연호)
-  - Release the Project to an Independent Governance Organization (번역중:오연호)
+  - Release the Project to an Independent Governance Organization (1차리뷰완료)
 * [Open Source and the Cloud](src/11-open-source-and-the-cloud.md) (번역중:정원혁)
 * [Conclusion](src/12-conclusion.md) (번역중:이민석)
 * [About Authors](src/13-about-authors.md) (번역완료)
