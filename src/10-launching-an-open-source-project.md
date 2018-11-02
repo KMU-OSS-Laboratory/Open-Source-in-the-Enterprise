@@ -116,31 +116,23 @@ your own organization.
 여러분의 조직 외부에서 자금을 모아야 할때 말이죠.
 
 Setting up a foundation is a complex task. A few major projects set up independ‐
-ent foundations, such as [Linux], [Mozilla], and [OpenStack], but the vast majority of
-open source projects—even such popular tools as the [Spark data processing tool]
-—work under the auspices of an existing foundation. [The Apache Software Foundation],
-[Eclipse Foundation], and [Linux Foundation] sponsor wide varieties of
-software that extend beyond their original missions. Other organizations serve
-particular industries, such as [HL7] for health care and [Automotive Grade Linux]
+ent foundations, such as [Linux](http://bit.ly/2LQAtWa), [Mozilla](https://mzl.la/2HOXeaO),
+and [OpenStack](http://bit.ly/2LPYjBx), but the vast majority of
+open source projects—even such popular tools as the
+[Spark data processing tool](https://spark.apache.org/) —work under the auspices
+of an existing foundation. [The Apache Software Foundation](http://bit.ly/2JCHspm),
+[Eclipse Foundation](http://bit.ly/2MsxzZd), and [Linux Foundation](http://bit.ly/2JAiZRr)
+sponsor wide varieties of software that extend beyond their original missions.
+Other organizations serve particular industries, such as [HL7](http://www.hl7.org/)
+for health care and [Automotive Grade Linux](https://www.automotivelinux.org/)
 for software in cars.
 
-재단을 세운다는건 복잡한 일입니다. 물론 [Linux], [Mozilla], [OpenStack] 등의
+재단을 세운다는건 복잡한 일입니다. 물론 [Linux](http://bit.ly/2LQAtWa),
+[Mozilla](https://mzl.la/2HOXeaO), [OpenStack](http://bit.ly/2LPYjBx) 등의
 몇몇 주요 프로젝트는 독립 재단을 세웠지만, 대부분의 오픈소스 프로젝트는
--[Spark data processing tool] 등의 유명한 툴도 포함해서- 기존 재단의 후원 하에
-있습니다. [아파치 소프트웨어 재단], [이클립스 재단], [리눅스 재단] 은 자신들의
+-[Spark 데이터 처리 툴](https://spark.apache.org/) 등의 유명한 툴도 포함해서-
+기존 재단의 후원 하에 있습니다. [아파치 소프트웨어 재단](http://bit.ly/2JCHspm),
+[이클립스 재단](http://bit.ly/2MsxzZd), [리눅스 재단](http://bit.ly/2JAiZRr) 은 자신들의
 원래 임무를 뛰어넘는 다양한 소프트웨어를 후원합니다. 이외에도 특정 산업을 취급하는
-건강 관리를 위한 [HL7] 이나 자동차 소프트웨어를 위한 [Automotive Grade Linux] 등의
-조직들도 있습니다.
-
-[Linux]: http://bit.ly/2LQAtWa
-[Mozilla]: https://mzl.la/2HOXeaO
-[OpenStack]: http://bit.ly/2LPYjBx
-[Spark data processing tool]: https://spark.apache.org/
-[The Apache Software Foundation]: http://bit.ly/2JCHspm
-[Eclipse Foundation]: http://bit.ly/2MsxzZd
-[Linux Foundation]: http://bit.ly/2JAiZRr
-[아파치 소프트웨어 재단]: http://bit.ly/2JCHspm
-[이클립스 재단]: http://bit.ly/2MsxzZd
-[리눅스 재단]: http://bit.ly/2JAiZRr
-[HL7]: http://www.hl7.org/
-[Automotive Grade Linux]: https://www.automotivelinux.org/
+건강 관리를 위한 [HL7](http://www.hl7.org/) 이나 자동차 소프트웨어를 위한
+[Automotive Grade Linux](https://www.automotivelinux.org/) 등의 조직들도 있습니다.
