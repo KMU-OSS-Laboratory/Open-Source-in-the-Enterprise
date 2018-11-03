@@ -17,6 +17,7 @@
 #### Participating in a Project’s Community
 
 #### Contributing to Open Source Projects
+* [whitepaper](https://drive.google.com/file/d/1woaZ0wjQMbLQhyfB8ZOYveh8cW-jlDPG/view) : https://drive.google.com/file/d/1woaZ0wjQMbLQhyfB8ZOYveh8cW-jlDPG/view
 
 #### Launching an Open Source Project
 
