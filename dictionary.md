@@ -8,16 +8,16 @@
 | 영어 단어, 단어 조합  | 한글 표현 |
 |--|--|
 | Best Practice | 모범 사례 |
+| Business | 비즈니스 |
 | Cloud | 클라우드 |
+| Committer | 커미터 | 
 | Community | 커뮤니티 |
 | Contribution | 기여 또는 공헌 |
+| Contributor | 컨트리뷰터 또는 기여자 | 
 | Enterprise  | 엔터프라이즈 |
 | License | 라이선스 |
 | Open Source | 오픈소스 |
 | Process | 프로세스 |
 | Project | 프로젝트 |
-| Resource | 자료 또는 자원 |
-| Software    | 소프트웨어 |
-| Business | 비즈니스 |
-| Contributor | 컨트리뷰터 | 
-| Committer | 커미터 | 
+| Resource | 자료 또는 자원 또는 리소스 |
+| Software | 소프트웨어 |
