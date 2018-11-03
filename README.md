@@ -47,7 +47,7 @@ CC-BY-NC 4.0 International Public License에 의거하여
 * [Participating in a Project’s Community](src/08-participating-in-a-projects-community.md) (번역중:윤건영)
   - Quality and Security: A Comparison of Open and Closed Source (번역중:김대희)
 * [Contributing to Open Source Projects](src/09-contributing-to-open-source-project.md) (번역중:김영하)
-  - Establish the “Why” Throughout the Company (번역완료)
+  - Establish the "Why" Throughout the Company (번역완료)
   - Hire from the Community (번역완료)
   - Develop Mentoring and Support (번역완료)
   - Set Rules for Participation (**할당 안됨**)

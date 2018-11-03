@@ -10,7 +10,7 @@
 | Best Practice | 모범 사례 |
 | Cloud | 클라우드 |
 | Community | 커뮤니티 |
-| Contributtion | 기여 또는 공헌 |
+| Contribution | 기여 또는 공헌 |
 | Enterprise  | 엔터프라이즈 |
 | License | 라이선스 |
 | Open Source | 오픈소스 |
@@ -18,3 +18,6 @@
 | Project | 프로젝트 |
 | Resource | 자료 또는 자원 |
 | Software    | 소프트웨어 |
+| Business | 비즈니스 |
+| Contributor | 컨트리뷰터 | 
+| Committer | 커미터 | 
