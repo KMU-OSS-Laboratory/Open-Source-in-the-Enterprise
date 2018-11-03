@@ -64,7 +64,7 @@ There is no reason to get fancy, though. Earlier in this book, we mentioned a fe
 
 #### Keep Up Communication
 
-* (번역중 : 이민석)
+* (번역완료)
 * (1차 리뷰 : )
 * (1차 리뷰 반영 : )
 * (2차 리뷰 : )
@@ -73,6 +73,7 @@ There is no reason to get fancy, though. Earlier in this book, we mentioned a fe
 
 Talking with a community goes beyond public relations, which typically focus on press releases about major events. You want the community and the world at large to know about evolution in the project before, during, and after each step. Encourage your employees to blog and use social media in appropriate ways to get the news out. Consider a commitment to recruit an informative post at least once every two weeks from someone in the community (and even more often for large projects) along with regular tweets. A small investment in branding, such as stickers that community members can put on their laptops, or socks and t-shirts, shows pride in the project and gets the name where it is seen by the people you want. Such practices attract new users and remind existing community members that you have a vibrant project.
 
+보통 주요 이벤트에 대한 보도에 집중하는 PR(public relation) 활동과 달리 커뮤니티와의 소통은 그 이상을 필요로 합니다. 회사라면 커뮤니티와 전 세계가 프로젝트 진행 단계의 이전, 과정 및 이후의 진화에 대해 알기를 원할 것입니다. 직원들이 블로그에 글을 게시하거나 소셜미디어 사용하여 그 새로운 소식을 전하도록 독려해야 합니다. 커뮤니티 내의 누군가가 적어도 2 주일에 한 번 이상은 (큰 프로젝트의 경우 더 자주) 정기적인 트윗을 반드시 해야한다고 정할 수도 있습니다. 커뮤니티 멤버들이 노트북이나 양말 및 티셔츠 등에 붙일 수 있는 스티커를 만드는 것과 같은 작은 브랜드 투자는 프로젝트에 대한 자부심을 드러내고, 참여를 하면 좋겠다고 생각하는 사람들이 볼 수 있도록 프로젝트 이름을 알리는데 도움이 됩니다. 이런 활동은 새로운 사용자를 유치하고 기존 커뮤니티 멤버들에게 이 프로젝트가 활발한 활동을 하는 프로젝트 임을 상기시킵니다.
 
 #### Adopt Metrics and Measurement
 
