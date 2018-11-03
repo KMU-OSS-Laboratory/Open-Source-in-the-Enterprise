@@ -30,7 +30,7 @@ CC-BY-NC 4.0 International Public License에 의거하여
 * [Acknowledgments](src/00-acknowledgments.md) (번역완료)
 * [역자 서문](src/01-preface.md) (작성중:이민석)
 * [Table of Contents](src/02-toc.md) (번역중:이민석)
-* [Open Source in the Enterprise](src/03-open-source-in-the-enteprise.md) (번역중:홍승환)
+* [Open Source in the Enterprise](src/03-open-source-in-the-enteprise.md) (번역완료)
 * [Why Are Companies and Governments Turning to Open Source?](src/04-why-are-companies-and-governments-turning-to-open-source.md) (번역중:홍승환)
 * [More Than a License or Even Code](src/05-more-than-a-license-or-even-code.md) (번역중:정원혁)
 * [Groundwork for Understanding Open Source](src/06-groundworks-for-understanding-open-source.md) (번역중:이윤준)
