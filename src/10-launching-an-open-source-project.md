@@ -64,12 +64,15 @@ There is no reason to get fancy, though. Earlier in this book, we mentioned a fe
 
 #### Keep Up Communication
 
-* (번역중 : 할당안됨)
+* (번역중 : 이민석)
 * (1차 리뷰 : )
 * (1차 리뷰 반영 : )
 * (2차 리뷰 : )
 * (2차 리뷰 반영 : )
 * ...
+
+Talking with a community goes beyond public relations, which typically focus on press releases about major events. You want the community and the world at large to know about evolution in the project before, during, and after each step. Encourage your employees to blog and use social media in appropriate ways to get the news out. Consider a commitment to recruit an informative post at least once every two weeks from someone in the community (and even more often for large projects) along with regular tweets. A small investment in branding, such as stickers that community members can put on their laptops, or socks and t-shirts, shows pride in the project and gets the name where it is seen by the people you want. Such practices attract new users and remind existing community members that you have a vibrant project.
+
 
 #### Adopt Metrics and Measurement
 
