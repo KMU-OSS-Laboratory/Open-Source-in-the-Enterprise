@@ -66,7 +66,7 @@ Your employees will need training, both to work with the new code you are handin
 
 #### Set Rules for Participation
 
-* (번역중 : 할당 안됨)
+* (번역중 : 김정묵)
 * (1차 리뷰 : )
 * (1차 리뷰 반영 : )
 * (2차 리뷰 : )
@@ -75,7 +75,7 @@ Your employees will need training, both to work with the new code you are handin
 
 #### Foster Open Communication
 
-* (번역중 : 할당 안됨)
+* (번역중 : 김정묵)
 * (1차 리뷰 : )
 * (1차 리뷰 반영 : )
 * (2차 리뷰 : )
