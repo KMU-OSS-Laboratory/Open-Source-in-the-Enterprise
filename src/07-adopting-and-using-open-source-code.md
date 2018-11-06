@@ -20,7 +20,7 @@
 
 #### Formalize Your Strategy Through an OSPO
 
-* (번역중 : 할당안됨)
+* (번역중 : 허경영)
 * (1차 리뷰 : )
 * (1차 리뷰 반영 : )
 * (2차 리뷰 : )
@@ -29,7 +29,7 @@
 
 #### Build Ties Throughout the Company
 
-* (번역중 : 할당안됨)
+* (번역중 : 허경영)
 * (1차 리뷰 : )
 * (1차 리뷰 반영 : )
 * (2차 리뷰 : )
