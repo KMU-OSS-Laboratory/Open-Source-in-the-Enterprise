@@ -13,6 +13,7 @@
 #### Groundwork for Understanding Open Source
 
 #### Adopting and Using Open Source Code
+* [open source templates](https://github.com/todogroup/policies)
 
 #### Participating in a Project’s Community
 
