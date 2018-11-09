@@ -17,6 +17,7 @@
 | Enterprise  | 엔터프라이즈 |
 | License | 라이선스 |
 | Open Source | 오픈소스 |
+| OSPO(Open Source Project Office) | 오픈소스 프로젝트 부서 |
 | Process | 프로세스 |
 | Project | 프로젝트 |
 | Pull Request | ?? |
