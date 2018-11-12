@@ -7,7 +7,11 @@
 * (2차 리뷰 반영 : )
 * ...
 
+We trust you are curious what open source code can offer, and perhaps eager to find code that can solve a business need. This section summarizes the key processes you need to adopt to successfully use other people’s open source code. The resources cited earlier in the book go into much more detail.
+
 ### 오픈소스 코드의 도입과 사용
+
+오픈소스 코드가 무엇을 제공할 수 있는지 궁금해하고, 비지니스 요구를 해결할 수 있는 코드를 찾고 싶을 것입니다. 이 섹션에는 다른 사람의 오픈소스 코드를 성공적으로 사용하기 위해 채택해야 하는 주요 프로세스가 요약되어 있습니다.  이 책의 앞부분에 인용된 자료는 훨씬 더 자세하게 설명되어 있습니다.
 
 #### Create and Document an Internal Open Source Policy
 
@@ -17,6 +21,36 @@
 * (2차 리뷰 : )
 * (2차 리뷰 반영 : )
 * ...
+
+#### 내부 오픈소스 정책 생성 및 문서화
+Your development team should know exactly what open source code it is using, and where. This tracking is done by your OSPO or by a virtual team of employees if you have not yet set up an OSPO. Tracking has two main purposes: establishing an audit trail to demonstrate that you are using the code properly, and ensuring that you comply with the license obligations on your third-party open source dependencies. Collecting this information is critical for many reasons; most organizations do so through automated tools in their development cycle.
+
+개발팀은 사용중인 오픈소스 코드를 정확히 알고 있어야합니다. 이 추적은 OSPO에서 수행하거나 또는 OSPO를 아직 설정하지 않은 경우 직원의 가상팀에 의해 수행합니다.  추적에는 두가지 주요 목적이 있습니다: 코드를 올바르게 사용하고 있음을 입증하기 위한 감사 기록을 설정하고, 제3자 오픈소스 종속성에 대한 라이선스 의무를 준수하는지 확인함 이 정보를 수집하는 것은 여러 가지 이유로 매우 중요합니다; 대부분의 조직은 개발 주기에 맞게 자동화된 도구를 통해 정보를 수집합니다.
+
+Writing a strategy paper is valuable to educate managers and employees. Think big and aim for the end state that you are trying to achieve. At the same time, frame the broad, high-level goals in the context of business outcomes. Here are some points that have been have used successfully to explain what open source can do for an organization:
+-	Attract and retain talent
+-	Increase agility, drive innovation, and accelerate the creation of business value
+-	Reduce costs and improve efficiency by focusing your staff on writing business logic and by eliminating reinvent-the-wheel heavy lifting
+-	Generate revenue or gain market share, either through your product or through thought leadership
+
+전략 보고서를 작성하는 것은 관리자와 직원을 교육하는데 중요합니다. 크게 생각하고 당신이 성취하고자 하는 최종 상태를 목표로 삼으십시오.  동시에 비지니스 성과 측면에서 광범위한 상위 목표를 수립하십시오.  다음은 오픈소스가 조직을 위해 할 수 있는 것을 설명하는데 성공적으로 사용된 몇가지 사항입니다:
+-	인재를 끌어들이고 유지합니다. 
+-	민첩성을 높이고, 혁신을 주도하며, 비지니스 가치 창출을 가속화합니다.
+-	비지니스 로직 작성에 집중하고, 쓸데 없는 일에 낭비하는 시간을 제거함으로 비용을 절감하고 효율성을 향상 시킵니다. 
+-	제품 또는 리더쉽 사고를 통해 수익을 창출하거나 시장 점유율을 확보합니다.
+
+Break down your strategy into milestones. This allows you to assign ownership and speed up the delivery of the multiple processes that are needed. In terms of strategy, think about these:
+-	Open source governance and policies that clarify to the broader company how and when it can use open source
+-	Policies specifying how developers can contribute to external open source projects: roles and time spent
+-	Encouraging an open policy in applicable software projects from the start among technology leadership and enterprise architecture groups
+-	Starting an InnerSource model in tandem, in which you adopt open source practices for internal development across your entire company
+
+Because the adoption of open source crosses many organizational boundaries and can lead to new organizational structures, you might need to explore the creation of new policies that allow developers to collaborate internally across those structures.
+It is important to find a senior sponsor who will help open doors and champion your cause. This can be the most difficult task we describe in this section, but it is critical. You will need the sponsor on your journey. Make your strategy paper compelling, and they will buy into your high-level, long-range vision. Aim for CTO or CIO support, but be prepared to have to work your way up to that.
+Legal staff need to be trained to understand licenses that might be radically different from anything they have dealt with previously. The marketing and PR teams also need to discuss the effects of open source on your practices, quality, and responsiveness to customers. This requires them to study open source practices, collaborate on communication with the communities, and translate these new practices into interactions with your customers. Members of the open source community that you’re joining (and probably hiring from) can explain to your marketing team the importance of attending and supporting events held by the community. In addition, the sales team needs to understand licensing well enough to answer questions about using and extending the code, when presenting your solution to customers.
+If you don’t have a clear process, you risk having someone incorporate open source code informally without following good practices. Not only could this violate the code’s license, but it deprives you of the benefits of properly using open source code. For instance, critical bug fixes are released regularly by open source projects, and you need to know where you’re using this code in order to install the fixes. Instituting clear processes also allows your employees to become valued members of the community and represent your organization’s needs there. Finally, a clear and well-communicated policy leads to dramatically more participation and more awareness of your open source initiative throughout the company.
+
+전략을 이정표로 세분화하십시오. 이를 통해 소유권을 할당하고 필요한 여러 프로세스를 신속하게 제공할 수 있습니다.  전략 측면에서 다음 사항을 고려하십시오. 
 
 #### Formalize Your Strategy Through an OSPO
 
