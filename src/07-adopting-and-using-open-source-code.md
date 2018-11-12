@@ -96,6 +96,18 @@ These outreach activities all help demystify open source and accustom the employ
 
 #### Ego and Open Source
 
+Ego and Open Source
+
+It is natural to take pride in creative output. Software is rarely any longer a single person’s ingenious inspiration in the way Donald Knuth developed TEX and Metafont on his own. But even when software requires team effort, working tightly together as a team provides its own sense of a unique shared identity. Furthermore, the team can boost a developer’s personal needs. It’s easy in a closeknit  group for each member to know the other’s strengths. A manager can see exactly how someone contributed and base pay increases and promotions on those contributions.
+
+This psychological and practical reward structure is profoundly changed by open source. We must consider how each developer finds personal fulfillment and anacknowledgment of their contributions in an open source context.
+
+When starting or joining an open source project, a team must give up some control and must learn to work within much more amorphous groups of people who come and go, all motivated by different goals. But ultimately, the individual has an even greater chance to shine on an open source project, because every contribution is available for the world to see. It might turn up in distantly related projects that were never imagined. And demonstrating solid contributions that other people choose to adopt is a wonderful boost to a job application. Open source also rewards people who have skills in communication, project and people management, design, web development, documentation, translation, and much more in addition to coding chops. All contributions matter in a project.
+
+This high visibility of open source projects can also scare managers who worry that their best contributors will be lured by higher salaries or more prestigious jobs offered by a competitor. The solution to that problem is to be that competitor. Make sure your employees have the time to contribute to the open source software you use, both as coders and in a leadership role. Give them the freedom to run with good ideas and provide them the resources to implement useful tools that developers or teams come up with. If you have star performers, encourage them to join boards and speak at conferences. They will help turn your companyinto a magnet for other top developers
+
+
+
 * (번역중 : 윤종민)
 * (1차 리뷰 : )
 * (1차 리뷰 반영 : )
