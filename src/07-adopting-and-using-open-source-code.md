@@ -1,8 +1,7 @@
 ### Adopting and Using Open Source Code
 
-* (번역중 : 장학성)
-* (1차 리뷰 : )
-* (1차 리뷰 반영 : )
+* (번역완료)
+* (1차 리뷰 완료)
 * (2차 리뷰 : )
 * (2차 리뷰 반영 : )
 * ...
@@ -23,9 +22,10 @@ We trust you are curious what open source code can offer, and perhaps eager to f
 * ...
 
 #### 내부 오픈소스 정책 생성 및 문서화
+
 Your development team should know exactly what open source code it is using, and where. This tracking is done by your OSPO or by a virtual team of employees if you have not yet set up an OSPO. Tracking has two main purposes: establishing an audit trail to demonstrate that you are using the code properly, and ensuring that you comply with the license obligations on your third-party open source dependencies. Collecting this information is critical for many reasons; most organizations do so through automated tools in their development cycle.
 
-개발팀은 사용중인 오픈소스 코드를 정확히 알고 있어야합니다. 이 추적은 OSPO에서 수행하거나 또는 OSPO를 아직 설정하지 않은 경우 직원의 가상팀에 의해 수행합니다.  추적에는 두가지 주요 목적이 있습니다: 코드를 올바르게 사용하고 있음을 입증하기 위한 감사 기록을 설정하고, 제3자 오픈소스 종속성에 대한 라이선스 의무를 준수하는지 확인함 이 정보를 수집하는 것은 여러 가지 이유로 매우 중요합니다; 대부분의 조직은 개발 주기에 맞게 자동화된 도구를 통해 정보를 수집합니다.
+개발팀은 어떤 오픈소스 코드가 어디에 사용 중인지 정확히 알고 있어야합니다. 이 추적은 OSPO에서 수행하거나 또는 OSPO가 아직 만들어지지 않은 경우 직원으로 구성된 가상적인팀에 의해 수행합니다.  추적에는 두가지 주요 목적이 있습니다. 코드를 올바르게 사용하고 있음을 입증하기 위한 감사 기록을 남기고, 제3자 오픈소스 종속성에 대한 라이선스 의무를 준수하는지 확인하는 것입니다. 이 정보를 수집하는 것은 여러 가지 이유로 매우 중요합니다. 대부분의 조직에서는 개발 사이클 안에 자동화된 도구를 포함시켜 이 정보를 수집합니다.
 
 Writing a strategy paper is valuable to educate managers and employees. Think big and aim for the end state that you are trying to achieve. At the same time, frame the broad, high-level goals in the context of business outcomes. Here are some points that have been have used successfully to explain what open source can do for an organization:
 -	Attract and retain talent
