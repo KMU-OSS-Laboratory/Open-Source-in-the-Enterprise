@@ -23,7 +23,7 @@
 
 * [**이 윤준**](mailto:) : 
 
-* [**장 학성**](mailto:) :
+* [**장 학성**](mailto:hakssung@gmail.com) : https://github.com/hakssung
 
 * [**정 원혁**](mailto:) :
 
