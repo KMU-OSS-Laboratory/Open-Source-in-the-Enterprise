@@ -77,11 +77,11 @@ Your employees will need training, both to work with the new code you are handin
 
 Open source changes every organization that adopts it, even just to participate in one outside project. Developers at many levels of the organization, and sometimes other employees, are now exposing their conversations and decisions to public scrutiny. Assume that what a developer says in an online forum for an open source project will be seen by the entire world and will last online forever. This might sound like a reason to discourage participation, but it’s not. It just means that you need to establish rules for online participation, such as a code of conduct that enforces honest but respectful dialog and that lays out the rights of people who regularly experience discrimination or abuse. Many open source projects provide good codes of conduct that you can adopt. Several codes that have been carefully tested and vetted already are offered by the TODO Group. Revised versions of this code of conduct are implemented by companies such as Amazon Web Services across their open source projects.
 
-오픈소스는 단지 외부 프로젝트 하나에 참여하더라도 오픈소스를 채택하는 모든 조직을 변화하게 합니다. 해당 조직에 속한 다양한 수준의 개발자들, 그리고 때로는 그 외의 직원들도 이제는 대화와 결정을 공개 조사에 노출하고 있습니다. 오픈소스 프로젝트 온라인 포럼에서 한 개발자가 한 말이 전세계에 보여지고, 온라인 상에 영원히 남겨진다고 가정해 봅시다. 이게 참여할 의지를 떨어뜨릴 이유 같이 들릴 수 있지만, 실제로는 그렇지 않습니다. 이건 마치 정직하지만 공손한 대화를 강제하고 자주 차별과 학대를 경험하는 사람들의 권리를 규정하는 행동 강령(Code of conduct)과 같은 온라인 참여 시의 규칙을 확립할 필요가 있다는 것을 의미할 뿐 입니다. 많은 오픈소스 프로젝트가 채용할 만한 좋은 행동 강령을 제공하고 있습니다. [TODO Group](https://todogroup.org/opencodeofconduct/)은 주의 깊게 시험하고 검증한 여러 강령을 이미 제공하고 있습니다. 이런 행동 강령의 개정본이 [아마존웹서비스](https://aws.github.io/code-of-conduct.html)와 같은 회사들의 오픈소스 프로젝트들에 대해 시행되고 있습니다.
+오픈소스는 단지 외부 프로젝트 하나에 참여하더라도 오픈소스를 채택하는 모든 조직을 변화하게 합니다. 해당 조직에 속한 다양한 수준의 개발자들, 때로는 다른 직원들도 이제는 대화와 결정 사항을 공개 조사에 노출하고 있습니다. 오픈소스 프로젝트 온라인 포럼에서 한 개발자가 한 말이 전세계에 보여지고, 온라인 상에 영원히 남겨진다고 가정해 봅시다. 이게 참여할 의지를 떨어뜨릴 이유 같이 들릴 수 있지만, 실제로는 그렇지 않습니다. 이건 단지 정직하지만 존중이 담긴 대화를 강제하고, 자주 차별과 학대를 경험하는 사람들의 권리를 규정하는 등의 행동 강령(Code of conduct)과 같은 온라인 참여 시의 규칙을 확립할 필요가 있다는 것을 의미할 뿐 입니다. 많은 오픈소스 프로젝트가 채용할 만한 좋은 행동 강령을 제공하고 있습니다. [TODO Group](https://todogroup.org/opencodeofconduct/)은 주의 깊게 시험하고 검증한 여러 강령을 이미 제공하고 있습니다. 이런 행동 강령의 개정본이 [아마존웹서비스](https://aws.github.io/code-of-conduct.html)와 같은 회사의 오픈소스 프로젝트들에 걸쳐 시행되고 있습니다.
 
 There has recently been a heightened awareness of practices in the computer industry (and other parts of society) that discourage the contributions of women and minorities, or that create a harassing and unsupportive environment. These are habits you’ll want to root out of your organization, regardless of whether they’re exposed to public scrutiny. The company and community must take positive and affirmative steps at diversity and inclusion.
 
-최근 컴퓨터 산업(과 사회의 다른 부분에서) 여성과 소수자들의 기여를 방해하거나 괴롭고 비협조적인 환경을 조성하는 관행에 대한 인식이 높아지고 있습니다. 이런 악습들은 공개 조사로 들어났는지 여부를 떠나 조직에서 근절되길 원할 것입니다. 기업과 커뮤니티는 다양성과 포용성을 위한 긍정적이고 우호적인 조치를 취해야만 합니다.
+최근 컴퓨터 산업(과 사회의 다른 부분에서) 여성과 소수자들의 기여를 좌절시키거나 비협조적이고 고통을 주는 환경을 조성하는 관행에 대한 주의가 높아지고 있습니다. 여러분들도 공개 조사로 들어났는지 여부를 떠나서 이러한 악습들이 조직에서 근절되길 원할 것입니다. 기업과 커뮤니티는 다양성과 포용성을 위한 긍정적이고 우호적인 조치를 취해야만 합니다.
 
 
 #### Foster Open Communication
@@ -92,3 +92,17 @@ There has recently been a heightened awareness of practices in the computer indu
 * (2차 리뷰 : )
 * (2차 리뷰 반영 : )
 * ...
+
+#### 열린 커뮤니케이션을 촉진하기
+
+Beyond showing respect, your developers need to engage with the open source community productively, which might require a culture change. Developers might be used to calling an informal meeting of two to four people and making design decisions informally. Some kinds of Agile and Scrum methodologies encourage this behavior, but they also provide techniques for accepting input from wide swaths of the organization. Therefore, Agile and Scrum can be adapted to open source. In fact, open source is open to a wide range of methodologies.
+
+Developers must now learn to conduct all discussions of significant design issues in forums where the decisions are archived for others to view. For changes that you intend to contribute back to the community, discussions must be on the community mailing list or communication channels everyone can join, such as [Slack](https://slack.com/), [Gitter](https://gitter.im/), [Stack Overflow](https://stackoverflow.com/), or [Google Groups](https://groups.google.com). Otherwise, you will take the community by surprise when you submit changes and will probably fail to get changes accepted.
+
+In addition to providing information in a timely manner, developers must also look beyond the narrow horizons of their team and recognize the value of input from a diverse range of people, either from other parts of your company or from outsiders who might live halfway around the world. This is where techniques of respectful dialog must enter your corporate culture. Developers need other new skills, as well: they must be good listeners, take feedback from a variety of developers, reject unsuitable contributions while encouraging the contributor to learn and try again, and deal with people from different backgrounds with varying language skills.
+
+When developers are accustomed to making design decisions in hallway conversations or over the telephone, they might need some time to learn to make decisions in more open ways and to use the less-intuitive communication media provided by mailing lists and bug trackers. Joining an open source project is an excellent way to raise the priority of good communications, honest disagreement, and open, respectful dialog throughout your organization.
+
+Decisions can take longer when the crowd become involved. If you short-circuit the open source discussion process and make a quick decision in order to get a product out the door, you might need to roll back some of the work done later so that the code can be maintained and can adapt to future needs.
+
+An important side benefit of diligently recording decisions is that the project becomes less dependent on particular individuals and can reorganize itself gracefully if key individuals leave. No single person has unique or irreplaceable information.
