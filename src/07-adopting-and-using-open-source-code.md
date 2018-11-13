@@ -240,14 +240,27 @@ Besides approving these changes, which can be extensive, to the compensation pla
 
 Ego and Open Source
 
+오픈소스와 자부심
+
+
 It is natural to take pride in creative output. Software is rarely any longer a single person’s ingenious inspiration in the way Donald Knuth developed TEX and Metafont on his own. But even when software requires team effort, working tightly together as a team provides its own sense of a unique shared identity. Furthermore, the team can boost a developer’s personal needs. It’s easy in a closeknit  group for each member to know the other’s strengths. A manager can see exactly how someone contributed and base pay increases and promotions on those contributions.
+
+창의적인 결과물에 자부심을 가지는 것은 자연스러운 일입니다. 소프트웨어는 더 이상 도널드 커누스(Donald Knuth)가 혼자서 독창적인 영감으로 TEX와 Metafont를 개발했던 것과 같은 방법으로는 개발하지 않습니다. 팀 내에서 긴밀한 협업을 통하여 소프트웨어 개발을 진행하면, 그 팀만의 정체성이 생깁니다. 게다가 팀으로 하는 작업을 통하여 개발자의 스스로의 역량도 키울 수 있습니다. 서로 긴밀하게 작업을 진행하는 팀에서는 서로의 역량을 쉽게 파악할 수 있습니다. 관리자는 누가 어떻게 기여를 했는지를 정확히 파악할 수 있기 때문에, 그 기여에 따라 연봉 인상 및 승진을 결정할 수 있습니다. 
+
 
 This psychological and practical reward structure is profoundly changed by open source. We must consider how each developer finds personal fulfillment and anacknowledgment of their contributions in an open source context.
 
+이러한 정신적, 실질적 보상이 오픈 소스로 인하여 많이 바뀌고 있습니다. 오픈 소스 관점에서, 개발자스스로의 기여에 대한 개인적인 성취와 보상을 어떤 식으로 원하는지를 알아야 합니다. 
+
+
 When starting or joining an open source project, a team must give up some control and must learn to work within much more amorphous groups of people who come and go, all motivated by different goals. But ultimately, the individual has an even greater chance to shine on an open source project, because every contribution is available for the world to see. It might turn up in distantly related projects that were never imagined. And demonstrating solid contributions that other people choose to adopt is a wonderful boost to a job application. Open source also rewards people who have skills in communication, project and people management, design, web development, documentation, translation, and much more in addition to coding chops. All contributions matter in a project.
+
+오픈 소스 프로젝트를 시작하거나 참여할 때, 프로젝트를 인위적으로 관리하려 해서는 안 되고, 서로 다른 목적을 가지고 참여했다 사라지는 불특정의 사람들과 함께 일하는 법을 배워야 합니다. 프로젝트에 기여한 내용을 누구나 확인할 수 있기 때문에, 오픈소스로 인해서 개인이 빛이 나게 됩니다. 그리고, 상상하지도 못 했던 엉뚱한 프로젝트에서 그 결과가 나타나기도 합니다. 그리고, 다른 여러 곳에서 이 결과를 사용하게 되면, 취업의 기회는 놀랄만큼 확대 됩니다. 코딩 뿐만이 아니라, 소통, 프로젝트와 인력의 관리, 디자인, 웹 개발, 문서화, 번역 등 많은 분야에서 오픈소스에 기여할 수 있습니다. 
+
 
 This high visibility of open source projects can also scare managers who worry that their best contributors will be lured by higher salaries or more prestigious jobs offered by a competitor. The solution to that problem is to be that competitor. Make sure your employees have the time to contribute to the open source software you use, both as coders and in a leadership role. Give them the freedom to run with good ideas and provide them the resources to implement useful tools that developers or teams come up with. If you have star performers, encourage them to join boards and speak at conferences. They will help turn your companyinto a magnet for other top developers
 
+오픈 소스 프로젝트를 통해 노출되는 놀라운 성과로 인하여 관리자는 프로젝트의 최고 기여자를 높은 연봉이나 좋은 자리로 경쟁사에게 빼았기지 않을까하는 우려를 가질 수 있습니다. 이 문제를 해결하는 방법은 바로, 경쟁자가 되는 것입니다. 직원들이 지금 사용하고 있는 오픈 소스 프로젝트에 기여할 수 있도록 하십시오. 지금 사용하고 있는 오픈 소스 프로젝트에 코더나 리더로 기여할 수 있는 기회를 주십시오. 좋은 아이디어를 실행할 수 있는 자유를 주고, 개발자나 팀에서 만들어 낸 유용한 도구를 활용할 수 있는 자원을 제공하십시오. 만일 유명한 개발자를 데리고 있다면, 이사회에 참여시키고, 컨퍼런스를 통해 발표하도록 하십시오. 이렇게 하면, 다른 최고의 개발자를 유혹할 수 있습니다.
 
 
 * (번역중 : 윤종민)
