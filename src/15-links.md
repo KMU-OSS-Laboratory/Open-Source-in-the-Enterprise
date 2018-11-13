@@ -14,13 +14,23 @@
 
 #### Adopting and Using Open Source Code
 
+* [open source templates and policies](https://github.com/todogroup/policies) : https://github.com/todogroup/policies
+* [GitHub](https://github.com/) : https://github.com/
+* [GitLab](https://about.gitlab.com/) : https://about.gitlab.com/
+* [Linux Foundation guide](https://www.linuxfoundation.org/using-open-source-code/) : https://www.linuxfoundation.org/using-open-source-code/
+* [Open Source for the Enterprise](http://shop.oreilly.com/product/9780596101190.do) : http://shop.oreilly.com/product/9780596101190.do
+
 #### Participating in a Project’s Community
 
 #### Contributing to Open Source Projects
+
 * [whitepaper](https://drive.google.com/file/d/1woaZ0wjQMbLQhyfB8ZOYveh8cW-jlDPG/view) : https://drive.google.com/file/d/1woaZ0wjQMbLQhyfB8ZOYveh8cW-jlDPG/view
 
 #### Launching an Open Source Project
 
+* [Open Source Initiative](https://opensource.org/licenses) : https://opensource.org/licenses
+* [라이선스 선별 가이드](https://choosealicense.com/) : https://choosealicense.com/
+* [LibreOffice](https://www.libreoffice.org/) : https://www.libreoffice.org/
 * [Linux](http://bit.ly/2LQAtWa) : http://bit.ly/2LQAtWa
 * [Mozilla](https://mzl.la/2HOXeaO) : https://mzl.la/2HOXeaO
 * [OpenStack](http://bit.ly/2LPYjBx) : http://bit.ly/2LPYjBx
