@@ -7,7 +7,7 @@
 
 * [**김 영하**](mailto:) :
 
-* [**김 정묵**](mailto:) :
+* [**김 정묵**](mailto:aromaticboy@gmail.com) : 오픈소스 스타트업 구성원으로 일하고 있습니다. 가족에게 밥 해주기를 좋아하며 쪼렙 역덕입니다.
 
 * [**박 소은**](mailto:skyhills13@gmail.com) : 행복하게 살기 위해 노력하는 개발자. 웹 서버 관련 기술과 머신러닝에 관심이 많고 게임을 좋아하는 덕후.
 
@@ -21,7 +21,7 @@
 
 * [**이 서연**](mailto:) :
 
-* [**이 윤준**](mailto:) : 
+* [**이 윤준**](mailto:) :
 
 * [**장 학성**](mailto:hakssung@gmail.com) : https://github.com/hakssung
 
@@ -30,5 +30,3 @@
 * [**허 경영**](mailto:bbvch13531@gmail.com) :
 
 * [**홍 승환**](mailto:hj332921@gmail.com) :
-
-

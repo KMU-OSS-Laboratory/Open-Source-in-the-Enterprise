@@ -25,6 +25,12 @@
 #### Contributing to Open Source Projects
 
 * [whitepaper](https://drive.google.com/file/d/1woaZ0wjQMbLQhyfB8ZOYveh8cW-jlDPG/view) : https://drive.google.com/file/d/1woaZ0wjQMbLQhyfB8ZOYveh8cW-jlDPG/view
+* [TODO Group](https://todogroup.org/opencodeofconduct/) : https://todogroup.org/opencodeofconduct/
+* [Amazon Web Services](https://aws.github.io/code-of-conduct.html) : https://aws.github.io/code-of-conduct.html
+* [Slack](https://slack.com/) : https://slack.com/
+* [Gitter](https://gitter.im/) : https://gitter.im/
+* [Stack Overflow](https://stackoverflow.com/) : https://stackoverflow.com/
+* [Google Groups](https://groups.google.com) : https://groups.google.com
 
 #### Launching an Open Source Project
 
