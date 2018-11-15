@@ -12,7 +12,7 @@
 
 #### Establish the “Why” Throughout the Company
 
-* (번역 : 박소은)
+* (번역완료)
 * (1차 리뷰 : )
 * (1차 리뷰 반영 : )
 * (2차 리뷰 : )
@@ -28,7 +28,7 @@ You understand by now that adopting open source is not a matter of copy and past
 
 #### Hire from the Community
 
-* (번역 : 박소은)
+* (번역완료)
 * (1차 리뷰 : )
 * (1차 리뷰 반영 : )
 * (2차 리뷰 : )
@@ -51,7 +51,7 @@ Regardless of how much time you invest in the open source project, a healthy pro
 
 #### Develop Mentoring and Support
 
-* (번역 : 박소은)
+* (번역완료)
 * (1차 리뷰 : )
 * (1차 리뷰 반영 : )
 * (2차 리뷰 : )
@@ -59,6 +59,7 @@ Regardless of how much time you invest in the open source project, a healthy pro
 * ...
 
 #### 멘토링과 지원 마련하기
+
 Your employees will need training, both to work with the new code you are handing them and to join the open source project. If you don’t already have employees comfortable with working in an open source environment—and it’s worth polling your developers to find out, because you might be surprised to learn that some of them have experience with open source—it’s worth hiring developers who do, as explained in the previous section. These developers should also mentor others, because this is a key part of bringing developer resources into open source projects, whether within the company or in the wider community. As mentioned earlier, working on open source projects is an excellent way to improve a company’s developer skills.
 
 여러분 회사의 직원이 회사의 새로운 코드 작업과 오프소스 참여 두가지 모두를 하려면 어느 정도 훈련이 필요할 것입니다. 만약 오픈소스 환경에서 일하는 것이 익숙한 직원이 없다면 - 한번 조사해보면 이미 오픈소스 경험이 있는 직원들도 꽤 된다는 점에 놀랄 것 입니다 - 앞 섹션에서 이야기한 것과 같이 이미 익숙한 직원을 고용하는 것도 괜찮습니다. 이 개발자들은 다른 이들을 멘토링 해야할 의무도 있습니다. 그럼으로써 회사 내부에서든 더 넓은 커뮤니티에서든 개발자들은 오픈 소스 프로젝트에 참여시킬 수 있기 때문입니다. 앞서 언급했듯, 오픈 소스프로젝트에 참여하는 것은 회사의 개발 능력을 향상시키는 훌륭한 방법입니다.
@@ -66,7 +67,7 @@ Your employees will need training, both to work with the new code you are handin
 
 #### Set Rules for Participation
 
-* (번역중 : 김정묵)
+* (번역완료)
 * (1차 리뷰 : )
 * (1차 리뷰 반영 : )
 * (2차 리뷰 : )
@@ -83,10 +84,9 @@ There has recently been a heightened awareness of practices in the computer indu
 
 최근 컴퓨터 산업(과 사회의 다른 부분에서) 여성과 소수자들의 기여를 좌절시키거나 비협조적이고 고통을 주는 환경을 조성하는 관행에 대한 주의가 높아지고 있습니다. 여러분들도 공개 조사로 들어났는지 여부를 떠나서 이러한 악습들이 조직에서 근절되길 원할 것입니다. 기업과 커뮤니티는 다양성과 포용성을 위한 긍정적이고 우호적인 조치를 취해야만 합니다.
 
-
 #### Foster Open Communication
 
-* (번역중 : 김정묵)
+* (번역완료)
 * (1차 리뷰 : )
 * (1차 리뷰 반영 : )
 * (2차 리뷰 : )

@@ -51,7 +51,7 @@ CC-BY-NC 4.0 International Public License에 의거하여
   - Hire from the Community (번역완료)
   - Develop Mentoring and Support (번역완료)
   - Set Rules for Participation (번역완료)
-  - Foster Open Communication (번역중:김정묵)
+  - Foster Open Communication (번역완료)
 * [Launching an Open Source Project](src/10-launching-an-open-source-project.md) (번역중:김영하)
   - Choose a License (1차리뷰완료)
   - Open the Code Right Out of the Gate (번역완료)
