@@ -188,7 +188,7 @@ Also form ties with your procurement colleagues. You can add value here by recom
 
 #### 라이선스의 준수
 
-OSPO 또는 조직 내에서 오픈소스 사용을 추적하는 팀은 라이선스를 준수하는지 확인해야합니다. 라이선스의 기술적 의미를 이해하는 개발자들과 법무팀 모두 주의가 필요합니다. 오픈소스 커뮤니티 참여자들은 오픈소스 라이선스 정합성(compliance)을 보다 간단하고 일관성있게 만들고 더 많은 기업들이 오픈소스 소프트웨어를 사용하도록 권장하기 위해 [OpenChain Project] (https://www.openchainproject.org/)를 구성했습니다. 라이선스 또는 코드의 속성 찾기 자체도 어려울 수 있기 때문에, [ClearlyDefined] (https://clearlydefined.io/about)라는 또 다른 오픈소스 프로젝트로 사용자들이 라이선스 정합성을 위한 정보를 찾고 유지 관리할 수 있도록 도움주고 있습니다. Ibrahim Haddad의 책 [기업에서의 오픈 소스 준수] (http://bit.ly/2HKTXt7)(리눅스 재단, 2016)는 라이선스 정합성 문제를 깊이있게 다루고 있습니다.
+OSPO 또는 조직 내에서 오픈소스 사용을 추적하는 팀은 라이선스를 준수하는지 확인해야합니다. 라이선스의 기술적 의미를 이해하는 개발자들과 법무팀 모두 주의가 필요합니다. 오픈소스 커뮤니티 참여자들은 오픈소스 라이선스 정합성(compliance)을 보다 간단하고 일관성있게 만들고 더 많은 기업들이 오픈소스 소프트웨어를 사용하도록 권장하기 위해 [OpenChain Project](https://www.openchainproject.org/)를 구성했습니다. 라이선스 또는 코드의 속성 찾기 자체도 어려울 수 있기 때문에, [ClearlyDefined](https://clearlydefined.io/about)라는 또 다른 오픈소스 프로젝트로 사용자들이 라이선스 정합성을 위한 정보를 찾고 유지 관리할 수 있도록 도움주고 있습니다. Ibrahim Haddad의 책 [기업에서의 오픈 소스 준수](http://bit.ly/2HKTXt7)(리눅스 재단, 2016)는 라이선스 정합성 문제를 깊이있게 다루고 있습니다.
 
 법무팀과 관계를 잘 설정하고 협력하십시오. 그들은 오픈소스와 관련하여 생기는 일들 거의 확실하게 처리해 줄 것입니다. 예를 들어, 오픈소스 라이선스의 적용을 받는 작업을 승인해주며 회사의 개발자들이 코드를 프로젝트에 제출할 때 필요한 기여자 동의서를 확인해줍니다. 이 과정은 오픈소스의 친숙하지 않은 측면에 대해 협력하고, 강한 관계를 구축하고, 신뢰를 얻을 수 있는 기회입니다. 이 관계를 이용하여 개발 자체와 및 개발자들에게 보다 유리하게 오픈소스 정책을 자리잡게 할 수 있습니다.
 
@@ -205,13 +205,13 @@ OSPO 또는 조직 내에서 오픈소스 사용을 추적하는 팀은 라이�
 
 Even though an outside organization developed the open source code, you need to manage its use within your organization. It should be subject to testing and to checking for back doors and other flaws. You need to set goals and deadlines for incorporating the code into your own, just as when your employees write code for your company, and devote resources to making sure everything goes as planned.
 
-Of course, some tasks are different when you get code from outside. You need to act as part of the community that maintains the code. For instance, you need to integrate your developers with the community’s version control system; this might require an account where the community hosts the code, such as [GitHub(https://github.com/) or [GitLab](https://about.gitlab.com/). If you alter the code (discussed in more detail in [“Contributing to Open Source Projects” on page 17](https://about.gitlab.com/)), you should set up a branch of the version control system for your version or use your own internal version control.
+Of course, some tasks are different when you get code from outside. You need to act as part of the community that maintains the code. For instance, you need to integrate your developers with the community’s version control system; this might require an account where the community hosts the code, such as [GitHub](https://github.com/) or [GitLab](https://about.gitlab.com/). If you alter the code (discussed in more detail in [“Contributing to Open Source Projects” on page 17](https://about.gitlab.com/)), you should set up a branch of the version control system for your version or use your own internal version control.
 
 #### 커뮤니티의 코드를 직접 만든 코드만큼 중요하게 관리하기
 
 외부 조직에서 오픈소스 코드를 개발했다 하더라도, 우리 조직 내에서 사용하려면 그 코드를 관리해야 합니다. 외부 코드도 테스트되어야 하고, 백도어가 있는지 확인해야하고, 기타 결함에 대한 검사를 해야합니다. 외부의 코드를 우리 코드와 통합하는 작업도 내부에서 회사 코드를 작성하는 것과 마찬가지로 목표와 기한을 설정하고 모든 것이 계획대로 진행될 수 있도록 리소스를 투입해야 합니다.
 
-물론 외부에서 코드를 가져오는 경우 일부 작업은 다르게 진행됩니다. 개발자들이 코드를 관리하는 커뮤니티의 일원이 되어야 합니다. 예를 들어, 우리 개발자들이 커뮤니티의 버전 관리 시스템 안에서 일을 해야 합니다. 커뮤니티에서 코드를 호스팅하는 [GitHub (https://github.com/) 또는 [GitLab] (https://about.gitlab.com/)의 계정이 필요합니다. 코드를 수정하려면 (**17 페이지의** ["오픈 소스 프로젝트에 기여"](09-contributing-to-open-source-project.md)에서 자세히 설명 됨), 버전 관리 시스템에서 수정을 위한 브랜치 만들거나, 작업을 위한 내부 버전 관리 시스템을 사용해야 합니다.
+물론 외부에서 코드를 가져오는 경우 일부 작업은 다르게 진행됩니다. 개발자들이 코드를 관리하는 커뮤니티의 일원이 되어야 합니다. 예를 들어, 우리 개발자들이 커뮤니티의 버전 관리 시스템 안에서 일을 해야 합니다. 커뮤니티에서 코드를 호스팅하는 [GitHub](https://github.com/) 또는 [GitLab](https://about.gitlab.com/)의 계정이 필요합니다. 코드를 수정하려면 (**17 페이지의** ["오픈 소스 프로젝트에 기여"](09-contributing-to-open-source-project.md)에서 자세히 설명 됨), 버전 관리 시스템에서 수정을 위한 브랜치 만들거나, 작업을 위한 내부 버전 관리 시스템을 사용해야 합니다.
 
 #### Change Your Reward and Management Structure
 
