@@ -104,6 +104,93 @@ Talking with a community goes beyond public relations, which typically focus on 
 * (2차 리뷰 반영 : )
 * ...
 
+We are a data-driven society. All organizations must learn how to collect useful
+metrics and educate employees on how to use the data when making decisions.
+Some metrics are easier to collect than others, so you need to determine what’s
+really useful to you. Begin by collecting lots of metrics; then, over time, as you
+find out which ones are really useful, you can scale back. Typical metrics include
+the following:
+
+* Numbers of contributors and contributions, and what people and places they
+  come from
+* Number of users, which you might be able to calculate roughly from statis‐
+  tics on downloads, mailing list participation, and other proxies
+* Growth or shrinkage of the contributor mailing list
+* Numbers of reported issues, bugs, and fixes
+* Number of forks and stars on GitHub
+* Page views of web pages, blogs, and tweets associated with your project
+
+The [CHAOSS Community](https://chaoss.community/)] is defining
+[metrics](http://bit.ly/2sWYq7u) that are useful to collect across most projects.
+
+Generally, you want to see the measures increase. Even an increase in reported
+bugs can be a good thing because it shows that the code is useful. The speed with
+which reported bugs are fixed can be a more important metric. If pull requests
+stagnate or go down, you need to think of ways to promote the project—or per‐
+haps it’s time to launch an effort to add new features that make the project more
+appealing.
+
+If most of your contributions are coming from a couple of organizations, you
+might need to encourage more diversity. There is a risk that your code will be
+optimized for one or two major users, losing value for other potential users. And,
+if a major contributor suddenly pulls out, you can be left without crucial support.
+
+Different metrics are useful in different circumstances. For some projects, it’s all
+right for pull requests and community participation to stabilize. Perhaps your
+project has a narrow application but is very useful for the people who need it.
+
+Your measurements can become part of a continuous improvement process.
+Make them available to managers through dashboards and encourage managers
+to pull them up at meetings and during the process of prioritizing future work.
+As with nearly all software, good open source tools exist for dashboards and
+visualizations displaying metrics. [Bitergia](https://bitergia.com/opensource/)
+offers open source dashboards, and Amazon has released an
+[OSS attribution builder](http://bit.ly/2LOzGVL) and
+[OSS contribution tracker](http://bit.ly/2JDTA9k) that
+their OSPO uses to manage its open source projects.
+
+#### 측정 기준을 선택하고 그에 따라 측정하기
+
+모든 조직은 유용한 측정 기준(metrics)들을 수집하는 방법을 배우고
+의사 결정시 데이터를 다루는 법을 직원에게 가르쳐야합니다.
+일부 측정 기준은 다른 것들 보다 모으기 쉽기 때문에,
+측정 기준을 고를 땐 실제로 사용자들에게 유용한 것이 무엇인지 결정해야 합니다.
+따라서 먼저 많은 측정 기준들을 모은 뒤에 그 중 유용한 것들만 골라내며 수를 줄여야 합니다.
+일반적인 측정 기준들은 다음과 같습니다:
+
+* 컨트리뷰터 인원과 기여 수
+* 다운로드 수, 메일 목록 등의 접근 통계로 산출 가능한 사용자 수
+* 컨트리뷰터의 증가 혹은 감소
+* 제보된 이슈 및 버그와 해결 수
+* GitHub 에서 포크 된 횟수 및 스타 개수
+* 프로젝트의 웹사이트, 블로그, 트위터 등의 방문자 수
+
+[CHAOSS 커뮤니티](https://chaoss.community/) 에선 대부분의 프로젝트에 적용 가능한
+[측정 기준](http://bit.ly/2sWYq7u) 들을 정의합니다.
+
+보통 측정 결과가 더 높게 나오기를 원할 겁니다. 하지만 버그 제보가 늘어난다
+하더라도 낙담하지는 맙시다. 이는 코드가 그만큼 유용하다는 뜻이며,
+오히려 버그 해결 속도가 더 중요한 측정 기준이 될 수 있습니다.
+만약 PR 이 들어오는 횟수가 점점 줄어든다면, 프로젝트를 홍보하거나
+프로젝트를 더 매력적으로 만들어 줄 새 기능을 추가할 때입니다.
+
+대부분의 기여가 소수의 조직에서만 올 경우 다양성을 장려해야 합니다.
+코드가 한 두명의 주요 사용자에게 맞춰서 최적화 될 경우, 다른 잠재적 유저들을 잃을 수
+있는데다가 그 주요 기여자가 갑자기 그만두게 되면 중요한 지원이 끊어지게 됩니다.
+
+측정 기준은 상황에 따라 달라질 수 있습니다.
+예를 들어, 특정 사람들을 위한 특수 목적을 갖는 몇몇 프로젝트는
+커뮤니티 참여와 PR 이 안정되는 편이 더 좋습니다.
+
+측정 결과는 지속되는 발전 과정의 일부가 될 수 있습니다.
+관리자가 이 결과를 대시보드로 볼 수 있게 하여 회의나
+향후 작업의 우선 순위를 결정하는데 참고할 수 있게 하십시오.
+거의 모든 소프트웨어와 마찬가지로, 측정 기준을 표시하는 대시 보드 및 시각화에 적합한
+좋은 오픈소스 툴들이 존재합니다. [Bitergia](https://bitergia.com/opensource/) 는
+오픈소스 대시 보드를 제공하고, 아마존은 자신들의 오픈소스 프로젝트 부서에서
+프로젝트를 관리하는 데 사용하는 [OSS attribution builder](http://bit.ly/2LOzGVL) 와
+[OSS contribution tracker](http://bit.ly/2JDTA9k) 를 출시했습니다.
+
 #### Release the Project to an Independent Governance Organization
 
 * (번역중 : 오연호)

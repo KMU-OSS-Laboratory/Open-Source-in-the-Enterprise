@@ -36,6 +36,7 @@
 | License | 라이선스 |
 | Mailing List | 메일링 리스트 |
 | Manager | 관리자 |
+| Metrics | 측정 기준 |
 | Obligation | 의무 |
 | Open Source | 오픈소스 |
 | Organization | 조직 |

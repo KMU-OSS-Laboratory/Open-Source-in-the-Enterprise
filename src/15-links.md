@@ -37,6 +37,11 @@
 * [Open Source Initiative](https://opensource.org/licenses) : https://opensource.org/licenses
 * [라이선스 선별 가이드](https://choosealicense.com/) : https://choosealicense.com/
 * [LibreOffice](https://www.libreoffice.org/) : https://www.libreoffice.org/
+* [CHAOSS 커뮤니티](https://chaoss.community/) : https://chaoss.community/
+* [측정 기준(Metrics)](http://bit.ly/2sWYq7u) : http://bit.ly/2sWYq7u
+* [Bitergia](https://bitergia.com/opensource/) : https://bitergia.com/opensource/
+* [OSS attribution builder](http://bit.ly/2LOzGVL) : http://bit.ly/2LOzGVL
+* [OSS contribution tracker](http://bit.ly/2JDTA9k) : (http://bit.ly/2JDTA9k)
 * [Linux](http://bit.ly/2LQAtWa) : http://bit.ly/2LQAtWa
 * [Mozilla](https://mzl.la/2HOXeaO) : https://mzl.la/2HOXeaO
 * [OpenStack](http://bit.ly/2LPYjBx) : http://bit.ly/2LPYjBx
