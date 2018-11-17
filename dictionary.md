@@ -31,6 +31,7 @@
 | Government | 정부 |
 | License | 라이선스 |
 | Manager | 관리자 |
+| Metrics | 측정 기준 |
 | Obligation | 의무 |
 | Open Source | 오픈소스 |
 | Organization | 조직 |
