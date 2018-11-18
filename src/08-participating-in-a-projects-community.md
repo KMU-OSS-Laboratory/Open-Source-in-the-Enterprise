@@ -1,6 +1,6 @@
 ﻿### Participating in a Project’s Community
 
-* (번역중 : 할당안됨)
+* (번역중 : 윤건영)
 * (1차 리뷰 : )
 * (1차 리뷰 반영 : )
 * (2차 리뷰 : )
