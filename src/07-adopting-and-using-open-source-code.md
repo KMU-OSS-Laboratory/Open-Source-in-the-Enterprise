@@ -14,7 +14,7 @@ We trust you are curious what open source code can offer, and perhaps eager to f
 
 #### Create and Document an Internal Open Source Policy
 
-* (번역중 : 장학성)
+* (번역완료)
 * (1차 리뷰 : )
 * (1차 리뷰 반영 : )
 * (2차 리뷰 : )
@@ -45,12 +45,28 @@ Break down your strategy into milestones. This allows you to assign ownership an
 -	Encouraging an open policy in applicable software projects from the start among technology leadership and enterprise architecture groups
 -	Starting an InnerSource model in tandem, in which you adopt open source practices for internal development across your entire company
 
+전략을 이정표로 세분화하십시오. 이를 통해 소유권을 할당하고 필요한 여러 프로세스를 신속하게 제공할 수 있습니다.  전략 측면에서 다음 사항을 고려하십시오. 
+-	오픈소스를 사용할 수 있는 방법과 시기에 대해 회사 전반에 알리는 오픈소스 거버넌스 및 정책
+-	개발자가 외부 오픈소스 프로젝트에 기여할 수 있는 방법을 명시한 정책 : 역할 및 소요 시간
+-	기술 리더쉽 및 엔터프라이즈 아키텍처 그룹 중 처음부터 적용 가능한 소프트웨어 프로젝트의 오픈 정책 장려
+-	회사 전체에 걸쳐 내부 개발을 위해 오픈소스 사례를 적용하는 InnerSource 모델을 동시에 시작
+
 Because the adoption of open source crosses many organizational boundaries and can lead to new organizational structures, you might need to explore the creation of new policies that allow developers to collaborate internally across those structures.
+
+오픈소스의 채택은 많은 조직의 경계를 넘어 새로운 조직 구조로 이어질 수 있기 때문에, 당신은  개발자들이 이러한 구조 전체에 걸쳐 내부적으로 협업할 수 있게하는 새로운 정책의 생성을 조사해야 할 수 있습니다. 
+
 It is important to find a senior sponsor who will help open doors and champion your cause. This can be the most difficult task we describe in this section, but it is critical. You will need the sponsor on your journey. Make your strategy paper compelling, and they will buy into your high-level, long-range vision. Aim for CTO or CIO support, but be prepared to have to work your way up to that.
+
+당신의 주장을 허용하고 옹호하는데 도움을 줄 수 있는 고위의 후원자를 찾는 것이 중요합니다.  이것은 우리가 이 섹션에서 설명하는 가장 어려운 작업일 수 있지만, 매우 중요합니다.  당신은 여행에서 후원자가 필요할 것입니다. 전략 보고서를 설득력 있게 작성하면, 그들은 당신의 높은 수준의 장기적인 비전을 받아들일 것입니다. CTO 또는 CIO의 지원을 목표로 삼되, 이를 위해 최선을 다해 준비해야 합니다.
+
 Legal staff need to be trained to understand licenses that might be radically different from anything they have dealt with previously. The marketing and PR teams also need to discuss the effects of open source on your practices, quality, and responsiveness to customers. This requires them to study open source practices, collaborate on communication with the communities, and translate these new practices into interactions with your customers. Members of the open source community that you’re joining (and probably hiring from) can explain to your marketing team the importance of attending and supporting events held by the community. In addition, the sales team needs to understand licensing well enough to answer questions about using and extending the code, when presenting your solution to customers.
+
+법률 직원은 이전에 그들이 다루었던 것과 근본적으로 다를 수 있는 라이선스를 이해할 수 있도록 교육을 받아야 합니다. 또한, 마케팅 및 홍보팀은 오픈소스가 고객에 대한 관행, 품질 및 반응에 미치는 영향에 대해 논의해야 합니다.  이를 위해서는 오픈소스 사례를 연구하고, 커뮤니티와의 커뮤니케이션에 협력하며, 이러한 새로운 사례를 고객과의 상호 작용으로 전환해야 합니다.  당신이 참여하고 있는 (그리고 아마 고용하고 있는) 오픈소스 커뮤니티의 구성원은 커뮤니티에서 개최하는 이벤트에 참석하고 지원하는 것의 중요성을 당신의 마케팅 팀에 설명할 수 있습니다.  또한, 영업팀은 고객에게 솔루션을 제시할 때, 코드 사용 및 확장에 대한 질문에 대답할 수 있도록 라이선스를 충분히 이해해야 합니다. 
+
 If you don’t have a clear process, you risk having someone incorporate open source code informally without following good practices. Not only could this violate the code’s license, but it deprives you of the benefits of properly using open source code. For instance, critical bug fixes are released regularly by open source projects, and you need to know where you’re using this code in order to install the fixes. Instituting clear processes also allows your employees to become valued members of the community and represent your organization’s needs there. Finally, a clear and well-communicated policy leads to dramatically more participation and more awareness of your open source initiative throughout the company.
 
-전략을 이정표로 세분화하십시오. 이를 통해 소유권을 할당하고 필요한 여러 프로세스를 신속하게 제공할 수 있습니다.  전략 측면에서 다음 사항을 고려하십시오. 
+명확한 프로세스가 없다면, 누군가 오픈소스 코드를 좋은 사례를 따르지 않고 비공식적으로 통합할 위험이 있습니다.  이것은 코드의 라이선스에 위배될 뿐만 아니라, 오픈소스 코드를 올바르게 사용하면 얻을 수 있는 이익을 박탈할 수 있습니다.  예를 들어, 중요한 버그 수정은 오픈소스 프로젝트에서 주기적으로 릴리스되는데, 이를 설치하기 위해서는 이 코드가 어디에 사용되는지 알아야 합니다.  또한, 명확한 프로세스를 수립하는 것은 당신의 직원들이 커뮤니티의 소중한 구성원이 되고, 거기에서 당신 조직의 필요를 대변할 수 있습니다. 마지막으로, 명확하고 잘 전달된 정책은 회사 전체에 걸쳐 당신의 오픈소스 계획에 대한 참여와 인식을 훨씬 더 높여줍니다.
+
 
 #### Formalize Your Strategy Through an OSPO
 
@@ -237,6 +253,31 @@ Besides approving these changes, which can be extensive, to the compensation pla
 많은 직원들에 대한 광범위할 수도 있는 보상 계획을 수용하는 것과는 별개로, 관리자들은 소프트웨어 데드라인이 내부 직원뿐만 아니라, 커뮤니티의 활동에 의해서도 좌우될 수 있음을 인식해야 합니다. 소프트웨어 프로젝트의 데드라인은 온전히 내부 팀에 의해 실행되는 경우에도 정확하게 설정하기가 어렵습니다. 외부인에 의한 이 새로운 의존성은 관리자들이 현실을 인식하는데 도움이 될 수 있습니다. 커뮤니티가 우리가 필요로 하는 기능에 대한 우선순위를 낮게 설정했다면 자체 리소스를 투입하여 적시에 완료하고 개선 내용을 커뮤니티에 기여하십시오. 다른 회사도 비슷한 방식으로 일을 할 것이며 모두에게 이득이 됩니다.
 
 #### Ego and Open Source
+
+Ego and Open Source
+
+오픈소스와 자부심
+
+
+It is natural to take pride in creative output. Software is rarely any longer a single person’s ingenious inspiration in the way Donald Knuth developed TEX and Metafont on his own. But even when software requires team effort, working tightly together as a team provides its own sense of a unique shared identity. Furthermore, the team can boost a developer’s personal needs. It’s easy in a closeknit  group for each member to know the other’s strengths. A manager can see exactly how someone contributed and base pay increases and promotions on those contributions.
+
+창의적인 결과물에 자부심을 가지는 것은 자연스러운 일입니다. 소프트웨어는 더 이상 도널드 커누스(Donald Knuth)가 혼자서 독창적인 영감으로 TEX와 Metafont를 개발했던 것과 같은 방법으로는 개발하지 않습니다. 팀 내에서 긴밀한 협업을 통하여 소프트웨어 개발을 진행하면, 그 팀만의 정체성이 생깁니다. 게다가 팀으로 하는 작업을 통하여 개발자의 스스로의 역량도 키울 수 있습니다. 서로 긴밀하게 작업을 진행하는 팀에서는 서로의 역량을 쉽게 파악할 수 있습니다. 관리자는 누가 어떻게 기여를 했는지를 정확히 파악할 수 있기 때문에, 그 기여에 따라 연봉 인상 및 승진을 결정할 수 있습니다. 
+
+
+This psychological and practical reward structure is profoundly changed by open source. We must consider how each developer finds personal fulfillment and anacknowledgment of their contributions in an open source context.
+
+이러한 정신적, 실질적 보상이 오픈 소스로 인하여 많이 바뀌고 있습니다. 오픈 소스 관점에서, 개발자스스로의 기여에 대한 개인적인 성취와 보상을 어떤 식으로 원하는지를 알아야 합니다. 
+
+
+When starting or joining an open source project, a team must give up some control and must learn to work within much more amorphous groups of people who come and go, all motivated by different goals. But ultimately, the individual has an even greater chance to shine on an open source project, because every contribution is available for the world to see. It might turn up in distantly related projects that were never imagined. And demonstrating solid contributions that other people choose to adopt is a wonderful boost to a job application. Open source also rewards people who have skills in communication, project and people management, design, web development, documentation, translation, and much more in addition to coding chops. All contributions matter in a project.
+
+오픈 소스 프로젝트를 시작하거나 참여할 때, 프로젝트를 인위적으로 관리하려 해서는 안 되고, 서로 다른 목적을 가지고 참여했다 사라지는 불특정의 사람들과 함께 일하는 법을 배워야 합니다. 프로젝트에 기여한 내용을 누구나 확인할 수 있기 때문에, 오픈소스로 인해서 개인이 빛이 나게 됩니다. 그리고, 상상하지도 못 했던 엉뚱한 프로젝트에서 그 결과가 나타나기도 합니다. 그리고, 다른 여러 곳에서 이 결과를 사용하게 되면, 취업의 기회는 놀랄만큼 확대 됩니다. 코딩 뿐만이 아니라, 소통, 프로젝트와 인력의 관리, 디자인, 웹 개발, 문서화, 번역 등 많은 분야에서 오픈소스에 기여할 수 있습니다. 
+
+
+This high visibility of open source projects can also scare managers who worry that their best contributors will be lured by higher salaries or more prestigious jobs offered by a competitor. The solution to that problem is to be that competitor. Make sure your employees have the time to contribute to the open source software you use, both as coders and in a leadership role. Give them the freedom to run with good ideas and provide them the resources to implement useful tools that developers or teams come up with. If you have star performers, encourage them to join boards and speak at conferences. They will help turn your companyinto a magnet for other top developers
+
+오픈 소스 프로젝트를 통해 노출되는 놀라운 성과로 인하여 관리자는 프로젝트의 최고 기여자를 높은 연봉이나 좋은 자리로 경쟁사에게 빼았기지 않을까하는 우려를 가질 수 있습니다. 이 문제를 해결하는 방법은 바로, 경쟁자가 되는 것입니다. 직원들이 지금 사용하고 있는 오픈 소스 프로젝트에 기여할 수 있도록 하십시오. 지금 사용하고 있는 오픈 소스 프로젝트에 코더나 리더로 기여할 수 있는 기회를 주십시오. 좋은 아이디어를 실행할 수 있는 자유를 주고, 개발자나 팀에서 만들어 낸 유용한 도구를 활용할 수 있는 자원을 제공하십시오. 만일 유명한 개발자를 데리고 있다면, 이사회에 참여시키고, 컨퍼런스를 통해 발표하도록 하십시오. 이렇게 하면, 다른 최고의 개발자를 유혹할 수 있습니다.
+
 
 * (번역중 : 윤종민)
 * (1차 리뷰 : )
