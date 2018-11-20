@@ -1,6 +1,6 @@
 ### Launching an Open Source Project
 
-* (번역중 : 김영하)
+* (번역완료)
 * (1차 리뷰 : )
 * (1차 리뷰 반영 : )
 * (2차 리뷰 : )
@@ -8,6 +8,16 @@
 * ...
 
 ### 오픈소스 프로젝트의 시작
+
+As your organization comes to recognize the benefits of the open source development model, you might decide to 
+start a project of your own. Careful planning can make the difference between a quickly forgotten fiasco and a thriving, 
+sustainable code base. A Linux Foundation guide(http://bit.ly/2sWo0cO) offers more details about the process and a comprehensive project launch 
+checklist. All the principles of the previous sections apply, and some further considerations are summarized in this section.
+
+오픈 소스 개발 모델의 장점을 여러분이 속한 조직이 알게 되면서, 새로운 자신만의 오픈 소스 프로젝트를 시작하고자 결정했을지도 모릅니다.
+사려깊게 계획을 해야 소스코드가 빠른 흥망성쇠를 통해 잊혀질지 계속 유지하게 될지 만들 수 있습니다. 리눅스 재단 가이드(http://bit.ly/2sWo0cO)에서는
+그 과정에 대해서 자세히 설명하며, 종합적인 오픈 소스 프로젝트을 시작할 수 있는 체크리스트를 제공합니다. 앞에서 설명한 모든 이론들이 당연히 적용되며,
+좀더 고려할 만한 사항들을 설명할 것입니다.
 
 #### Choose a License
 
