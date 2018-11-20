@@ -14,7 +14,7 @@ We trust you are curious what open source code can offer, and perhaps eager to f
 
 #### Create and Document an Internal Open Source Policy
 
-* (번역중 : 장학성)
+* (번역완료)
 * (1차 리뷰 : )
 * (1차 리뷰 반영 : )
 * (2차 리뷰 : )
@@ -45,12 +45,28 @@ Break down your strategy into milestones. This allows you to assign ownership an
 -	Encouraging an open policy in applicable software projects from the start among technology leadership and enterprise architecture groups
 -	Starting an InnerSource model in tandem, in which you adopt open source practices for internal development across your entire company
 
+전략을 이정표로 세분화하십시오. 이를 통해 소유권을 할당하고 필요한 여러 프로세스를 신속하게 제공할 수 있습니다.  전략 측면에서 다음 사항을 고려하십시오. 
+-	오픈소스를 사용할 수 있는 방법과 시기에 대해 회사 전반에 알리는 오픈소스 거버넌스 및 정책
+-	개발자가 외부 오픈소스 프로젝트에 기여할 수 있는 방법을 명시한 정책 : 역할 및 소요 시간
+-	기술 리더쉽 및 엔터프라이즈 아키텍처 그룹 중 처음부터 적용 가능한 소프트웨어 프로젝트의 오픈 정책 장려
+-	회사 전체에 걸쳐 내부 개발을 위해 오픈소스 사례를 적용하는 InnerSource 모델을 동시에 시작
+
 Because the adoption of open source crosses many organizational boundaries and can lead to new organizational structures, you might need to explore the creation of new policies that allow developers to collaborate internally across those structures.
+
+오픈소스의 채택은 많은 조직의 경계를 넘어 새로운 조직 구조로 이어질 수 있기 때문에, 당신은  개발자들이 이러한 구조 전체에 걸쳐 내부적으로 협업할 수 있게하는 새로운 정책의 생성을 조사해야 할 수 있습니다. 
+
 It is important to find a senior sponsor who will help open doors and champion your cause. This can be the most difficult task we describe in this section, but it is critical. You will need the sponsor on your journey. Make your strategy paper compelling, and they will buy into your high-level, long-range vision. Aim for CTO or CIO support, but be prepared to have to work your way up to that.
+
+당신의 주장을 허용하고 옹호하는데 도움을 줄 수 있는 고위의 후원자를 찾는 것이 중요합니다.  이것은 우리가 이 섹션에서 설명하는 가장 어려운 작업일 수 있지만, 매우 중요합니다.  당신은 여행에서 후원자가 필요할 것입니다. 전략 보고서를 설득력 있게 작성하면, 그들은 당신의 높은 수준의 장기적인 비전을 받아들일 것입니다. CTO 또는 CIO의 지원을 목표로 삼되, 이를 위해 최선을 다해 준비해야 합니다.
+
 Legal staff need to be trained to understand licenses that might be radically different from anything they have dealt with previously. The marketing and PR teams also need to discuss the effects of open source on your practices, quality, and responsiveness to customers. This requires them to study open source practices, collaborate on communication with the communities, and translate these new practices into interactions with your customers. Members of the open source community that you’re joining (and probably hiring from) can explain to your marketing team the importance of attending and supporting events held by the community. In addition, the sales team needs to understand licensing well enough to answer questions about using and extending the code, when presenting your solution to customers.
+
+법률 직원은 이전에 그들이 다루었던 것과 근본적으로 다를 수 있는 라이선스를 이해할 수 있도록 교육을 받아야 합니다. 또한, 마케팅 및 홍보팀은 오픈소스가 고객에 대한 관행, 품질 및 반응에 미치는 영향에 대해 논의해야 합니다.  이를 위해서는 오픈소스 사례를 연구하고, 커뮤니티와의 커뮤니케이션에 협력하며, 이러한 새로운 사례를 고객과의 상호 작용으로 전환해야 합니다.  당신이 참여하고 있는 (그리고 아마 고용하고 있는) 오픈소스 커뮤니티의 구성원은 커뮤니티에서 개최하는 이벤트에 참석하고 지원하는 것의 중요성을 당신의 마케팅 팀에 설명할 수 있습니다.  또한, 영업팀은 고객에게 솔루션을 제시할 때, 코드 사용 및 확장에 대한 질문에 대답할 수 있도록 라이선스를 충분히 이해해야 합니다. 
+
 If you don’t have a clear process, you risk having someone incorporate open source code informally without following good practices. Not only could this violate the code’s license, but it deprives you of the benefits of properly using open source code. For instance, critical bug fixes are released regularly by open source projects, and you need to know where you’re using this code in order to install the fixes. Instituting clear processes also allows your employees to become valued members of the community and represent your organization’s needs there. Finally, a clear and well-communicated policy leads to dramatically more participation and more awareness of your open source initiative throughout the company.
 
-전략을 이정표로 세분화하십시오. 이를 통해 소유권을 할당하고 필요한 여러 프로세스를 신속하게 제공할 수 있습니다.  전략 측면에서 다음 사항을 고려하십시오. 
+명확한 프로세스가 없다면, 누군가 오픈소스 코드를 좋은 사례를 따르지 않고 비공식적으로 통합할 위험이 있습니다.  이것은 코드의 라이선스에 위배될 뿐만 아니라, 오픈소스 코드를 올바르게 사용하면 얻을 수 있는 이익을 박탈할 수 있습니다.  예를 들어, 중요한 버그 수정은 오픈소스 프로젝트에서 주기적으로 릴리스되는데, 이를 설치하기 위해서는 이 코드가 어디에 사용되는지 알아야 합니다.  또한, 명확한 프로세스를 수립하는 것은 당신의 직원들이 커뮤니티의 소중한 구성원이 되고, 거기에서 당신 조직의 필요를 대변할 수 있습니다. 마지막으로, 명확하고 잘 전달된 정책은 회사 전체에 걸쳐 당신의 오픈소스 계획에 대한 참여와 인식을 훨씬 더 높여줍니다.
+
 
 #### Formalize Your Strategy Through an OSPO
 

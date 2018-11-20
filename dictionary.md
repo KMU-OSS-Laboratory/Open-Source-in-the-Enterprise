@@ -9,13 +9,16 @@
 |--|--|
 =======
 | Agile and Scrum Methodology | 애자일 스크럼 방법론(역자 주 필요) |
+| architecture | 아키텍처 |
 | audit trail | 감사 기록 |
 | automated tool | 자동화된 도구 |
 | Back Door | 백도어 |
 | Best Practice | 모범 사례 |
+| boundary | 경계 |
 | Branch | 브랜치 |
 | Business | 비즈니스 |
 | Business Logic | 비지니스 로직 |
+| Code | 코드 |
 | Code of Conduct | 행동 강령 |
 | Cloud | 클라우드 |
 | Committer | 커미터 |
@@ -25,6 +28,7 @@
 | Contribution | 기여 또는 공헌 |
 | Contributor | 컨트리뷰터 또는 기여자 |
 | Contributor Agreements | 기여자 동의서 |
+| Developer | 개발자 |
 | Dependency | 종속성 |
 | Design | 디자인 혹은 설계 |
 | Development Team | 개발팀 |
@@ -33,6 +37,7 @@
 | Forum | 포럼 |
 | Governance | 거버넌스 |
 | Government | 정부 |
+| InnerSource | InnerSource |
 | License | 라이선스 |
 | Mailing List | 메일링 리스트 |
 | Manager | 관리자 |

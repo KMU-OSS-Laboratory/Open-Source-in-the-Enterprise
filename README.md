@@ -36,7 +36,7 @@ CC-BY-NC 4.0 International Public License에 의거하여
 * [Groundwork for Understanding Open Source](src/06-groundworks-for-understanding-open-source.md) (번역중:이윤준)
   - Terminology: Free and Open Source (번역중:이윤준)
 * [Adopting and Using Open Source Code](src/07-adopting-and-using-open-source-code.md) (1차리뷰완료)
-  - Create and Document an Internal Open Source Policy (번역중:장학성)
+  - Create and Document an Internal Open Source Policy (번역완료)
   - Formalize Your Strategy Through an OSPO (1차리뷰완료)
   - Build Ties Throughout the Company (1차리뷰완료)
   - Assess Potential Projects (번역완료)
