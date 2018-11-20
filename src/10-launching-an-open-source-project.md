@@ -19,7 +19,6 @@ checklist. All the principles of the previous sections apply, and some further c
 그 과정에 대해서 자세히 설명하며, 종합적인 오픈 소스 프로젝트을 시작할 수 있는 체크리스트를 제공합니다. 앞에서 설명한 모든 이론들이 당연히 적용되며,
 좀더 고려할 만한 사항들을 설명할 것입니다.
 
-
 #### Choose a License
 
 * (번역완료 : 윤종민)

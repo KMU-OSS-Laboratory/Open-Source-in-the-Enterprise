@@ -19,8 +19,8 @@ software such as a tool in your support software, a platform add-on, or a plug-i
 
 This section covers making contributions to existing projects, and the next section looks at the extra steps involved in 
 launching one of your own.
-존재하는 프로젝트에 기여하는 방법을 설명할 것입니다. 그리고, 이어서 여러분 자신만의 오픈소스 프로젝트를 만들어보는 과정도 살펴볼 것입니다.
 
+존재하는 프로젝트에 기여하는 방법을 설명할 것입니다. 그리고, 이어서 여러분 자신만의 오픈소스 프로젝트를 만들어보는 과정도 살펴볼 것입니다.
 
 #### Establish the “Why” Throughout the Company
 
