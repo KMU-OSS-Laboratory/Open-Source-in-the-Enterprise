@@ -4,11 +4,11 @@
 
 #### [Acknowledgments](acknowledgments.md)
 
-#### Open Source in the Enterprise
+#### [Open Source in the Enterprise](03-open-source-in-the-enteprise.md)
 
-#### Why Are Companies and Governments Turning to Open Source?
+#### [Why Are Companies and Governments Turning to Open Source?](04-why-are-companies-and-governments-turning-to-open-source.md)
 
-#### More Than a License or Even Code
+#### [More Than a License or Even Code](05-more-than-a-license-or-even-code.md)
 
 [GNU General Public License](https://www.gnu.org/licenses/licenses.en.html) : https://www.gnu.org/licenses/licenses.en.html
 [Mozilla Public License](https://www.mozilla.org/en-US/MPL/) : https://www.mozilla.org/en-US/MPL/
@@ -25,9 +25,9 @@
 [open source program office (OSPO)](https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md) : https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md
 [case studies by the TODO Group](https://github.com/todogroup/guides) : https://github.com/todogroup/guides)
 
-#### Groundwork for Understanding Open Source
+#### [Groundwork for Understanding Open Source](06-groundworks-for-understanding-open-source.md)
 
-#### Adopting and Using Open Source Code
+#### [Adopting and Using Open Source Code](07-adopting-and-using-open-source-code.md)
 
 * [open source templates and policies](https://github.com/todogroup/policies) : https://github.com/todogroup/policies
 * [GitHub](https://github.com/) : https://github.com/
@@ -35,9 +35,9 @@
 * [Linux Foundation guide](https://www.linuxfoundation.org/using-open-source-code/) : https://www.linuxfoundation.org/using-open-source-code/
 * [Open Source for the Enterprise](http://shop.oreilly.com/product/9780596101190.do) : http://shop.oreilly.com/product/9780596101190.do
 
-#### Participating in a Project’s Community
+#### [Participating in a Project’s Community](08-participating-in-a-projects-community.md)
 
-#### Contributing to Open Source Projects
+#### [Contributing to Open Source Projects](09-contributing-to-open-source-project.md)
 
 * [whitepaper](https://drive.google.com/file/d/1woaZ0wjQMbLQhyfB8ZOYveh8cW-jlDPG/view) : https://drive.google.com/file/d/1woaZ0wjQMbLQhyfB8ZOYveh8cW-jlDPG/view
 * [TODO Group](https://todogroup.org/opencodeofconduct/) : https://todogroup.org/opencodeofconduct/
@@ -47,7 +47,7 @@
 * [Stack Overflow](https://stackoverflow.com/) : https://stackoverflow.com/
 * [Google Groups](https://groups.google.com) : https://groups.google.com
 
-#### Launching an Open Source Project
+#### [Launching an Open Source Project](10-launching-an-open-source-project.md)
 
 * [Open Source Initiative](https://opensource.org/licenses) : https://opensource.org/licenses
 * [라이선스 선별 가이드](https://choosealicense.com/) : https://choosealicense.com/
@@ -67,7 +67,10 @@
 * [HL7](http://www.hl7.org/) : http://www.hl7.org/
 * [Automotive Grade Linux](https://www.automotivelinux.org/) : https://www.automotivelinux.org/
 
-#### Open Source and the Cloud
+#### [Open Source and the Cloud](11-open-source-and-the-cloud.md)
+
+[KVM](https://www.linux-kvm.org/page/Main_Page) : https://www.linux-kvm.org/page/Main_Page
+[Xen](https://www.xenproject.org) : https://www.xenproject.org
 
 #### [Conclusion](conclusion.md)
 
