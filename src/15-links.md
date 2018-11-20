@@ -10,6 +10,21 @@
 
 #### More Than a License or Even Code
 
+[GNU General Public License](https://www.gnu.org/licenses/licenses.en.html) : https://www.gnu.org/licenses/licenses.en.html
+[Mozilla Public License](https://www.mozilla.org/en-US/MPL/) : https://www.mozilla.org/en-US/MPL/
+[Apache License](https://www.apache.org/licenses/) : https://www.apache.org/licenses/
+[코드 이전에 커뮤니티(community before code)](https://community.apache.org/newbiefaq.html) : https://community.apache.org/newbiefaq.html
+[reading list](https://www.linuxfoundation.org/resources/open-source-guides/open-source-guides-reading-list/) : https://www.linuxfoundation.org/resources/open-source-guides/open-source-guides-reading-list/
+[Producing Open Source Software](https://producingoss.com) : https://producingoss.com
+[Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/) : http://www.catb.org/esr/writings/cathedral-bazaar/
+[guides](https://www.linuxfoundation.org/resources/open-source-guides/) : https://www.linuxfoundation.org/resources/open-source-guides/
+[TODO Group](https://todogroup.org/blog/todo-becomes-lf-collaborative-project/) : https://todogroup.org/blog/todo-becomes-lf-collaborative-project/
+[opensource.com](https://opensource.com/resources) : https://opensource.com/resources
+[InnerSource](https://paypal.github.io/InnerSourceCommons/) : https://paypal.github.io/InnerSourceCommons/
+[another O’Reilly Media report](https://www.oreilly.com/programming/free/getting-started-with-innersource.csp) : https://www.oreilly.com/programming/free/getting-started-with-innersource.csp
+[open source program office (OSPO)](https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md) : https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md
+[case studies by the TODO Group](https://github.com/todogroup/guides) : https://github.com/todogroup/guides)
+
 #### Groundwork for Understanding Open Source
 
 #### Adopting and Using Open Source Code
