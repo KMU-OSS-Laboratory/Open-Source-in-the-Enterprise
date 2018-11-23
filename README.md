@@ -62,7 +62,7 @@ CC-BY-NC 4.0 International Public License에 의거하여
   - Adopt Metrics and Measurement (번역완료)
   - Release the Project to an Independent Governance Organization (1차리뷰완료)
 * [Open Source and the Cloud](src/11-open-source-and-the-cloud.md) (번역완료)
-* [Conclusion](src/12-conclusion.md) (번역중:이민석)
+* [Conclusion](src/12-conclusion.md) (번역완료)
 * [About Authors](src/13-about-authors.md) (번역완료)
 * [역자 소개](src/14-translators.md) (각자 자기 소개 추가)
 * [이 책에 있는 모든 외부 링크](src/15-links.md) (각자 맡은 영역 추가)
