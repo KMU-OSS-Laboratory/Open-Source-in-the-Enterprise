@@ -52,6 +52,7 @@
 * [Open Source Initiative](https://opensource.org/licenses) : https://opensource.org/licenses
 * [라이선스 선별 가이드](https://choosealicense.com/) : https://choosealicense.com/
 * [LibreOffice](https://www.libreoffice.org/) : https://www.libreoffice.org/
+* [The Art of Community](http://shop.oreilly.com/product/0636920021995.do) : http://shop.oreilly.com/product/0636920021995.do
 * [CHAOSS 커뮤니티](https://chaoss.community/) : https://chaoss.community/
 * [측정 기준(Metrics)](http://bit.ly/2sWYq7u) : http://bit.ly/2sWYq7u
 * [Bitergia](https://bitergia.com/opensource/) : https://bitergia.com/opensource/

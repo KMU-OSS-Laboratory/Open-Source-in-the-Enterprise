@@ -88,8 +88,6 @@ You can’t expect people to respect your process and make contributions if you 
 
 결정을 숨기게 된다면 사람들이 프로세스를 존중하는 것과 기여를 만드는 것에 대해서는 기대하기 어려울 것입니다.  ["열린 커뮤니케이션을 촉진하기"](https://github.com/KMU-OSS-Laboratory/Open-Source-in-the-Enteprise/blob/master/src/09-contributing-to-open-source-project.md#열린-커뮤니케이션을-촉진하기)에서 설명한 것처럼, 회사 안의 개발자들은 이제 기대하건대 회사 외부의 프로젝트로 몰려가는 더 큰 커뮤니티의 한 부분이 될 것입니다. 필요한 것은 단순한 메일링 리스트 하나일지도 모릅니다. 논의에서 사용하는 모든 도구들은 공개되어야하며, 이것 자체가 자유 소프트웨어 그리고 오픈소스 소프트웨어의 기반이 되어야 하기 때문에 참여하기 위한 장벽을 두지 말아야합니다. 
 
-
-
 #### Make Life Easy for Newbies
 
 * (번역완료)
@@ -140,7 +138,7 @@ When people have been using your code for a while, they begin to ask how they ca
 You need to assess at different stages in development how much time you can dedicate to the community; hopefully others will start to pick up the task and answer questions. Ultimately, though, you’ll lose users unless you take their needs seriously, support them in creating the features they want, and give them a say. Hiring a community manager is a good investment: such a member of your staff can educate both company employees and outside community members about how to help the project progress smoothly and productively. As the project grows big and widely adopted, it might become time to hand control over to an independent governance organization altogether, which is the topic of an upcoming section ([“Release the Project to an Independent Governance Organization” on page 24](https://d1.awsstatic.com/Open%20Source/enterprise-oss-book.pdf)). 
 For an in-depth discussion of how to work well with a community, the book The Art of Community by Jono Bacon (O’Reilly, 2012) is very useful. 
 
-얼마나 많은 시간을 커뮤니티에 쏟을 수 있을지를 개발 단계에 따라 가늠해야합니다; 바라건대 다른사람들이 할 일을 고르고 질문에 답변하기 시작할 것입니다. 그러나 궁극적으로 사용자들의 요구를 진지하게 받아들이지 않는다면 그들을 잃게될 것이기 때문에, 그들이 원하는 기능을 추가하고, 목소리를 내도록 해야합니다. 커뮤니티 관리자를 고용하는 것은 좋은 투자입니다: 가령 직원중의 한 사람은 회사 직원들과 외부 커뮤니티 사람들 모두에게 어떻게 프로젝트의 진행을 부드럽고 생산적으로 도울 수 있을지에 대해서 교육할 수 있을 것입니다. 프로젝트가 크게 성장하고 널리 채택되면, 독립적인 운영 체계를 가진 단체로 통제권을 넘겨줄 때가 올지도 모릅니다. 이에 대한 설명은 바로 다음장([독립된 관리 조직에 프로젝트 릴리즈하기](https://github.com/KMU-OSS-Laboratory/Open-Source-in-the-Enteprise/blob/master/src/10-launching-an-open-source-project.md#독립된-관리-조직에-프로젝트-릴리즈하기))에서 다뤄집니다.  
+얼마나 많은 시간을 커뮤니티에 쏟을 수 있을지를 개발 단계에 따라 가늠해야합니다; 바라건대 다른사람들이 할 일을 고르고 질문에 답변하기 시작할 것입니다. 그러나 궁극적으로 사용자들의 요구를 진지하게 받아들이지 않는다면 그들을 잃게될 것이기 때문에, 그들이 원하는 기능을 추가하고, 목소리를 내도록 해야합니다. 커뮤니티 관리자를 고용하는 것은 좋은 투자입니다: 가령 직원중의 한 사람은 회사 직원들과 외부 커뮤니티 사람들 모두에게 어떻게 프로젝트의 진행을 부드럽고 생산적으로 도울 수 있을지에 대해서 교육할 수 있을 것입니다. 프로젝트가 크게 성장하고 널리 채택되면, 독립적인 운영 체계를 가진 단체로 통제권을 넘겨줄 때가 올지도 모릅니다. 이에 대한 설명은 바로 다음장 ([독립된 관리 조직에 프로젝트 릴리즈하기](https://github.com/KMU-OSS-Laboratory/Open-Source-in-the-Enteprise/blob/master/src/10-launching-an-open-source-project.md#독립된-관리-조직에-프로젝트-릴리즈하기))에서 다뤄집니다.  
 어떻게 커뮤니티 안에서 잘 할 수 있는지에 대한 심도있는 논의에 대해서는, Jono Bacon의 책 *[The Art of Community](http://shop.oreilly.com/product/0636920021995.do)* (O'Reilly, 2012) 가 굉장히 유용할 것입니다. 
 
 #### Keep Up Communication
