@@ -1,0 +1,11 @@
+{
+	"title": "기업에서의 오픈소스",
+	"description": "Zaheda Bhorat, Andy Oram의 저서 'Open Source in the Enterprise'의 한글 번역본. https://aws.amazon.com/opensource/enterprise-oss-book/",
+	"author": "이민석 外",
+	"language": "ko",
+	"pdf.pageNumbers": true,
+	"pdf.fontSize": 14,
+	"pdf.fontFamily": "NanumGothic",
+	"pdf.paperSize": "a5"
+}
+
