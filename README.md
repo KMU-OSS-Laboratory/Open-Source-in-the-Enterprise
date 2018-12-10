@@ -41,7 +41,7 @@ gitbook serve
 
 ## ebook 생성하기
 
-ebook 생성 기능을 사용하기 위해서는 npm의 ebook-convert 패키지가 추가로 필요합니다. 설치하기 위해서는 아래 명령어를 입력합니다:
+ebook 생성 기능을 사용하기 위해서는 [calibre toolset](https://calibre-ebook.com/download_osx)과 npm의 ebook-convert 패키지가 추가로 필요합니다. 설치하기 위해서는 아래 명령어를 입력합니다:
 
 ```
 npm install ebook-convert
