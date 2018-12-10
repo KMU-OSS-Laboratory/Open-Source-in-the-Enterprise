@@ -2,8 +2,7 @@
 
 * [감사의 글](src/00-acknowledgments.md)
 * [역자 서문](src/01-preface.md)
-* [개괄]()
-* [엔터프라이즈에서의 오픈소스](src/03-open-source-in-the-enteprise.md)
+* [개괄: 기업에서의 오픈소스](src/03-open-source-in-the-enteprise.md)
 * [왜 기업과 정부는 오픈소스로 전환하는가?](src/04-why-are-companies-and-governments-turning-to-open-source.md)
 * [저작권이나 심지어 코드보다 더 중요한 것](src/05-more-than-a-license-or-even-code.md)
 * [오픈소스를 이해하기 위한 기초](src/06-groundworks-for-understanding-open-source.md)
@@ -17,4 +16,3 @@
 * [역자 소개](src/14-translators.md)
 * [외부 링크](src/15-links.md)
 * [용어 사전](GLOSSARY.md)
-
