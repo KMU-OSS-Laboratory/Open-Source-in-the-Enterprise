@@ -15,3 +15,7 @@ _book
 *.mobi
 *.pdf
 
+# etc
+.DS_Store
+
+
