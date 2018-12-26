@@ -61,15 +61,28 @@ After your employees gain an understanding of the open source code, your orga‐
 
 It can take a long time—even years—to get your changes into the main project, or core. The project leaders might hold off for many reasons: they might decide that no one else needs your enhancements, or be afraid that they’re buggy, or worry that they’ll have a negative effect on performance. You also can run aground over cultural barriers: your developers simply might not understand the community well enough to gain its attention and trust. But it’s worth addressing any concerns the project leaders have and persist in trying to work together with them, not on your own.
 
+당신 회사의 개발자들의 수정사항을 주 프로젝트나 코어모듈에 넣는것은 꽤 긴 시간(때에 따라서는 수년)이 걸릴 수도 있습니다. 프로젝트의 리더들은 당신의 조직에서 개발하여 PR을 요청한 수정사항이 다른 사용자들에게 필요가 없다고 판단이 되거나, 버그에 대한 우려가 되거나, 혹은 성능적 저하를 가져오지 않을까에 대한 걱정 떄문에 당신의 수정사항을 머지하지 않고 계류시킬 수 있습니다. 또는 문화적인 견해 차이에 부딫힐 수도 있습니다. 당신 회사의 개발자들이 아직은 커뮤니티의 관심과 신뢰를 얻지 못한 경우일 수도 있습니다. 하지만 이러한 경우들에도  혼자서가 아닌, 커뮤니티의 개발자들과 함께 소통하고, 프로젝트 리더들이 가지고 있는 문제점들에 대해서 해명을 하는것이 좋습니다. 
+
 You might need to set up a separate branch for development or clone the code and take it internal to your organization. This is called a fork. There are usually ways to reintegrate your fork with the main branch later, if the core committers agree to that.
+
+당신의 개발 조직을 위해서 브랜치(branch)를 별도로 만들거나 원래의 코드를 클론(clone)하여 내부적으로 새로운 리파지토리(repo)를 만들어야 할 수도 있습니다. 이러한 과정을 포크(fork)라고 합니다. 포크를 한 브랜치를 추후 메인 브랜치로 병합하는 과정이 있기는 하지만, 이는 프로젝트의 기여자들이 동의해야지만 가능합니다.
 
 When you contribute or push your fixes back, you get the enormous benefit of a thorough and uncompromising code review. The code that ultimately goes in will end up much better than the code you submitted: fewer bugs, better perfor‐ mance, and an architecture that is more generalized for future uses.
 
+When you contribute or push your fixes back, you get the enormous benefit of a thorough and uncompromising code review. 결과적으로 프로젝트에 들어가는 코드는 최초에 당신이 넣었던 코드보다 더 적은 버그들, 더 나은 성능수치, 그리고 미래를 고려되어 설계된 아키택쳐(architecture)가 반영된 코드가 들어가게 됩니다.
+
 Furthermore, if your code becomes part of the core, you can simply install any updates that come from the project, secure in the knowledge that they have your enhancements and will work with them. If you fork the code, you must either give up getting new versions (and suffer from any security flaws and bugs the original code contained) or tediously reapply your enhancements to the new ver‐ sion, testing carefully and checking for changes that invalidate your own work.
+
+ㅇㅇ
 
 The cost of maintaining forks is quite high over time, and most companies that lack the training to contribute back to the original project also lack the internal processes that would allow them to benefit from the original project’s continued development. They don’t download and incorporate upstream bug fixes, security patches, and feature improvements because the effort of coordinating with the original project increases as the original and custom versions diverge.
 
-All that said, you might find that the changes you make to code have no prospect of being accepted into the core. Or, you might have reasons for withholding your changes; for instance, if you need to bury secrets in the code for regulatory or competitive reasons. Some companies choose to maintain a separate branch, publicly or privately, and do the grunt work of reapplying enhancements to new versions. Sometimes, companies contribute part of their changes back but with‐ hold others. Any withholding, however, can reduce the value and appeal of the project.
+포크된 수정사항들을 유지보수하는데는 시간이 지날수록 큰 비용이 듭니다. 그리고 원 프로젝트에 기여하는 훈련이 부족한 회사들의 대부분은 원 프로젝트에 들어가있는 개발사항을 다시 가져오는 내부 절차도 미흡하게 되어있습니다. 원 프로젝트의 업스트림(upstream)에서 수정된 버그와 보안 패치, 그리고 기능 개선을 다운받고 적용하지 않는데, 이 이유는 포크를 한 시점으로부터 시간이 지날수록 업스트림과의 버전차이가 커지고, 그에 따라서 업스트림의 수정사항들을 포크된 곳으로 가져오는 작업 비용이 증가하기 때문입니다.
+
+All that said, you might find that the changes you make to code have no prospect of being accepted into the core. Or, you might have reasons for withholding your changes; for instance, if you need to bury secrets in the code for regulatory or competitive reasons. 
+Some companies choose to maintain a separate branch, publicly or privately, and do the grunt work of reapplying enhancements to new versions. Sometimes, companies contribute part of their changes back but with‐ hold others. Any withholding, however, can reduce the value and appeal of the project.
+
+All that said, you might find that the changes you make to code have no prospect of being accepted into the core. 혹은, 수정사항을 PR 하지 않는 이유가 있을 수도 있습니다. 한 예시로, egulatory or competitive 한 이유들로 코드를 숨겨야 하는 이유가 있을수도 있습니다. 몇몇 회사들은 별도의 브랜치를, 공개적 혹은 내부적으로, 유지하기로 결정하고 업스트림의 개선사항들을 포크된 브랜치로 가져오는 작업에 비용을 들이기도 합니다. 또 가끔은 회사에서 직접 개발한 수정사항들중 일부분만을 원 프로젝트에 기여를 하기도 합니다. 하지만 이런 행위는 프로젝트의 가치와 appeal을 저하시킬 수도 있습니다.
 
 
 ### 프로젝트 커뮤니티에의 참여
