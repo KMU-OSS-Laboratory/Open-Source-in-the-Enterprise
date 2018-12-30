@@ -69,9 +69,9 @@ Here are some of the activities developers need to do when joining an open sourc
 
 -
 
-After your employees gain an understanding of the open source code, your orga‐ nization might find reasons to make your own changes. Often, a project will not have the exact features that you want. You might also decide to make different performance trade-offs. Open source projects encourage users to send all of their changes back “upstream” to the project repository. Depending on the license and how you plan to use the code, you might be required to do so. Well-designed projects are modularized so that people who want your changes can adopt them and others can ignore them.
+After your employees gain an understanding of the open source code, your organization might find reasons to make your own changes. Often, a project will not have the exact features that you want. You might also decide to make different performance trade-offs. Open source projects encourage users to send all of their changes back “upstream” to the project repository. Depending on the license and how you plan to use the code, you might be required to do so. Well-designed projects are modularized so that people who want your changes can adopt them and others can ignore them.
 
-당신 회사의 개발자들이 어느정도 오픈소프 프로젝트의 코드에 대한 이해를 한 경우, 당신의 조직에서는 직접 수정사항을 개발해야 할 이유를 찾을 수도 있습니다. often, 프로젝트에는 당신의 원하는 기능이 없을수 있기 때문입니다. 성능적 trade-off를 다르게 하고싶을 수도 있습니다. 오픈소스 프로젝트들은 사용자들이 직접 개발한 수정사항들을 원 리파지토리(repo)에 넣어주는 것을 장려하고있습니다. 프로젝트의 라이선스와 프로젝트 코드의 사용 용도에 따라서 원 리파지토리에 수정사항을 넣는 것이 요구될 수도 있습니다. 잘 설계된 프로젝트들은 모듈화가 되어있어, 특정 기능을 원하는 사용자들만 선별적으로 해당 기능을 사용할 수 있게끔 되어있습니다.
+회사 내의 개발자들이 오픈소스 프로젝트의 코드를 이해해 나아가며 자연스럽게 직접 수정을 해야할 필요성을 느낄 것 입니다. 이유는, 프로젝트에는 내가 원하는 기능이 없을 수 있기 때문입니다. 한 예로, 기존의 프로젝트와는 다른 성능적 등가교환(trade-off) 방식을 선택 할 수도 있습니다. 오픈소프 프로젝트들은 사용자들이 직접 수정한 내용을 프로젝트의 업스트림(Upstream)에 넣어주는 것을 권장하고있습니다. 프로젝트의 라이선스나 코드의 사용 용도에 따라서는 수정한 내용을 업스트림에 넣는 것이 강제되기도 합니다. 설계가 잘 되어있는 프로젝트들은 필요한 사람들이 이렇게 추가된 기능을 쉽게 가져다 쓰거나 제거할 수 있도록 모듈화가 되어있습니다.
 
 -
 
