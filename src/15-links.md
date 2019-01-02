@@ -6,7 +6,24 @@
 
 #### [Open Source in the Enterprise](03-open-source-in-the-enteprise.md)
 
+
+[GNU/Linux](https://www.linuxfoundation.org/) : https://www.linuxfoundation.org/
+[Hadoop](http://hadoop.apache.org/) : http://hadoop.apache.org/
+[Docker](https://www.docker.com/) : https://www.docker.com/
+[Kubernetes](https://kubernetes.io/) : https://kubernetes.io/
+[TensorFlow](https://www.tensorflow.org/) : https://www.tensorflow.org/
+[MXNet](https://mxnet.apache.org/) : https://mxnet.apache.org/
+[미국 국가안보국](https://thehackernews.com/2017/06/nsa-github-projects.html) : https://thehackernews.com/2017/06/nsa-github-projects.html
+[영국 정부통신본부](https://github.com/gchq) : https://github.com/gchq
+
 #### [Why Are Companies and Governments Turning to Open Source?](04-why-are-companies-and-governments-turning-to-open-source.md)
+
+[유명한 원칙](https://quoteinvestigator.com/2018/01/28/smartest/) : https://quoteinvestigator.com/2018/01/28/smartest/
+[세계 은행(World Bank)의 후원으로 작성된 최근 보고서](https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf) : https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf
+[GeoNode](http://geonode.org/) : http://geonode.org/
+[많은 정부들](https://www.csis.org/analysis/government-open-source-policies) : https://www.csis.org/analysis/government-open-source-policies
+[프랑스](http://circulaire.legifrance.gouv.fr/pdf/2012/09/cir_35837.pdf) : http://circulaire.legifrance.gouv.fr/pdf/2012/09/cir_35837.pdf
+[미국](https://code.gov/) : https://code.gov/
 
 #### [More Than a License or Even Code](05-more-than-a-license-or-even-code.md)
 
