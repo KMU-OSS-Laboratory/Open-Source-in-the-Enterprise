@@ -1,0 +1,634 @@
+
+<!DOCTYPE HTML>
+<html lang="ko" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>오픈소스 코드의 도입과 사용 · 기업에서의 오픈소스</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        <meta name="author" content="이민석 外">
+        
+        
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="08-participating-in-a-projects-community.html" />
+    
+    
+    <link rel="prev" href="06-groundworks-for-understanding-open-source.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="검색어 입력" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    Introduction
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="00-acknowledgments.html">
+            
+                <a href="00-acknowledgments.html">
+            
+                    
+                    감사의 글
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="01-preface.html">
+            
+                <a href="01-preface.html">
+            
+                    
+                    역자 서문
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="03-open-source-in-the-enteprise.html">
+            
+                <a href="03-open-source-in-the-enteprise.html">
+            
+                    
+                    개괄: 기업에서의 오픈소스
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" data-path="04-why-are-companies-and-governments-turning-to-open-source.html">
+            
+                <a href="04-why-are-companies-and-governments-turning-to-open-source.html">
+            
+                    
+                    왜 기업과 정부는 오픈소스로 전환하는가?
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" data-path="05-more-than-a-license-or-even-code.html">
+            
+                <a href="05-more-than-a-license-or-even-code.html">
+            
+                    
+                    저작권이나 심지어 코드보다 더 중요한 것
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7" data-path="06-groundworks-for-understanding-open-source.html">
+            
+                <a href="06-groundworks-for-understanding-open-source.html">
+            
+                    
+                    오픈소스를 이해하기 위한 기초
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.8" data-path="07-adopting-and-using-open-source-code.html">
+            
+                <a href="07-adopting-and-using-open-source-code.html">
+            
+                    
+                    오픈소스 코드의 도입과 사용
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9" data-path="08-participating-in-a-projects-community.html">
+            
+                <a href="08-participating-in-a-projects-community.html">
+            
+                    
+                    프로젝트 커뮤니티에의 참여
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10" data-path="09-contributing-to-open-source-project.html">
+            
+                <a href="09-contributing-to-open-source-project.html">
+            
+                    
+                    오픈소스 프로젝트에 기여하기
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11" data-path="10-launching-an-open-source-project.html">
+            
+                <a href="10-launching-an-open-source-project.html">
+            
+                    
+                    오픈소스 프로젝트의 시작
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12" data-path="11-open-source-and-the-cloud.html">
+            
+                <a href="11-open-source-and-the-cloud.html">
+            
+                    
+                    오픈소스와 클라우드
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.13" data-path="12-conclusion.html">
+            
+                <a href="12-conclusion.html">
+            
+                    
+                    결어
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14" data-path="13-about-authors.html">
+            
+                <a href="13-about-authors.html">
+            
+                    
+                    저자 소개
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.15" data-path="14-translators.html">
+            
+                <a href="14-translators.html">
+            
+                    
+                    역자 소개
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16" data-path="15-links.html">
+            
+                <a href="15-links.html">
+            
+                    
+                    외부 링크
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17" data-path="../GLOSSARY.html">
+            
+                <a href="../GLOSSARY.html">
+            
+                    
+                    용어 사전
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            GitBook에 게시
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >오픈소스 코드의 도입과 사용</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h3 id="adopting-and-using-open-source-code">Adopting and Using Open Source Code</h3>
+<ul>
+<li>(&#xBC88;&#xC5ED;&#xC644;&#xB8CC;)</li>
+<li>(1&#xCC28; &#xB9AC;&#xBDF0; &#xC644;&#xB8CC;)</li>
+<li>(2&#xCC28; &#xB9AC;&#xBDF0; : )</li>
+<li>(2&#xCC28; &#xB9AC;&#xBDF0; &#xBC18;&#xC601; : )</li>
+<li>...</li>
+</ul>
+<p>We trust you are curious what open source code can offer, and perhaps eager to find code that can solve a business need. This section summarizes the key processes you need to adopt to successfully use other people&#x2019;s open source code. The resources cited earlier in the book go into much more detail.</p>
+<h3 id="&#xC624;&#xD508;&#xC18C;&#xC2A4;-&#xCF54;&#xB4DC;&#xC758;-&#xB3C4;&#xC785;&#xACFC;-&#xC0AC;&#xC6A9;">&#xC624;&#xD508;&#xC18C;&#xC2A4; &#xCF54;&#xB4DC;&#xC758; &#xB3C4;&#xC785;&#xACFC; &#xC0AC;&#xC6A9;</h3>
+<p>&#xC624;&#xD508;&#xC18C;&#xC2A4; &#xCF54;&#xB4DC;&#xAC00; &#xBB34;&#xC5C7;&#xC744; &#xC81C;&#xACF5;&#xD560; &#xC218; &#xC788;&#xB294;&#xC9C0; &#xAD81;&#xAE08;&#xD574;&#xD558;&#xACE0;, &#xBE44;&#xC9C0;&#xB2C8;&#xC2A4; &#xC694;&#xAD6C;&#xB97C; &#xD574;&#xACB0;&#xD560; &#xC218; &#xC788;&#xB294; &#xCF54;&#xB4DC;&#xB97C; &#xCC3E;&#xACE0; &#xC2F6;&#xC744; &#xAC83;&#xC785;&#xB2C8;&#xB2E4;. &#xC774; &#xC139;&#xC158;&#xC5D0;&#xB294; &#xB2E4;&#xB978; &#xC0AC;&#xB78C;&#xC758; &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xCF54;&#xB4DC;&#xB97C; &#xC131;&#xACF5;&#xC801;&#xC73C;&#xB85C; &#xC0AC;&#xC6A9;&#xD558;&#xAE30; &#xC704;&#xD574; &#xCC44;&#xD0DD;&#xD574;&#xC57C; &#xD558;&#xB294; &#xC8FC;&#xC694; &#xD504;&#xB85C;&#xC138;&#xC2A4;&#xAC00; &#xC694;&#xC57D;&#xB418;&#xC5B4; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.  &#xC774; &#xCC45;&#xC758; &#xC55E;&#xBD80;&#xBD84;&#xC5D0; &#xC778;&#xC6A9;&#xB41C; &#xC790;&#xB8CC;&#xB294; &#xD6E8;&#xC52C; &#xB354; &#xC790;&#xC138;&#xD558;&#xAC8C; &#xC124;&#xBA85;&#xB418;&#xC5B4; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.</p>
+<h4 id="create-and-document-an-internal-open-source-policy">Create and Document an Internal Open Source Policy</h4>
+<ul>
+<li>(&#xBC88;&#xC5ED;&#xC644;&#xB8CC;)</li>
+<li>(1&#xCC28; &#xB9AC;&#xBDF0; : )</li>
+<li>(1&#xCC28; &#xB9AC;&#xBDF0; &#xBC18;&#xC601; : )</li>
+<li>(2&#xCC28; &#xB9AC;&#xBDF0; : )</li>
+<li>(2&#xCC28; &#xB9AC;&#xBDF0; &#xBC18;&#xC601; : )</li>
+<li>...</li>
+</ul>
+<h4 id="&#xB0B4;&#xBD80;-&#xC624;&#xD508;&#xC18C;&#xC2A4;-&#xC815;&#xCC45;-&#xC0DD;&#xC131;-&#xBC0F;-&#xBB38;&#xC11C;&#xD654;">&#xB0B4;&#xBD80; &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xC815;&#xCC45; &#xC0DD;&#xC131; &#xBC0F; &#xBB38;&#xC11C;&#xD654;</h4>
+<p>Your development team should know exactly what open source code it is using, and where. This tracking is done by your OSPO or by a virtual team of employees if you have not yet set up an OSPO. Tracking has two main purposes: establishing an audit trail to demonstrate that you are using the code properly, and ensuring that you comply with the license obligations on your third-party open source dependencies. Collecting this information is critical for many reasons; most organizations do so through automated tools in their development cycle.</p>
+<p>&#xAC1C;&#xBC1C;&#xD300;&#xC740; &#xC5B4;&#xB5A4; &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xCF54;&#xB4DC;&#xAC00; &#xC5B4;&#xB514;&#xC5D0; &#xC0AC;&#xC6A9; &#xC911;&#xC778;&#xC9C0; &#xC815;&#xD655;&#xD788; &#xC54C;&#xACE0; &#xC788;&#xC5B4;&#xC57C;&#xD569;&#xB2C8;&#xB2E4;. &#xC774; &#xCD94;&#xC801;&#xC740; OSPO&#xC5D0;&#xC11C; &#xC218;&#xD589;&#xD558;&#xAC70;&#xB098; &#xB610;&#xB294; OSPO&#xAC00; &#xC544;&#xC9C1; &#xB9CC;&#xB4E4;&#xC5B4;&#xC9C0;&#xC9C0; &#xC54A;&#xC740; &#xACBD;&#xC6B0; &#xC9C1;&#xC6D0;&#xC73C;&#xB85C; &#xAD6C;&#xC131;&#xB41C; &#xAC00;&#xC0C1;&#xC801;&#xC778;&#xD300;&#xC5D0; &#xC758;&#xD574; &#xC218;&#xD589;&#xD569;&#xB2C8;&#xB2E4;.  &#xCD94;&#xC801;&#xC5D0;&#xB294; &#xB450;&#xAC00;&#xC9C0; &#xC8FC;&#xC694; &#xBAA9;&#xC801;&#xC774; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;. &#xCF54;&#xB4DC;&#xB97C; &#xC62C;&#xBC14;&#xB974;&#xAC8C; &#xC0AC;&#xC6A9;&#xD558;&#xACE0; &#xC788;&#xC74C;&#xC744; &#xC785;&#xC99D;&#xD558;&#xAE30; &#xC704;&#xD55C; &#xAC10;&#xC0AC; &#xAE30;&#xB85D;&#xC744; &#xB0A8;&#xAE30;&#xACE0;, &#xC81C;3&#xC790; &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xC885;&#xC18D;&#xC131;&#xC5D0; &#xB300;&#xD55C; &#xB77C;&#xC774;&#xC120;&#xC2A4; &#xC758;&#xBB34;&#xB97C; &#xC900;&#xC218;&#xD558;&#xB294;&#xC9C0; &#xD655;&#xC778;&#xD558;&#xB294; &#xAC83;&#xC785;&#xB2C8;&#xB2E4;. &#xC774; &#xC815;&#xBCF4;&#xB97C; &#xC218;&#xC9D1;&#xD558;&#xB294; &#xAC83;&#xC740; &#xC5EC;&#xB7EC; &#xAC00;&#xC9C0; &#xC774;&#xC720;&#xB85C; &#xB9E4;&#xC6B0; &#xC911;&#xC694;&#xD569;&#xB2C8;&#xB2E4;. &#xB300;&#xBD80;&#xBD84;&#xC758; &#xC870;&#xC9C1;&#xC5D0;&#xC11C;&#xB294; &#xAC1C;&#xBC1C; &#xC0AC;&#xC774;&#xD074; &#xC548;&#xC5D0; &#xC790;&#xB3D9;&#xD654;&#xB41C; &#xB3C4;&#xAD6C;&#xB97C; &#xD3EC;&#xD568;&#xC2DC;&#xCF1C; &#xC774; &#xC815;&#xBCF4;&#xB97C; &#xC218;&#xC9D1;&#xD569;&#xB2C8;&#xB2E4;.</p>
+<p>Writing a strategy paper is valuable to educate managers and employees. Think big and aim for the end state that you are trying to achieve. At the same time, frame the broad, high-level goals in the context of business outcomes. Here are some points that have been have used successfully to explain what open source can do for an organization:</p>
+<ul>
+<li>Attract and retain talent</li>
+<li>Increase agility, drive innovation, and accelerate the creation of business value</li>
+<li>Reduce costs and improve efficiency by focusing your staff on writing business logic and by eliminating reinvent-the-wheel heavy lifting</li>
+<li>Generate revenue or gain market share, either through your product or through thought leadership</li>
+</ul>
+<p>&#xC804;&#xB7B5; &#xBCF4;&#xACE0;&#xC11C;&#xB97C; &#xC791;&#xC131;&#xD558;&#xB294; &#xAC83;&#xC740; &#xAD00;&#xB9AC;&#xC790;&#xC640; &#xC9C1;&#xC6D0;&#xC744; &#xAD50;&#xC721;&#xD558;&#xB294;&#xB370; &#xC911;&#xC694;&#xD569;&#xB2C8;&#xB2E4;. &#xD06C;&#xAC8C; &#xC0DD;&#xAC01;&#xD558;&#xACE0; &#xB2F9;&#xC2E0;&#xC774; &#xC131;&#xCDE8;&#xD558;&#xACE0;&#xC790; &#xD558;&#xB294; &#xCD5C;&#xC885; &#xC0C1;&#xD0DC;&#xB97C; &#xBAA9;&#xD45C;&#xB85C; &#xC0BC;&#xC73C;&#xC2ED;&#xC2DC;&#xC624;.  &#xB3D9;&#xC2DC;&#xC5D0; &#xBE44;&#xC9C0;&#xB2C8;&#xC2A4; &#xC131;&#xACFC; &#xCE21;&#xBA74;&#xC5D0;&#xC11C; &#xAD11;&#xBC94;&#xC704;&#xD55C; &#xC0C1;&#xC704; &#xBAA9;&#xD45C;&#xB97C; &#xC218;&#xB9BD;&#xD558;&#xC2ED;&#xC2DC;&#xC624;.  &#xB2E4;&#xC74C;&#xC740; &#xC624;&#xD508;&#xC18C;&#xC2A4;&#xAC00; &#xC870;&#xC9C1;&#xC744; &#xC704;&#xD574; &#xD560; &#xC218; &#xC788;&#xB294; &#xAC83;&#xC744; &#xC124;&#xBA85;&#xD558;&#xB294;&#xB370; &#xC131;&#xACF5;&#xC801;&#xC73C;&#xB85C; &#xC0AC;&#xC6A9;&#xB41C; &#xBA87;&#xAC00;&#xC9C0; &#xC0AC;&#xD56D;&#xC785;&#xB2C8;&#xB2E4;:</p>
+<ul>
+<li>&#xC778;&#xC7AC;&#xB97C; &#xB04C;&#xC5B4;&#xB4E4;&#xC774;&#xACE0; &#xC720;&#xC9C0;&#xD569;&#xB2C8;&#xB2E4;. </li>
+<li>&#xBBFC;&#xCCA9;&#xC131;&#xC744; &#xB192;&#xC774;&#xACE0;, &#xD601;&#xC2E0;&#xC744; &#xC8FC;&#xB3C4;&#xD558;&#xBA70;, &#xBE44;&#xC9C0;&#xB2C8;&#xC2A4; &#xAC00;&#xCE58; &#xCC3D;&#xCD9C;&#xC744; &#xAC00;&#xC18D;&#xD654;&#xD569;&#xB2C8;&#xB2E4;.</li>
+<li>&#xBE44;&#xC9C0;&#xB2C8;&#xC2A4; &#xB85C;&#xC9C1; &#xC791;&#xC131;&#xC5D0; &#xC9D1;&#xC911;&#xD558;&#xACE0;, &#xC4F8;&#xB370; &#xC5C6;&#xB294; &#xC77C;&#xC5D0; &#xB0AD;&#xBE44;&#xD558;&#xB294; &#xC2DC;&#xAC04;&#xC744; &#xC81C;&#xAC70;&#xD568;&#xC73C;&#xB85C; &#xBE44;&#xC6A9;&#xC744; &#xC808;&#xAC10;&#xD558;&#xACE0; &#xD6A8;&#xC728;&#xC131;&#xC744; &#xD5A5;&#xC0C1; &#xC2DC;&#xD0B5;&#xB2C8;&#xB2E4;. </li>
+<li>&#xC81C;&#xD488; &#xB610;&#xB294; &#xB9AC;&#xB354;&#xC27D; &#xC0AC;&#xACE0;&#xB97C; &#xD1B5;&#xD574; &#xC218;&#xC775;&#xC744; &#xCC3D;&#xCD9C;&#xD558;&#xAC70;&#xB098; &#xC2DC;&#xC7A5; &#xC810;&#xC720;&#xC728;&#xC744; &#xD655;&#xBCF4;&#xD569;&#xB2C8;&#xB2E4;.</li>
+</ul>
+<p>Break down your strategy into milestones. This allows you to assign ownership and speed up the delivery of the multiple processes that are needed. In terms of strategy, think about these:</p>
+<ul>
+<li>Open source governance and policies that clarify to the broader company how and when it can use open source</li>
+<li>Policies specifying how developers can contribute to external open source projects: roles and time spent</li>
+<li>Encouraging an open policy in applicable software projects from the start among technology leadership and enterprise architecture groups</li>
+<li>Starting an InnerSource model in tandem, in which you adopt open source practices for internal development across your entire company</li>
+</ul>
+<p>&#xC804;&#xB7B5;&#xC744; &#xC774;&#xC815;&#xD45C;&#xB85C; &#xC138;&#xBD84;&#xD654;&#xD558;&#xC2ED;&#xC2DC;&#xC624;. &#xC774;&#xB97C; &#xD1B5;&#xD574; &#xC18C;&#xC720;&#xAD8C;&#xC744; &#xD560;&#xB2F9;&#xD558;&#xACE0; &#xD544;&#xC694;&#xD55C; &#xC5EC;&#xB7EC; &#xD504;&#xB85C;&#xC138;&#xC2A4;&#xB97C; &#xC2E0;&#xC18D;&#xD558;&#xAC8C; &#xC81C;&#xACF5;&#xD560; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.  &#xC804;&#xB7B5; &#xCE21;&#xBA74;&#xC5D0;&#xC11C; &#xB2E4;&#xC74C; &#xC0AC;&#xD56D;&#xC744; &#xACE0;&#xB824;&#xD558;&#xC2ED;&#xC2DC;&#xC624;. </p>
+<ul>
+<li>&#xC624;&#xD508;&#xC18C;&#xC2A4;&#xB97C; &#xC0AC;&#xC6A9;&#xD560; &#xC218; &#xC788;&#xB294; &#xBC29;&#xBC95;&#xACFC; &#xC2DC;&#xAE30;&#xC5D0; &#xB300;&#xD574; &#xD68C;&#xC0AC; &#xC804;&#xBC18;&#xC5D0; &#xC54C;&#xB9AC;&#xB294; &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xAC70;&#xBC84;&#xB10C;&#xC2A4; &#xBC0F; &#xC815;&#xCC45;</li>
+<li>&#xAC1C;&#xBC1C;&#xC790;&#xAC00; &#xC678;&#xBD80; &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC5D0; &#xAE30;&#xC5EC;&#xD560; &#xC218; &#xC788;&#xB294; &#xBC29;&#xBC95;&#xC744; &#xBA85;&#xC2DC;&#xD55C; &#xC815;&#xCC45; : &#xC5ED;&#xD560; &#xBC0F; &#xC18C;&#xC694; &#xC2DC;&#xAC04;</li>
+<li>&#xAE30;&#xC220; &#xB9AC;&#xB354;&#xC27D; &#xBC0F; &#xC5D4;&#xD130;&#xD504;&#xB77C;&#xC774;&#xC988; &#xC544;&#xD0A4;&#xD14D;&#xCC98; &#xADF8;&#xB8F9; &#xC911; &#xCC98;&#xC74C;&#xBD80;&#xD130; &#xC801;&#xC6A9; &#xAC00;&#xB2A5;&#xD55C; &#xC18C;&#xD504;&#xD2B8;&#xC6E8;&#xC5B4; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC758; &#xC624;&#xD508; &#xC815;&#xCC45; &#xC7A5;&#xB824;</li>
+<li>&#xD68C;&#xC0AC; &#xC804;&#xCCB4;&#xC5D0; &#xAC78;&#xCCD0; &#xB0B4;&#xBD80; &#xAC1C;&#xBC1C;&#xC744; &#xC704;&#xD574; &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xC0AC;&#xB840;&#xB97C; &#xC801;&#xC6A9;&#xD558;&#xB294; InnerSource &#xBAA8;&#xB378;&#xC744; &#xB3D9;&#xC2DC;&#xC5D0; &#xC2DC;&#xC791;</li>
+</ul>
+<p>Because the adoption of open source crosses many organizational boundaries and can lead to new organizational structures, you might need to explore the creation of new policies that allow developers to collaborate internally across those structures.</p>
+<p>&#xC624;&#xD508;&#xC18C;&#xC2A4;&#xC758; &#xCC44;&#xD0DD;&#xC740; &#xB9CE;&#xC740; &#xC870;&#xC9C1;&#xC758; &#xACBD;&#xACC4;&#xB97C; &#xB118;&#xC5B4; &#xC0C8;&#xB85C;&#xC6B4; &#xC870;&#xC9C1; &#xAD6C;&#xC870;&#xB85C; &#xC774;&#xC5B4;&#xC9C8; &#xC218; &#xC788;&#xAE30; &#xB54C;&#xBB38;&#xC5D0;, &#xB2F9;&#xC2E0;&#xC740;  &#xAC1C;&#xBC1C;&#xC790;&#xB4E4;&#xC774; &#xC774;&#xB7EC;&#xD55C; &#xAD6C;&#xC870; &#xC804;&#xCCB4;&#xC5D0; &#xAC78;&#xCCD0; &#xB0B4;&#xBD80;&#xC801;&#xC73C;&#xB85C; &#xD611;&#xC5C5;&#xD560; &#xC218; &#xC788;&#xAC8C;&#xD558;&#xB294; &#xC0C8;&#xB85C;&#xC6B4; &#xC815;&#xCC45;&#xC758; &#xC0DD;&#xC131;&#xC744; &#xC870;&#xC0AC;&#xD574;&#xC57C; &#xD560; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;. </p>
+<p>It is important to find a senior sponsor who will help open doors and champion your cause. This can be the most difficult task we describe in this section, but it is critical. You will need the sponsor on your journey. Make your strategy paper compelling, and they will buy into your high-level, long-range vision. Aim for CTO or CIO support, but be prepared to have to work your way up to that.</p>
+<p>&#xB2F9;&#xC2E0;&#xC758; &#xC8FC;&#xC7A5;&#xC744; &#xD5C8;&#xC6A9;&#xD558;&#xACE0; &#xC639;&#xD638;&#xD558;&#xB294;&#xB370; &#xB3C4;&#xC6C0;&#xC744; &#xC904; &#xC218; &#xC788;&#xB294; &#xACE0;&#xC704;&#xC758; &#xD6C4;&#xC6D0;&#xC790;&#xB97C; &#xCC3E;&#xB294; &#xAC83;&#xC774; &#xC911;&#xC694;&#xD569;&#xB2C8;&#xB2E4;.  &#xC774;&#xAC83;&#xC740; &#xC6B0;&#xB9AC;&#xAC00; &#xC774; &#xC139;&#xC158;&#xC5D0;&#xC11C; &#xC124;&#xBA85;&#xD558;&#xB294; &#xAC00;&#xC7A5; &#xC5B4;&#xB824;&#xC6B4; &#xC791;&#xC5C5;&#xC77C; &#xC218; &#xC788;&#xC9C0;&#xB9CC;, &#xB9E4;&#xC6B0; &#xC911;&#xC694;&#xD569;&#xB2C8;&#xB2E4;.  &#xB2F9;&#xC2E0;&#xC740; &#xC5EC;&#xD589;&#xC5D0;&#xC11C; &#xD6C4;&#xC6D0;&#xC790;&#xAC00; &#xD544;&#xC694;&#xD560; &#xAC83;&#xC785;&#xB2C8;&#xB2E4;. &#xC804;&#xB7B5; &#xBCF4;&#xACE0;&#xC11C;&#xB97C; &#xC124;&#xB4DD;&#xB825; &#xC788;&#xAC8C; &#xC791;&#xC131;&#xD558;&#xBA74;, &#xADF8;&#xB4E4;&#xC740; &#xB2F9;&#xC2E0;&#xC758; &#xB192;&#xC740; &#xC218;&#xC900;&#xC758; &#xC7A5;&#xAE30;&#xC801;&#xC778; &#xBE44;&#xC804;&#xC744; &#xBC1B;&#xC544;&#xB4E4;&#xC77C; &#xAC83;&#xC785;&#xB2C8;&#xB2E4;. CTO &#xB610;&#xB294; CIO&#xC758; &#xC9C0;&#xC6D0;&#xC744; &#xBAA9;&#xD45C;&#xB85C; &#xC0BC;&#xB418;, &#xC774;&#xB97C; &#xC704;&#xD574; &#xCD5C;&#xC120;&#xC744; &#xB2E4;&#xD574; &#xC900;&#xBE44;&#xD574;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;.</p>
+<p>Legal staff need to be trained to understand licenses that might be radically different from anything they have dealt with previously. The marketing and PR teams also need to discuss the effects of open source on your practices, quality, and responsiveness to customers. This requires them to study open source practices, collaborate on communication with the communities, and translate these new practices into interactions with your customers. Members of the open source community that you&#x2019;re joining (and probably hiring from) can explain to your marketing team the importance of attending and supporting events held by the community. In addition, the sales team needs to understand licensing well enough to answer questions about using and extending the code, when presenting your solution to customers.</p>
+<p>&#xBC95;&#xB960; &#xC9C1;&#xC6D0;&#xC740; &#xC774;&#xC804;&#xC5D0; &#xADF8;&#xB4E4;&#xC774; &#xB2E4;&#xB8E8;&#xC5C8;&#xB358; &#xAC83;&#xACFC; &#xADFC;&#xBCF8;&#xC801;&#xC73C;&#xB85C; &#xB2E4;&#xB97C; &#xC218; &#xC788;&#xB294; &#xB77C;&#xC774;&#xC120;&#xC2A4;&#xB97C; &#xC774;&#xD574;&#xD560; &#xC218; &#xC788;&#xB3C4;&#xB85D; &#xAD50;&#xC721;&#xC744; &#xBC1B;&#xC544;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;. &#xB610;&#xD55C;, &#xB9C8;&#xCF00;&#xD305; &#xBC0F; &#xD64D;&#xBCF4;&#xD300;&#xC740; &#xC624;&#xD508;&#xC18C;&#xC2A4;&#xAC00; &#xACE0;&#xAC1D;&#xC5D0; &#xB300;&#xD55C; &#xAD00;&#xD589;, &#xD488;&#xC9C8; &#xBC0F; &#xBC18;&#xC751;&#xC5D0; &#xBBF8;&#xCE58;&#xB294; &#xC601;&#xD5A5;&#xC5D0; &#xB300;&#xD574; &#xB17C;&#xC758;&#xD574;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;.  &#xC774;&#xB97C; &#xC704;&#xD574;&#xC11C;&#xB294; &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xC0AC;&#xB840;&#xB97C; &#xC5F0;&#xAD6C;&#xD558;&#xACE0;, &#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0;&#xC640;&#xC758; &#xCEE4;&#xBBA4;&#xB2C8;&#xCF00;&#xC774;&#xC158;&#xC5D0; &#xD611;&#xB825;&#xD558;&#xBA70;, &#xC774;&#xB7EC;&#xD55C; &#xC0C8;&#xB85C;&#xC6B4; &#xC0AC;&#xB840;&#xB97C; &#xACE0;&#xAC1D;&#xACFC;&#xC758; &#xC0C1;&#xD638; &#xC791;&#xC6A9;&#xC73C;&#xB85C; &#xC804;&#xD658;&#xD574;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;.  &#xB2F9;&#xC2E0;&#xC774; &#xCC38;&#xC5EC;&#xD558;&#xACE0; &#xC788;&#xB294; (&#xADF8;&#xB9AC;&#xACE0; &#xC544;&#xB9C8; &#xACE0;&#xC6A9;&#xD558;&#xACE0; &#xC788;&#xB294;) &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0;&#xC758; &#xAD6C;&#xC131;&#xC6D0;&#xC740; &#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0;&#xC5D0;&#xC11C; &#xAC1C;&#xCD5C;&#xD558;&#xB294; &#xC774;&#xBCA4;&#xD2B8;&#xC5D0; &#xCC38;&#xC11D;&#xD558;&#xACE0; &#xC9C0;&#xC6D0;&#xD558;&#xB294; &#xAC83;&#xC758; &#xC911;&#xC694;&#xC131;&#xC744; &#xB2F9;&#xC2E0;&#xC758; &#xB9C8;&#xCF00;&#xD305; &#xD300;&#xC5D0; &#xC124;&#xBA85;&#xD560; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.  &#xB610;&#xD55C;, &#xC601;&#xC5C5;&#xD300;&#xC740; &#xACE0;&#xAC1D;&#xC5D0;&#xAC8C; &#xC194;&#xB8E8;&#xC158;&#xC744; &#xC81C;&#xC2DC;&#xD560; &#xB54C;, &#xCF54;&#xB4DC; &#xC0AC;&#xC6A9; &#xBC0F; &#xD655;&#xC7A5;&#xC5D0; &#xB300;&#xD55C; &#xC9C8;&#xBB38;&#xC5D0; &#xB300;&#xB2F5;&#xD560; &#xC218; &#xC788;&#xB3C4;&#xB85D; &#xB77C;&#xC774;&#xC120;&#xC2A4;&#xB97C; &#xCDA9;&#xBD84;&#xD788; &#xC774;&#xD574;&#xD574;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;. </p>
+<p>If you don&#x2019;t have a clear process, you risk having someone incorporate open source code informally without following good practices. Not only could this violate the code&#x2019;s license, but it deprives you of the benefits of properly using open source code. For instance, critical bug fixes are released regularly by open source projects, and you need to know where you&#x2019;re using this code in order to install the fixes. Instituting clear processes also allows your employees to become valued members of the community and represent your organization&#x2019;s needs there. Finally, a clear and well-communicated policy leads to dramatically more participation and more awareness of your open source initiative throughout the company.</p>
+<p>&#xBA85;&#xD655;&#xD55C; &#xD504;&#xB85C;&#xC138;&#xC2A4;&#xAC00; &#xC5C6;&#xB2E4;&#xBA74;, &#xB204;&#xAD70;&#xAC00; &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xCF54;&#xB4DC;&#xB97C; &#xC88B;&#xC740; &#xC0AC;&#xB840;&#xB97C; &#xB530;&#xB974;&#xC9C0; &#xC54A;&#xACE0; &#xBE44;&#xACF5;&#xC2DD;&#xC801;&#xC73C;&#xB85C; &#xD1B5;&#xD569;&#xD560; &#xC704;&#xD5D8;&#xC774; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.  &#xC774;&#xAC83;&#xC740; &#xCF54;&#xB4DC;&#xC758; &#xB77C;&#xC774;&#xC120;&#xC2A4;&#xC5D0; &#xC704;&#xBC30;&#xB420; &#xBFD0;&#xB9CC; &#xC544;&#xB2C8;&#xB77C;, &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xCF54;&#xB4DC;&#xB97C; &#xC62C;&#xBC14;&#xB974;&#xAC8C; &#xC0AC;&#xC6A9;&#xD558;&#xBA74; &#xC5BB;&#xC744; &#xC218; &#xC788;&#xB294; &#xC774;&#xC775;&#xC744; &#xBC15;&#xD0C8;&#xD560; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.  &#xC608;&#xB97C; &#xB4E4;&#xC5B4;, &#xC911;&#xC694;&#xD55C; &#xBC84;&#xADF8; &#xC218;&#xC815;&#xC740; &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC5D0;&#xC11C; &#xC8FC;&#xAE30;&#xC801;&#xC73C;&#xB85C; &#xB9B4;&#xB9AC;&#xC2A4;&#xB418;&#xB294;&#xB370;, &#xC774;&#xB97C; &#xC124;&#xCE58;&#xD558;&#xAE30; &#xC704;&#xD574;&#xC11C;&#xB294; &#xC774; &#xCF54;&#xB4DC;&#xAC00; &#xC5B4;&#xB514;&#xC5D0; &#xC0AC;&#xC6A9;&#xB418;&#xB294;&#xC9C0; &#xC54C;&#xC544;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;.  &#xB610;&#xD55C;, &#xBA85;&#xD655;&#xD55C; &#xD504;&#xB85C;&#xC138;&#xC2A4;&#xB97C; &#xC218;&#xB9BD;&#xD558;&#xB294; &#xAC83;&#xC740; &#xB2F9;&#xC2E0;&#xC758; &#xC9C1;&#xC6D0;&#xB4E4;&#xC774; &#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0;&#xC758; &#xC18C;&#xC911;&#xD55C; &#xAD6C;&#xC131;&#xC6D0;&#xC774; &#xB418;&#xACE0;, &#xAC70;&#xAE30;&#xC5D0;&#xC11C; &#xB2F9;&#xC2E0; &#xC870;&#xC9C1;&#xC758; &#xD544;&#xC694;&#xB97C; &#xB300;&#xBCC0;&#xD560; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;. &#xB9C8;&#xC9C0;&#xB9C9;&#xC73C;&#xB85C;, &#xBA85;&#xD655;&#xD558;&#xACE0; &#xC798; &#xC804;&#xB2EC;&#xB41C; &#xC815;&#xCC45;&#xC740; &#xD68C;&#xC0AC; &#xC804;&#xCCB4;&#xC5D0; &#xAC78;&#xCCD0; &#xB2F9;&#xC2E0;&#xC758; &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xACC4;&#xD68D;&#xC5D0; &#xB300;&#xD55C; &#xCC38;&#xC5EC;&#xC640; &#xC778;&#xC2DD;&#xC744; &#xD6E8;&#xC52C; &#xB354; &#xB192;&#xC5EC;&#xC90D;&#xB2C8;&#xB2E4;.</p>
+<h4 id="formalize-your-strategy-through-an-ospo">Formalize Your Strategy Through an OSPO</h4>
+<ul>
+<li>(&#xBC88;&#xC5ED;&#xC644;&#xB8CC;)</li>
+<li>(1&#xCC28; &#xB9AC;&#xBDF0; &#xC644;&#xB8CC;)</li>
+<li>(2&#xCC28; &#xB9AC;&#xBDF0; : )</li>
+<li>(2&#xCC28; &#xB9AC;&#xBDF0; &#xBC18;&#xC601; : )</li>
+<li>...</li>
+</ul>
+<p>Developers can participate informally as members of open source communities, but companies who want to fully benefit need to centralize the logistics for supporting open source: legal vetting, project vetting, recruiting developers to work on the code, sponsoring projects and events, managing communications and community relations, and so on. Most companies entering open source have therefore created an OSPO to promote it and handle the associated tasks. Several OSPO leads have collaborated via the Linux Foundation&#x2019;s TODO group to assemble sample <a href="https://github.com/todogroup/policies" target="_blank">open source templates and policies</a> that can be useful to companies getting started. Your OSPO can sponsor the activities we describe in subsequent sections.</p>
+<h3 id="ospo&#xB97C;-&#xD1B5;&#xD55C;-&#xC804;&#xB7B5;&#xC744;-&#xC218;&#xB9BD;&#xD558;&#xC138;&#xC694;">OSPO&#xB97C; &#xD1B5;&#xD55C; &#xC804;&#xB7B5;&#xC744; &#xC218;&#xB9BD;&#xD558;&#xC138;&#xC694;</h3>
+<p>&#xAC1C;&#xBC1C;&#xC790;&#xB4E4;&#xC740; &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0;&#xC758; &#xC77C;&#xC6D0;&#xC73C;&#xB85C;&#xC11C; &#xBE44;&#xACF5;&#xC2DD;&#xC801;&#xC73C;&#xB85C; &#xCC38;&#xC5EC;&#xD560; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;. &#xD558;&#xC9C0;&#xB9CC; &#xD655;&#xC2E4;&#xD55C; &#xC774;&#xB4DD;&#xC744; &#xC5BB;&#xAE30;&#xB97C; &#xC6D0;&#xD55C;&#xB2E4;&#xBA74; &#xD68C;&#xC0AC;&#xB294;, &#xBC95;&#xB960;&#xC801; &#xC2EC;&#xC0AC;, &#xD504;&#xB85C;&#xC81D;&#xD2B8; &#xC2EC;&#xC0AC;, &#xCF54;&#xB4DC;&#xB97C; &#xC791;&#xC131;&#xD560; &#xAC1C;&#xBC1C;&#xC790;&#xB97C; &#xCC44;&#xC6A9;&#xD558;&#xB294; &#xAC83;, &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC640; &#xC774;&#xBCA4;&#xD2B8;&#xB97C; &#xC9C0;&#xC6D0;&#xD558;&#xB294; &#xAC83;, &#xCEE4;&#xBBA4;&#xB2C8;&#xD14C;&#xC774;&#xC158;&#xACFC; &#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0; &#xAD00;&#xACC4;&#xB97C; &#xAD00;&#xB9AC;&#xD558;&#xB294; &#xAC83; &#xB4F1;&#xC758; &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xC9C0;&#xC6D0;&#xC744; &#xC704;&#xD55C; &#xCC3D;&#xAD6C;&#xB97C; &#xC77C;&#xC6D0;&#xD654;&#xD574;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;. &#xB530;&#xB77C;&#xC11C; &#xC624;&#xD508;&#xC18C;&#xC2A4;&#xB97C; &#xC2DC;&#xC791;&#xD558;&#xB294; &#xB300;&#xBD80;&#xBD84;&#xC758; &#xD68C;&#xC0AC;&#xB4E4;&#xC740; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xB97C; &#xD64D;&#xBCF4;&#xD558;&#xACE0; &#xAD00;&#xB828;&#xB41C; &#xC5C5;&#xBB34;&#xB97C; &#xCC98;&#xB9AC;&#xD558;&#xAE30; &#xC704;&#xD574;&#xC11C; OSPO(&#xC5ED;&#xC790; &#xC8FC;:Open Source Project Office)&#xB97C; &#xB9CC;&#xB4ED;&#xB2C8;&#xB2E4;. &#xC5EC;&#xB7EC; OSPO&#xC758; &#xCC45;&#xC784;&#xC790;&#xB4E4;&#xACFC; &#xB9AC;&#xB205;&#xC2A4; &#xC7AC;&#xB2E8;&#xC758; TODO &#xADF8;&#xB8F9;&#xC774; &#xD611;&#xB825;&#xD574;&#xC11C; &#xB9CC;&#xB4E0; <a href="https://github.com/todogroup/policies" target="_blank">&#xC624;&#xD508;&#xC18C;&#xC2A4; &#xD15C;&#xD50C;&#xB9BF;&#xACFC; &#xC815;&#xCC45;</a> &#xC608;&#xC81C;&#xB4E4;&#xC774; &#xC774;&#xC81C; &#xB9C9; &#xC2DC;&#xC791;&#xD558;&#xB294; &#xD68C;&#xC0AC;&#xB4E4;&#xC5D0;&#xAC8C; &#xC720;&#xC6A9;&#xD558;&#xAC8C; &#xC0AC;&#xC6A9;&#xB420; &#xC218; &#xC788;&#xC744; &#xAC83;&#xC785;&#xB2C8;&#xB2E4;. &#xB2F9;&#xC2E0;&#xC758; OSPO&#xB294; &#xC544;&#xB798; &#xC139;&#xC158;&#xB4E4;&#xC5D0;&#xC11C; &#xC11C;&#xC220;&#xB418;&#xB294; &#xD65C;&#xB3D9;&#xB4E4;&#xC744; &#xC9C0;&#xC6D0;&#xD560; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.</p>
+<h4 id="build-ties-throughout-the-company">Build Ties Throughout the Company</h4>
+<ul>
+<li>(&#xBC88;&#xC5ED;&#xC644;&#xB8CC;)</li>
+<li>(1&#xCC28; &#xB9AC;&#xBDF0; &#xC644;&#xB8CC;)</li>
+<li>(2&#xCC28; &#xB9AC;&#xBDF0; : )</li>
+<li>(2&#xCC28; &#xB9AC;&#xBDF0; &#xBC18;&#xC601; : )</li>
+<li>...</li>
+</ul>
+<p>After creating a policy, make sure that all of your developers know it. Many other areas of the company, such as the legal and procurement teams, need to be on board as well.</p>
+<p>First, create a supportive community of open source practitioners within the company. Developers and others who have worked in open source communities can do this at a grassroots level, with or without support and guidance from management. The advocates spend time evangelizing and educating other employees about open source through activities such as regular lunchtime ses&#x2010; sions, webinars, and presentations at team meetings.</p>
+<p>A training course given to all developers in the company will make sure everyone has the same understanding and expectations about using and contributing to open source.</p>
+<p>These outreach activities all help demystify open source and accustom the employees to its culture. Most important, those activities uncover other potential champions, so you can begin working with them early on.</p>
+<h3 id="&#xD68C;&#xC0AC;-&#xC804;&#xCCB4;&#xC758;-&#xC5F0;&#xACB0;-&#xAD00;&#xACC4;&#xB97C;-&#xB9CC;&#xB4DC;&#xC138;&#xC694;">&#xD68C;&#xC0AC; &#xC804;&#xCCB4;&#xC758; &#xC5F0;&#xACB0; &#xAD00;&#xACC4;&#xB97C; &#xB9CC;&#xB4DC;&#xC138;&#xC694;</h3>
+<p>&#xC815;&#xCC45;&#xC744; &#xC218;&#xB9BD;&#xD55C; &#xB4A4;&#xC5D0;&#xB294;, &#xD68C;&#xC0AC;&#xC758; &#xBAA8;&#xB4E0; &#xAC1C;&#xBC1C;&#xC790;&#xB4E4;&#xC774; &#xC774; &#xC815;&#xCC45;&#xC744; &#xC219;&#xC9C0;&#xD558;&#xB3C4;&#xB85D; &#xD569;&#xB2C8;&#xB2E4;. &#xC5EC;&#xAE30;&#xC5D0;&#xB294; &#xBC95;&#xBB34;&#xD300;, &#xAD6C;&#xB9E4;&#xC870;&#xB2EC;&#xD300;&#xACFC; &#xAC19;&#xC740; &#xD68C;&#xC0AC;&#xC758; &#xC5EC;&#xB7EC; &#xB2E4;&#xB978; &#xC601;&#xC5ED;&#xB4E4; &#xB610;&#xD55C; &#xD3EC;&#xD568;&#xB418;&#xC5B4;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;. </p>
+<p>&#xBA3C;&#xC800; &#xD68C;&#xC0AC; &#xC548;&#xC5D0; &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xC2E4;&#xBB34;&#xC790;&#xB85C; &#xC774;&#xB8E8;&#xC5B4;&#xC9C4; &#xC9C0;&#xC6D0; &#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0;&#xB97C; &#xB9CC;&#xB4DC;&#xC138;&#xC694;. &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0;&#xC5D0;&#xC11C; &#xC77C;&#xD55C; &#xC801;&#xC774; &#xC788;&#xB294; &#xAC1C;&#xBC1C;&#xC790;&#xB098; &#xB2E4;&#xB978; &#xC0AC;&#xB78C;&#xB4E4;&#xC740; &#xACBD;&#xC601;&#xC9C4;&#xC758; &#xC9C0;&#xC6D0;&#xC774;&#xB098; &#xAC00;&#xC774;&#xB4DC;&#xAC00; &#xC788;&#xB4E0; &#xC5C6;&#xB4E0; &#xC774;&#xAC83;&#xC744; &#xAE30;&#xBCF8;&#xC801;&#xC778; &#xC815;&#xB3C4;&#xB85C; &#xD560; &#xC218; &#xC788;&#xC744; &#xAC83;&#xC785;&#xB2C8;&#xB2E4;. &#xC774;&#xB4E4; &#xC9C0;&#xC9C0;&#xC790;&#xB4E4;&#xC740; &#xC815;&#xAE30;&#xC801;&#xC778; &#xC810;&#xC2EC;&#xC2DC;&#xAC04; &#xC138;&#xC158;, &#xC6F9; &#xC138;&#xBBF8;&#xB098;, &#xADF8;&#xB9AC;&#xACE0; &#xD300; &#xD68C;&#xC758;&#xC5D0;&#xC11C;&#xC758; &#xBC1C;&#xD45C;&#xC640; &#xAC19;&#xC740; &#xD65C;&#xB3D9;&#xB4E4;&#xC744; &#xD1B5;&#xD574;&#xC11C; &#xB2E4;&#xB978; &#xC9C1;&#xC6D0;&#xB4E4;&#xC5D0;&#xAC8C; &#xC624;&#xD508;&#xC18C;&#xC2A4;&#xB97C; &#xC804;&#xD30C;&#xD558;&#xACE0; &#xAD50;&#xC721;&#xC744; &#xD569;&#xB2C8;&#xB2E4;.</p>
+<p>&#xD68C;&#xC0AC;&#xC5D0; &#xC788;&#xB294; &#xBAA8;&#xB4E0; &#xAC1C;&#xBC1C;&#xC790;&#xB97C; &#xB300;&#xC0C1;&#xC73C;&#xB85C; &#xC9C4;&#xD589;&#xB418;&#xB294; &#xAD50;&#xC721; &#xACFC;&#xC815;&#xC740; &#xC624;&#xD508;&#xC18C;&#xC2A4;&#xB97C; &#xC0AC;&#xC6A9;&#xD558;&#xACE0; &#xAE30;&#xC5EC;&#xD558;&#xB294;&#xB370; &#xC788;&#xC5B4;&#xC11C; &#xBAA8;&#xB450;&#xAC00; &#xAC19;&#xC740; &#xC774;&#xD574;&#xC640; &#xAE30;&#xB300;&#xB97C; &#xAC00;&#xC9C0;&#xACE0; &#xC788;&#xB2E4;&#xB294; &#xAC83;&#xC744; &#xD655;&#xC2E4;&#xD558;&#xAC8C; &#xD560; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;. </p>
+<p>&#xC774;&#xC640; &#xAC19;&#xC740; &#xC9C0;&#xC6D0; &#xD65C;&#xB3D9;&#xC740; &#xC624;&#xD508;&#xC18C;&#xC2A4;&#xC5D0; &#xB300;&#xD55C; &#xC774;&#xD574;&#xB97C; &#xB3D5;&#xACE0; &#xC9C1;&#xC6D0;&#xB4E4;&#xC774; &#xADF8; &#xBB38;&#xD654;&#xC5D0; &#xC775;&#xC219;&#xD574;&#xC9C0;&#xB3C4;&#xB85D; &#xD569;&#xB2C8;&#xB2E4;. &#xADF8;&#xB7F0; &#xD65C;&#xB3D9;&#xB4E4;&#xC774; &#xC911;&#xC694;&#xD55C; &#xC774;&#xC720;&#xB294; &#xC7A0;&#xC7AC;&#xC801;&#xC778; &#xC5ED;&#xB7C9;&#xC744; &#xAC00;&#xC9C4; &#xC0AC;&#xB78C;&#xC744; &#xBC1C;&#xAD74;&#xD558;&#xC5EC; &#xADF8;&#xB4E4;&#xACFC; &#xB354; &#xC77C;&#xCC0D; &#xC77C;&#xC744; &#xC2DC;&#xC791;&#xD560; &#xC218; &#xC788;&#xAC8C; &#xB9CC;&#xB4E0;&#xB2E4;&#xB294; &#xAC83;&#xC785;&#xB2C8;&#xB2E4;.</p>
+<h4 id="assess-potential-projects">Assess Potential Projects</h4>
+<ul>
+<li>(&#xBC88;&#xC5ED;&#xC644;&#xB8CC;)</li>
+<li>(1&#xCC28; &#xB9AC;&#xBDF0; : )</li>
+<li>(1&#xCC28; &#xB9AC;&#xBDF0; &#xBC18;&#xC601; : )</li>
+<li>(2&#xCC28; &#xB9AC;&#xBDF0; : )</li>
+<li>(2&#xCC28; &#xB9AC;&#xBDF0; &#xBC18;&#xC601; : )</li>
+<li>...</li>
+</ul>
+<p>There are plenty of places to find open source code. <a href="https://github.com/" target="_blank">GitHub</a> and <a href="https://about.gitlab.com/" target="_blank">GitLab</a> are two well-known code hosting sites (both use the popular Git version control software developed originally by Linus Torvalds). A search for keywords describing your need (for instance, &#x201C;employee management&#x201D;) might well turn up thousands of projects. So be careful to determine that an interesting project really meets your needs. One <a href="https://www.linuxfoundation.org/using-open-source-code/" target="_blank">Linux Foundation guide</a> focuses on the process, and the book <a href="http://shop.oreilly.com/product/9780596101190.do" target="_blank">Open Source for the Enterprise</a> by Dan Woods and Gautam Guliani (O&#x2019;Reilly, 2015) also offers guidelines for judging project readiness. Following is a list of typical things to check for:</p>
+<p><em>Code quality</em></p>
+<p>You can assess this by examining the code, checking the ratings (stars) if the project is on GitHub, looking at the number of reported bugs, and seeing what people say about the project online. All code has errors, and you want to see that people report them, so the presence of bug reports is a good thing &#x2014;so long as the important bugs get fixed.</p>
+<p><em>Active development</em></p>
+<p>Has the project put out any new releases recently, or at least bug fixes? Are there many pull requests, which indicate interest in the code?</p>
+<p><em>Project maturity</em></p>
+<p>How long has the project been in existence? Is there an active community? Are there a number of people maintaining the code? Does it have funding? Are books, videos, and other forms of education available?</p>
+<p><em>Level of support</em></p>
+<p>Can you get help to install and maintain the software? Is there good docu&#x2010; mentation for the project?</p>
+<p><em>Health of the community</em></p>
+<p>Are the mailing lists active? Do developers respond quickly and positively when bugs are reported? Are people polite and productive when responding to issues? A growing community is a good sign but not a necessity, because a project that serves a small user base might turn out to be just right for you. On the other hand, an inactive or declining community is a warning sign.</p>
+<p><em>Public decision making</em></p>
+<p>Are all choices debated on the public list? If you get a sense that leaders make important decisions privately and just report results to a mailing list or repository, it&#x2019;s a red flag indicating that you might not be able to influence the direction of the project. You might not think such influence is important now, but as you become dependent on the software, you might want to have a say in the future.</p>
+<p><em>Governance/commit access</em></p>
+<p>Is there a documented way for new contributors to gain commit access? If you invested your time and expertise in contributing to the project, you will want it to support an increase in your responsibilities.</p>
+<p><em>Security reporting</em></p>
+<p>Professional projects will provide a way for people who discover security flaws to contact the leadership privately so that the flaws can be fixed before advertising their existence.</p>
+<h4 id="&#xC7A0;&#xC7AC;&#xB825;&#xC788;&#xB294;-&#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC758;-&#xD3C9;&#xAC00;">&#xC7A0;&#xC7AC;&#xB825;&#xC788;&#xB294; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC758; &#xD3C9;&#xAC00;</h4>
+<p>&#xC624;&#xD508;&#xC18C;&#xC2A4;&#xB97C; &#xCC3E;&#xC744; &#xC218; &#xC788;&#xB294; &#xACF3;&#xC740; &#xB9CE;&#xC774; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;. <a href="https://github.com/" target="_blank">GitHub</a>&#xACFC; <a href="https://about.gitlab.com/" target="_blank">GitLab</a>&#xC740; &#xC798; &#xC54C;&#xB824;&#xC9C4; &#xCF54;&#xB4DC; &#xD638;&#xC2A4;&#xD305; &#xC0AC;&#xC774;&#xD2B8;&#xC785;&#xB2C8;&#xB2E4;. (&#xB458; &#xB2E4; &#xC6D0;&#xB798; Linus Torvalds&#xAC00; &#xAC1C;&#xBC1C;&#xD558;&#xC5EC; &#xB9CE;&#xC774; &#xC0AC;&#xC6A9;&#xB418;&#xB294; &#xBC84;&#xC804; &#xAD00;&#xB9AC; &#xC18C;&#xD504;&#xD2B8;&#xC6E8;&#xC5B4;&#xC778; Git&#xC744; &#xC0AC;&#xC6A9;&#xD569;&#xB2C8;&#xB2E4;). &#xD544;&#xC694;&#xD55C; &#xD0A4;&#xC6CC;&#xB4DC; (&#xC608; : &quot;employee management&quot;)&#xB97C; &#xAC80;&#xC0C9;&#xD558;&#xBA74; &#xC218; &#xCC9C;&#xAC1C;&#xC758; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xAC00; &#xAC80;&#xC0C9;&#xB429;&#xB2C8;&#xB2E4;. &#xB530;&#xB77C;&#xC11C; &#xAD00;&#xC2EC;&#xC774; &#xAC00;&#xB294; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xAC00; &#xC6B0;&#xB9AC; &#xC694;&#xAD6C; &#xC0AC;&#xD56D;&#xC5D0; &#xC798; &#xB9DE;&#xB294;&#xC9C0;&#xB97C; &#xC798; &#xC0B4;&#xD3B4;&#xBD10;&#xC57C;&#xD569;&#xB2C8;&#xB2E4;. <a href="https://www.linuxfoundation.org/using-open-source-code/" target="_blank">&#xB9AC;&#xB205;&#xC2A4; &#xC7AC;&#xB2E8; &#xAC00;&#xC774;&#xB4DC;</a>&#xB294; &#xD504;&#xB85C;&#xC138;&#xC2A4;&#xC5D0; &#xC911;&#xC810;&#xC744; &#xB450;&#xACE0; &#xC788;&#xC73C;&#xBA70; Dan Woods&#xC640; Gautam Guliani&#xC758; &#xCC45; <a href="http://shop.oreilly.com/product/9780596101190.do" target="_blank">&#xC5D4;&#xD130;&#xD504;&#xB77C;&#xC774;&#xC988; &#xC624;&#xD508; &#xC18C;&#xC2A4;</a>(O&apos;Reilly, 2015)&#xB294; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xAC00; &#xC5BC;&#xB9C8;&#xB098; &#xC4F8;&#xB9CC;&#xD55C;&#xAC00;&#xB97C; &#xD310;&#xB2E8;&#xD558;&#xB294; &#xAC00;&#xC774;&#xB4DC; &#xB77C;&#xC778;&#xC744; &#xC81C;&#xC2DC;&#xD569;&#xB2C8;&#xB2E4;. &#xB2E4;&#xC74C;&#xC740; &#xD655;&#xC778;&#xD560; &#xC0AC;&#xD56D;&#xC5D0; &#xB300;&#xD55C; &#xBAA9;&#xB85D;&#xC785;&#xB2C8;&#xB2E4;.</p>
+<p><em>&#xCF54;&#xB4DC; &#xD488;&#xC9C8;</em></p>
+<p>&#xCF54;&#xB4DC;&#xB97C; &#xC9C1;&#xC811; &#xAC80;&#xC0AC;&#xD558;&#xACE0;, &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xAC00; GitHub&#xC5D0; &#xC788;&#xB2E4;&#xBA74; Stars &#xB4F1;&#xAE09;&#xC744; &#xD655;&#xC778;&#xD558;&#xACE0;, &#xBC84;&#xADF8; &#xB808;&#xD3EC;&#xD305;&#xC758; &#xC218;&#xB97C; &#xBCF4;&#xACE0;, &#xADF8; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC5D0; &#xB300;&#xD55C; &#xC0AC;&#xB78C;&#xB4E4;&#xC758; &#xD3C9;&#xC744; &#xC628;&#xB77C;&#xC778;&#xC5D0;&#xC11C; &#xD655;&#xC778;&#xD568;&#xC73C;&#xB85C;&#xC368; &#xD3C9;&#xAC00;&#xD560; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;. &#xBAA8;&#xB4E0; &#xCF54;&#xB4DC;&#xC5D0;&#xB294; &#xC624;&#xB958;&#xAC00; &#xC788;&#xAE30; &#xB9C8;&#xB828;&#xC774;&#xAE30; &#xB54C;&#xBB38;&#xC5D0;, &#xC911;&#xC694;&#xD55C; &#xBC84;&#xADF8;&#xAC00; &#xC218;&#xC815;&#xB418;&#xACE0; &#xC788;&#xAE30;&#xB9CC; &#xD55C;&#xB2E4;&#xBA74;, &#xC0AC;&#xB78C;&#xB4E4;&#xC774; &#xBC84;&#xADF8;&#xAC00; &#xC788;&#xB2E4;&#xB294; &#xAC83;&#xC744; &#xBCF4;&#xACE0;&#xD55C;&#xB2E4;&#xB294; &#xC0AC;&#xC2E4;&#xC740; &#xADF8; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xAC00; &#xC720;&#xB9DD;&#xD558;&#xB2E4;&#xB294; &#xB73B;&#xC785;&#xB2C8;&#xB2E4;.</p>
+<p><em>&#xAC1C;&#xBC1C; &#xD65C;&#xC131;&#xB3C4;</em></p>
+<p>&#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xAC00; &#xCD5C;&#xADFC;&#xC5D0; &#xC0C8; &#xB9B4;&#xB9AC;&#xC2A4;&#xB97C; &#xBC1C;&#xD45C;&#xD588;&#xAC70;&#xB098; &#xC544;&#xB2C8;&#xBA74; &#xC801;&#xC5B4;&#xB3C4; &#xBC84;&#xADF8;&#xB97C; &#xC218;&#xC815;&#xD558;&#xACE0; &#xC788;&#xB294;&#xAC00;? &#xCF54;&#xB4DC;&#xC5D0; &#xB300;&#xD55C; &#xAD00;&#xC2EC;&#xC744; &#xB098;&#xD0C0;&#xB0B4;&#xB294; &#xC9C0;&#xD45C;&#xC778;, &#xD480;&#xB9AC;&#xD018;&#xC2A4;&#xD2B8;&#xAC00; &#xB9CE;&#xC774; &#xC788;&#xB294;&#xAC00;?</p>
+<p><em>&#xD504;&#xB85C;&#xC81D;&#xD2B8; &#xC131;&#xC219;&#xB3C4;</em></p>
+<p>&#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xAC00; &#xC5BC;&#xB9C8;&#xB098; &#xC624;&#xB798;&#xB41C; &#xAC83;&#xC778;&#xAC00;? &#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0;&#xAC00; &#xD65C;&#xC131;&#xD654;&#xB418;&#xC5B4; &#xC788;&#xB294;&#xAC00;? &#xCF54;&#xB4DC;&#xB97C; &#xAD00;&#xB9AC;&#xD558;&#xB294; &#xC0AC;&#xB78C;&#xB4E4;&#xC774; &#xB9CE;&#xC774; &#xC788;&#xB294;&#xAC00;? &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC5D0; &#xB300;&#xD55C; &#xD380;&#xB529;&#xC774; &#xC774;&#xB8E8;&#xC5B4;&#xC9C0;&#xACE0; &#xC788;&#xB098;? &#xCC45;, &#xB3D9;&#xC601;&#xC0C1;&#xC774;&#xB098; &#xB2E4;&#xB978; &#xAD50;&#xC721; &#xC790;&#xB8CC;&#xAC00; &#xC788;&#xB294;&#xAC00;?</p>
+<p><em>&#xC9C0;&#xC6D0; &#xC218;&#xC900;</em></p>
+<p>&#xC18C;&#xD504;&#xD2B8;&#xC6E8;&#xC5B4;&#xC758; &#xC124;&#xCE58;, &#xC720;&#xC9C0; &#xBCF4;&#xC218;&#xC5D0; &#xB3C4;&#xC6C0;&#xC744; &#xBC1B;&#xC744; &#xC218; &#xC788;&#xB294;&#xAC00;? &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC5D0; &#xAD00;&#xD55C; &#xC88B;&#xC740; &#xBB38;&#xC11C;&#xAC00; &#xC788;&#xB294;&#xAC00;?</p>
+<p><em>&#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0; &#xD65C;&#xC131;&#xB3C4;</em></p>
+<p>&#xBA54;&#xC77C;&#xB9C1; &#xB9AC;&#xC2A4;&#xD2B8;&#xAC00; &#xD65C;&#xC131;&#xD654;&#xB418;&#xC5B4; &#xC788;&#xB098;? &#xBC84;&#xADF8;&#xB808;&#xD3EC;&#xD305;&#xC5D0; &#xB300;&#xD558;&#xC5EC; &#xAC1C;&#xBC1C;&#xC790;&#xB4E4;&#xC774; &#xC2E0;&#xC18D;&#xD558;&#xACE0; &#xAE0D;&#xC815;&#xC801;&#xC73C;&#xB85C; &#xB300;&#xC751;&#xD558;&#xB294;&#xAC00;? &#xC774;&#xC288;&#xC5D0; &#xC608;&#xC758;&#xBC14;&#xB974;&#xACE0; &#xC0DD;&#xC0B0;&#xC801;&#xC73C;&#xB85C; &#xB300;&#xC751;&#xD558;&#xB294;&#xAC00;? &#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0;&#xAC00; &#xC131;&#xC7A5;&#xD558;&#xB294; &#xC88B;&#xC740; &#xC9D5;&#xC870;&#xC774;&#xC9C0;&#xB9CC; &#xBC18;&#xB4DC;&#xC2DC; &#xADF8;&#xB798;&#xC57C; &#xD560; &#xD544;&#xC694;&#xB294; &#xC5C6;&#xC2B5;&#xB2C8;&#xB2E4;. &#xC791;&#xC740; &#xC0AC;&#xC6A9;&#xC790; &#xAE30;&#xBC18;&#xC744; &#xAC00;&#xC9C4; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xAC00; &#xC6B0;&#xB9AC;&#xC5D0;&#xAC8C; &#xB531; &#xB9DE;&#xB294; &#xAC83;&#xC77C; &#xC218;&#xB3C4; &#xC788;&#xAE30; &#xB54C;&#xBB38;&#xC785;&#xB2C8;&#xB2E4;. &#xB2E4;&#xB978; &#xD55C;&#xD3B8;, &#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0;&#xAC00; &#xD65C;&#xC131;&#xD654;&#xB418;&#xC9C0; &#xC54A;&#xC558;&#xAC70;&#xB098; &#xC904;&#xC5B4;&#xB4E4;&#xACE0; &#xC788;&#xB2E4;&#xBA74; &#xADF8;&#xAC83;&#xC740; &#xACBD;&#xACE0; &#xC2E0;&#xD638;&#xC785;&#xB2C8;&#xB2E4;.</p>
+<p><em>&#xC758;&#xC0AC; &#xACB0;&#xC815;&#xC758; &#xAC1C;&#xBC29;&#xC131;</em></p>
+<p>&#xBAA8;&#xB4E0; &#xC120;&#xD0DD; &#xC0AC;&#xD56D;&#xC774; &#xACF5;&#xAC1C;&#xB418;&#xACE0; &#xB17C;&#xC758;&#xB418;&#xACE0; &#xC788;&#xB294;&#xAC00;? &#xB9AC;&#xB354;&#xAC00; &#xAC1C;&#xC778;&#xC801;&#xC73C;&#xB85C; &#xC911;&#xC694;&#xD55C; &#xACB0;&#xC815;&#xC744; &#xB0B4;&#xB9AC;&#xACE0; &#xBA54;&#xC77C;&#xB9C1;&#xB9AC;&#xC2A4;&#xD2B8;&#xB098; &#xCF54;&#xB4DC; &#xC800;&#xC7A5;&#xC18C;&#xC5D0; &#xACB0;&#xACFC;&#xB97C; &#xBCF4;&#xACE0;&#xD55C;&#xB2E4;&#xB294; &#xB290;&#xB08C;&#xC744; &#xBC1B;&#xB294;&#xB2E4;&#xBA74;, &#xC678;&#xBD80;&#xC5D0;&#xC11C; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC758; &#xBC29;&#xD5A5;&#xC5D0; &#xC601;&#xD5A5;&#xC744; &#xC904; &#xC218; &#xC5C6;&#xB2E4;&#xB294; &#xAC83;&#xC744; &#xB098;&#xD0C0;&#xB0B4;&#xB294; &#xACBD;&#xACE0; &#xC2E0;&#xD638;&#xC785;&#xB2C8;&#xB2E4;. &#xC9C0;&#xAE08;&#xC740; &#xADF8;&#xB7EC;&#xD55C; &#xC601;&#xD5A5;&#xB825;&#xC774; &#xC911;&#xC694;&#xD558;&#xC9C0; &#xC54A;&#xB2E4;&#xACE0; &#xC0DD;&#xAC01;&#xD560; &#xC218; &#xC788;&#xC9C0;&#xB9CC;, &#xADF8; &#xC18C;&#xD504;&#xD2B8;&#xC6E8;&#xC5B4;&#xC5D0; &#xB300;&#xD55C; &#xC758;&#xC874;&#xC131;&#xC774; &#xCEE4;&#xC9C0;&#xBA74; &#xB098;&#xC911;&#xC5D0; &#xBB54;&#xAC00; &#xB9D0;&#xD574;&#xC57C;&#xD560; &#xB54C; &#xBB38;&#xC81C;&#xAC00; &#xB420; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.</p>
+<p><em>&#xAC70;&#xBC84;&#xB10C;&#xC2A4;/&#xCEE4;&#xBC0B; &#xAD8C;&#xD55C;</em></p>
+<p>&#xC0C8;&#xB85C;&#xC6B4; &#xAE30;&#xC5EC;&#xC790;&#xAC00; &#xCEE4;&#xBC0B; &#xAD8C;&#xD55C;&#xC744; &#xC5BB;&#xAC8C; &#xB418;&#xB294; &#xACFC;&#xC815;&#xC774; &#xBB38;&#xC11C;&#xD654;&#xB418;&#xC5B4; &#xC788;&#xB294;&#xAC00;? &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC5D0; &#xB0B4; &#xC2DC;&#xAC04;&#xACFC; &#xC804;&#xBB38;&#xC131; &#xD22C;&#xC790;&#xD558;&#xACE0; &#xC788;&#xB2E4;&#xBA74;, &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC5D0;&#xC11C; &#xADF8; &#xAE30;&#xC5EC;&#xC5D0; &#xC0C1;&#xC751;&#xD558;&#xB294; &#xCC45;&#xC784;&#xC744; &#xB9E1;&#xB294; &#xAC83;&#xC774; &#xB9DE;&#xC744; &#xC218;&#xB3C4; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.</p>
+<p><em>&#xBCF4;&#xC548; &#xBB38;&#xC81C; &#xBCF4;&#xACE0; &#xCCB4;&#xACC4;</em></p>
+<p>&#xD504;&#xB85C;&#xD398;&#xC154;&#xB110;&#xD55C; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xB77C;&#xBA74; &#xBCF4;&#xC548;&#xC0C1;&#xC758; &#xD5C8;&#xC810;&#xC744; &#xBC1C;&#xACAC;&#xD55C; &#xC0AC;&#xB78C;&#xC774; &#xD504;&#xB85C;&#xC81D;&#xD2B8; &#xB9AC;&#xB354;&#xC5D0;&#xAC8C; &#xAC1C;&#xC778;&#xC801;&#xC73C;&#xB85C; &#xC5F0;&#xB77D;&#xD558;&#xC5EC;, &#xBB38;&#xC81C;&#xAC00; &#xC788;&#xC74C;&#xC774; &#xC678;&#xBD80;&#xC5D0; &#xC54C;&#xB824;&#xC9C0;&#xAE30; &#xC804;&#xC5D0; &#xC218;&#xC815;&#xB420; &#xC218; &#xC788;&#xC5B4;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;.</p>
+<h4 id="comply-with-the-license">Comply with the License</h4>
+<ul>
+<li>(&#xBC88;&#xC5ED;&#xC644;&#xB8CC;)</li>
+<li>(1&#xCC28; &#xB9AC;&#xBDF0; : )</li>
+<li>(1&#xCC28; &#xB9AC;&#xBDF0; &#xBC18;&#xC601; : )</li>
+<li>(2&#xCC28; &#xB9AC;&#xBDF0; : )</li>
+<li>(2&#xCC28; &#xB9AC;&#xBDF0; &#xBC18;&#xC601; : )</li>
+<li>...</li>
+</ul>
+<p>The OSPO or team responsible in your organization for tracking the use of open source code should also make sure you obey the license. This requires attention from both developers, who understand the technical implications of the license, and legal staff. Participants from the open source community have formed the <a href="https://www.openchainproject.org/" target="_blank">OpenChain Project</a> to make open source license compliance simpler and more consistent and thus encourage more companies to use open source software. Recognizing that it can be difficult to find the license or attribution of code, another open source project called <a href="https://clearlydefined.io/about" target="_blank">ClearlyDefined</a> helps users to find and maintain this compliance information. The book <a href="http://bit.ly/2HKTXt7" target="_blank">Open Source Compliance in the Enterprise</a> by Ibrahim Haddad (The Linux Foundation, 2016) covers compliance in depth.</p>
+<p>Build a strong relationship with your legal team and partner with them. They will almost certainly be dealing with incoming work around open source: for instance, they need to approve doing the work under an open source license and check the contributor agreements under which your developers submit code to the projects. This is an opportunity to collaborate on the unfamiliar aspects of open source, build a strong relationship, and earn trust. Use these relationships to help position open source policies in a more favorable light for development and developers.</p>
+<p>Also form ties with your procurement colleagues. You can add value here by recommending specific additional items to put into procurement contracts around open source and help the team review contracts with third parties.</p>
+<h4 id="&#xB77C;&#xC774;&#xC120;&#xC2A4;&#xC758;-&#xC900;&#xC218;">&#xB77C;&#xC774;&#xC120;&#xC2A4;&#xC758; &#xC900;&#xC218;</h4>
+<p>OSPO &#xB610;&#xB294; &#xC870;&#xC9C1; &#xB0B4;&#xC5D0;&#xC11C; &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xC0AC;&#xC6A9;&#xC744; &#xCD94;&#xC801;&#xD558;&#xB294; &#xD300;&#xC740; &#xB77C;&#xC774;&#xC120;&#xC2A4;&#xB97C; &#xC900;&#xC218;&#xD558;&#xB294;&#xC9C0; &#xD655;&#xC778;&#xD574;&#xC57C;&#xD569;&#xB2C8;&#xB2E4;. &#xB77C;&#xC774;&#xC120;&#xC2A4;&#xC758; &#xAE30;&#xC220;&#xC801; &#xC758;&#xBBF8;&#xB97C; &#xC774;&#xD574;&#xD558;&#xB294; &#xAC1C;&#xBC1C;&#xC790;&#xB4E4;&#xACFC; &#xBC95;&#xBB34;&#xD300; &#xBAA8;&#xB450; &#xC8FC;&#xC758;&#xAC00; &#xD544;&#xC694;&#xD569;&#xB2C8;&#xB2E4;. &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0; &#xCC38;&#xC5EC;&#xC790;&#xB4E4;&#xC740; &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xB77C;&#xC774;&#xC120;&#xC2A4; &#xC815;&#xD569;&#xC131;(compliance)&#xC744; &#xBCF4;&#xB2E4; &#xAC04;&#xB2E8;&#xD558;&#xACE0; &#xC77C;&#xAD00;&#xC131;&#xC788;&#xAC8C; &#xB9CC;&#xB4E4;&#xACE0; &#xB354; &#xB9CE;&#xC740; &#xAE30;&#xC5C5;&#xB4E4;&#xC774; &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xC18C;&#xD504;&#xD2B8;&#xC6E8;&#xC5B4;&#xB97C; &#xC0AC;&#xC6A9;&#xD558;&#xB3C4;&#xB85D; &#xAD8C;&#xC7A5;&#xD558;&#xAE30; &#xC704;&#xD574; <a href="https://www.openchainproject.org/" target="_blank">OpenChain Project</a>&#xB97C; &#xAD6C;&#xC131;&#xD588;&#xC2B5;&#xB2C8;&#xB2E4;. &#xB77C;&#xC774;&#xC120;&#xC2A4; &#xB610;&#xB294; &#xCF54;&#xB4DC;&#xC758; &#xC18D;&#xC131; &#xCC3E;&#xAE30; &#xC790;&#xCCB4;&#xB3C4; &#xC5B4;&#xB824;&#xC6B8; &#xC218; &#xC788;&#xAE30; &#xB54C;&#xBB38;&#xC5D0;, <a href="https://clearlydefined.io/about" target="_blank">ClearlyDefined</a>&#xB77C;&#xB294; &#xB610; &#xB2E4;&#xB978; &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xB85C; &#xC0AC;&#xC6A9;&#xC790;&#xB4E4;&#xC774; &#xB77C;&#xC774;&#xC120;&#xC2A4; &#xC815;&#xD569;&#xC131;&#xC744; &#xC704;&#xD55C; &#xC815;&#xBCF4;&#xB97C; &#xCC3E;&#xACE0; &#xC720;&#xC9C0; &#xAD00;&#xB9AC;&#xD560; &#xC218; &#xC788;&#xB3C4;&#xB85D; &#xB3C4;&#xC6C0;&#xC8FC;&#xACE0; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;. Ibrahim Haddad&#xC758; &#xCC45; <a href="http://bit.ly/2HKTXt7" target="_blank">&#xAE30;&#xC5C5;&#xC5D0;&#xC11C;&#xC758; &#xC624;&#xD508; &#xC18C;&#xC2A4; &#xC900;&#xC218;</a>(&#xB9AC;&#xB205;&#xC2A4; &#xC7AC;&#xB2E8;, 2016)&#xB294; &#xB77C;&#xC774;&#xC120;&#xC2A4; &#xC815;&#xD569;&#xC131; &#xBB38;&#xC81C;&#xB97C; &#xAE4A;&#xC774;&#xC788;&#xAC8C; &#xB2E4;&#xB8E8;&#xACE0; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.</p>
+<p>&#xBC95;&#xBB34;&#xD300;&#xACFC; &#xAD00;&#xACC4;&#xB97C; &#xC798; &#xC124;&#xC815;&#xD558;&#xACE0; &#xD611;&#xB825;&#xD558;&#xC2ED;&#xC2DC;&#xC624;. &#xADF8;&#xB4E4;&#xC740; &#xC624;&#xD508;&#xC18C;&#xC2A4;&#xC640; &#xAD00;&#xB828;&#xD558;&#xC5EC; &#xC0DD;&#xAE30;&#xB294; &#xC77C;&#xB4E4; &#xAC70;&#xC758; &#xD655;&#xC2E4;&#xD558;&#xAC8C; &#xCC98;&#xB9AC;&#xD574; &#xC904; &#xAC83;&#xC785;&#xB2C8;&#xB2E4;. &#xC608;&#xB97C; &#xB4E4;&#xC5B4;, &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xB77C;&#xC774;&#xC120;&#xC2A4;&#xC758; &#xC801;&#xC6A9;&#xC744; &#xBC1B;&#xB294; &#xC791;&#xC5C5;&#xC744; &#xC2B9;&#xC778;&#xD574;&#xC8FC;&#xBA70; &#xD68C;&#xC0AC;&#xC758; &#xAC1C;&#xBC1C;&#xC790;&#xB4E4;&#xC774; &#xCF54;&#xB4DC;&#xB97C; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC5D0; &#xC81C;&#xCD9C;&#xD560; &#xB54C; &#xD544;&#xC694;&#xD55C; &#xAE30;&#xC5EC;&#xC790; &#xB3D9;&#xC758;&#xC11C;&#xB97C; &#xD655;&#xC778;&#xD574;&#xC90D;&#xB2C8;&#xB2E4;. &#xC774; &#xACFC;&#xC815;&#xC740; &#xC624;&#xD508;&#xC18C;&#xC2A4;&#xC758; &#xCE5C;&#xC219;&#xD558;&#xC9C0; &#xC54A;&#xC740; &#xCE21;&#xBA74;&#xC5D0; &#xB300;&#xD574; &#xD611;&#xB825;&#xD558;&#xACE0;, &#xAC15;&#xD55C; &#xAD00;&#xACC4;&#xB97C; &#xAD6C;&#xCD95;&#xD558;&#xACE0;, &#xC2E0;&#xB8B0;&#xB97C; &#xC5BB;&#xC744; &#xC218; &#xC788;&#xB294; &#xAE30;&#xD68C;&#xC785;&#xB2C8;&#xB2E4;. &#xC774; &#xAD00;&#xACC4;&#xB97C; &#xC774;&#xC6A9;&#xD558;&#xC5EC; &#xAC1C;&#xBC1C; &#xC790;&#xCCB4;&#xC640; &#xBC0F; &#xAC1C;&#xBC1C;&#xC790;&#xB4E4;&#xC5D0;&#xAC8C; &#xBCF4;&#xB2E4; &#xC720;&#xB9AC;&#xD558;&#xAC8C; &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xC815;&#xCC45;&#xC744; &#xC790;&#xB9AC;&#xC7A1;&#xAC8C; &#xD560; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.</p>
+<p>&#xB610;&#xD55C; &#xC870;&#xB2EC; &#xC5C5;&#xBB34; &#xB2F4;&#xB2F9;&#xC790;&#xB4E4;&#xACFC;&#xC758; &#xAD00;&#xACC4;&#xB3C4; &#xD544;&#xC694;&#xD569;&#xB2C8;&#xB2E4;. &#xC624;&#xD508;&#xC18C;&#xC2A4;&#xC640; &#xAD00;&#xB828;&#xB41C; &#xAD6C;&#xB9E4; &#xACC4;&#xC57D;&#xC5D0; &#xD544;&#xC694;&#xD55C; &#xCD94;&#xAC00;&#xC801;&#xC778; &#xC138;&#xBD80; &#xD56D;&#xBAA9;&#xB4E4;&#xC744; &#xCD94;&#xCC9C;&#xD558;&#xACE0; &#xADF8; &#xD300;&#xC774; &#xC368;&#xB4DC;&#xD30C;&#xD2F0;&#xC640;&#xC758; &#xACC4;&#xC57D;&#xC744; &#xAC80;&#xD1A0;&#xD558;&#xB294; &#xACFC;&#xC815;&#xC5D0; &#xB3C4;&#xC6C0;&#xC744; &#xC904; &#xC218; &#xC788;&#xAE30; &#xB54C;&#xBB38;&#xC5D0; &#xC774; &#xAD00;&#xACC4;&#xB294; &#xAC00;&#xCE58;&#xB86D;&#xC2B5;&#xB2C8;&#xB2E4;.</p>
+<h4 id="manage-community-code-as-seriously-as-the-code-you-create">Manage Community Code as Seriously as the Code You Create</h4>
+<ul>
+<li>(&#xBC88;&#xC5ED;&#xC644;&#xB8CC;)</li>
+<li>(1&#xCC28; &#xB9AC;&#xBDF0; : )</li>
+<li>(1&#xCC28; &#xB9AC;&#xBDF0; &#xBC18;&#xC601; : )</li>
+<li>(2&#xCC28; &#xB9AC;&#xBDF0; : )</li>
+<li>(2&#xCC28; &#xB9AC;&#xBDF0; &#xBC18;&#xC601; : )</li>
+<li>...</li>
+</ul>
+<p>Even though an outside organization developed the open source code, you need to manage its use within your organization. It should be subject to testing and to checking for back doors and other flaws. You need to set goals and deadlines for incorporating the code into your own, just as when your employees write code for your company, and devote resources to making sure everything goes as planned.</p>
+<p>Of course, some tasks are different when you get code from outside. You need to act as part of the community that maintains the code. For instance, you need to integrate your developers with the community&#x2019;s version control system; this might require an account where the community hosts the code, such as <a href="https://github.com/" target="_blank">GitHub</a> or <a href="https://about.gitlab.com/" target="_blank">GitLab</a>. If you alter the code (discussed in more detail in <a href="https://about.gitlab.com/" target="_blank">&#x201C;Contributing to Open Source Projects&#x201D; on page 17</a>), you should set up a branch of the version control system for your version or use your own internal version control.</p>
+<h4 id="&#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0;&#xC758;-&#xCF54;&#xB4DC;&#xB97C;-&#xC9C1;&#xC811;-&#xB9CC;&#xB4E0;-&#xCF54;&#xB4DC;&#xB9CC;&#xD07C;-&#xC911;&#xC694;&#xD558;&#xAC8C;-&#xAD00;&#xB9AC;&#xD558;&#xAE30;">&#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0;&#xC758; &#xCF54;&#xB4DC;&#xB97C; &#xC9C1;&#xC811; &#xB9CC;&#xB4E0; &#xCF54;&#xB4DC;&#xB9CC;&#xD07C; &#xC911;&#xC694;&#xD558;&#xAC8C; &#xAD00;&#xB9AC;&#xD558;&#xAE30;</h4>
+<p>&#xC678;&#xBD80; &#xC870;&#xC9C1;&#xC5D0;&#xC11C; &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xCF54;&#xB4DC;&#xB97C; &#xAC1C;&#xBC1C;&#xD588;&#xB2E4; &#xD558;&#xB354;&#xB77C;&#xB3C4;, &#xC6B0;&#xB9AC; &#xC870;&#xC9C1; &#xB0B4;&#xC5D0;&#xC11C; &#xC0AC;&#xC6A9;&#xD558;&#xB824;&#xBA74; &#xADF8; &#xCF54;&#xB4DC;&#xB97C; &#xAD00;&#xB9AC;&#xD574;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;. &#xC678;&#xBD80; &#xCF54;&#xB4DC;&#xB3C4; &#xD14C;&#xC2A4;&#xD2B8;&#xB418;&#xC5B4;&#xC57C; &#xD558;&#xACE0;, &#xBC31;&#xB3C4;&#xC5B4;&#xAC00; &#xC788;&#xB294;&#xC9C0; &#xD655;&#xC778;&#xD574;&#xC57C;&#xD558;&#xACE0;, &#xAE30;&#xD0C0; &#xACB0;&#xD568;&#xC5D0; &#xB300;&#xD55C; &#xAC80;&#xC0AC;&#xB97C; &#xD574;&#xC57C;&#xD569;&#xB2C8;&#xB2E4;. &#xC678;&#xBD80;&#xC758; &#xCF54;&#xB4DC;&#xB97C; &#xC6B0;&#xB9AC; &#xCF54;&#xB4DC;&#xC640; &#xD1B5;&#xD569;&#xD558;&#xB294; &#xC791;&#xC5C5;&#xB3C4; &#xB0B4;&#xBD80;&#xC5D0;&#xC11C; &#xD68C;&#xC0AC; &#xCF54;&#xB4DC;&#xB97C; &#xC791;&#xC131;&#xD558;&#xB294; &#xAC83;&#xACFC; &#xB9C8;&#xCC2C;&#xAC00;&#xC9C0;&#xB85C; &#xBAA9;&#xD45C;&#xC640; &#xAE30;&#xD55C;&#xC744; &#xC124;&#xC815;&#xD558;&#xACE0; &#xBAA8;&#xB4E0; &#xAC83;&#xC774; &#xACC4;&#xD68D;&#xB300;&#xB85C; &#xC9C4;&#xD589;&#xB420; &#xC218; &#xC788;&#xB3C4;&#xB85D; &#xB9AC;&#xC18C;&#xC2A4;&#xB97C; &#xD22C;&#xC785;&#xD574;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;.</p>
+<p>&#xBB3C;&#xB860; &#xC678;&#xBD80;&#xC5D0;&#xC11C; &#xCF54;&#xB4DC;&#xB97C; &#xAC00;&#xC838;&#xC624;&#xB294; &#xACBD;&#xC6B0; &#xC77C;&#xBD80; &#xC791;&#xC5C5;&#xC740; &#xB2E4;&#xB974;&#xAC8C; &#xC9C4;&#xD589;&#xB429;&#xB2C8;&#xB2E4;. &#xAC1C;&#xBC1C;&#xC790;&#xB4E4;&#xC774; &#xCF54;&#xB4DC;&#xB97C; &#xAD00;&#xB9AC;&#xD558;&#xB294; &#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0;&#xC758; &#xC77C;&#xC6D0;&#xC774; &#xB418;&#xC5B4;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;. &#xC608;&#xB97C; &#xB4E4;&#xC5B4;, &#xC6B0;&#xB9AC; &#xAC1C;&#xBC1C;&#xC790;&#xB4E4;&#xC774; &#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0;&#xC758; &#xBC84;&#xC804; &#xAD00;&#xB9AC; &#xC2DC;&#xC2A4;&#xD15C; &#xC548;&#xC5D0;&#xC11C; &#xC77C;&#xC744; &#xD574;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;. &#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0;&#xC5D0;&#xC11C; &#xCF54;&#xB4DC;&#xB97C; &#xD638;&#xC2A4;&#xD305;&#xD558;&#xB294; <a href="https://github.com/" target="_blank">GitHub</a> &#xB610;&#xB294; <a href="https://about.gitlab.com/" target="_blank">GitLab</a>&#xC758; &#xACC4;&#xC815;&#xC774; &#xD544;&#xC694;&#xD569;&#xB2C8;&#xB2E4;. &#xCF54;&#xB4DC;&#xB97C; &#xC218;&#xC815;&#xD558;&#xB824;&#xBA74; (<strong>17 &#xD398;&#xC774;&#xC9C0;&#xC758;</strong> <a href="09-contributing-to-open-source-project.html">&quot;&#xC624;&#xD508; &#xC18C;&#xC2A4; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC5D0; &#xAE30;&#xC5EC;&quot;</a>&#xC5D0;&#xC11C; &#xC790;&#xC138;&#xD788; &#xC124;&#xBA85; &#xB428;), &#xBC84;&#xC804; &#xAD00;&#xB9AC; &#xC2DC;&#xC2A4;&#xD15C;&#xC5D0;&#xC11C; &#xC218;&#xC815;&#xC744; &#xC704;&#xD55C; &#xBE0C;&#xB79C;&#xCE58; &#xB9CC;&#xB4E4;&#xAC70;&#xB098;, &#xC791;&#xC5C5;&#xC744; &#xC704;&#xD55C; &#xB0B4;&#xBD80; &#xBC84;&#xC804; &#xAD00;&#xB9AC; &#xC2DC;&#xC2A4;&#xD15C;&#xC744; &#xC0AC;&#xC6A9;&#xD574;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;.</p>
+<h4 id="change-your-reward-and-management-structure">Change Your Reward and Management Structure</h4>
+<ul>
+<li>(&#xBC88;&#xC5ED;&#xC644;&#xB8CC;)</li>
+<li>(1&#xCC28; &#xB9AC;&#xBDF0; : )</li>
+<li>(1&#xCC28; &#xB9AC;&#xBDF0; &#xBC18;&#xC601; : )</li>
+<li>(2&#xCC28; &#xB9AC;&#xBDF0; : )</li>
+<li>(2&#xCC28; &#xB9AC;&#xBDF0; &#xBC18;&#xC601; : )</li>
+<li>...</li>
+</ul>
+<p>Developers working with an open source community will do things differently from closed projects and will need additional skills in communication and negotiation. Your reward structure must reflect the extra tasks you require of these developers. You must set aside developer time for such tasks as learning the tools used by the project, participating in chats and on mailing lists, mentoring less experienced colleagues, checking and modifying other peoples&#x2019; contributed code, and attending conferences or leadership meetings for the open source project.</p>
+<p>In particular, as developers and other employees spend time on efforts less directly related to the deliverables of their specific teams, you will need to adjust performance evaluation criteria for both them and their managers. This is especially true for companies that pay performance bonuses. It&#x2019;s crucial to align the goals and incentives within the company with success factors on the open source project. In turn, when employees attend and speak at conferences, blog about their work on the project, and participate in governance, their contributions reflect well on your company and allow you to reap later benefits such as hiring new developers.</p>
+<p>Besides approving these changes, which can be extensive, to the compensation plan for many employees, managers must also recognize that software deadlines are dependent on activities by the community, not just internal employees. Deadlines for software projects are notoriously difficult to set accurately, even when they are run totally by internal teams, so the new dependencies on outsiders might simply help management recognize reality. If the community decides that a feature your company needs is low priority, go ahead and use your own resources to finish it in a timely manner&#x2014;and contribute the improvements back to the community. Other companies will be doing similar things, and all will benefit.</p>
+<h4 id="&#xBCF4;&#xC0C1;&#xACFC;-&#xAD00;&#xB9AC;-&#xCCB4;&#xACC4;&#xC758;-&#xBCC0;&#xACBD;">&#xBCF4;&#xC0C1;&#xACFC; &#xAD00;&#xB9AC; &#xCCB4;&#xACC4;&#xC758; &#xBCC0;&#xACBD;</h4>
+<p>&#xC624;&#xD508;&#xC18C;&#xC2A4; &#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0;&#xC640; &#xD568;&#xAED8; &#x200B;&#x200B;&#xC77C;&#xD558;&#xB294; &#xAC1C;&#xBC1C;&#xC790;&#xB294; &#xBE44;&#xACF5;&#xAC1C; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC5D0;&#xC11C;&#xC640;&#xB294; &#xB2E4;&#xB978; &#xBC29;&#xC2DD;&#xC73C;&#xB85C; &#xC77C;&#xC744; &#xD558;&#xBA70; &#xC758;&#xC0AC; &#xC18C;&#xD1B5;&#xACFC; &#xD611;&#xC758;&#xB97C; &#xD558;&#xB294; &#xACFC;&#xC815;&#xC5D0;&#xC11C; &#xCD94;&#xAC00;&#xC801;&#xC778; &#xC5ED;&#xB7C9;&#xC774; &#xD544;&#xC694;&#xD569;&#xB2C8;&#xB2E4;. &#xAC1C;&#xBC1C;&#xC790;&#xC5D0;&#xAC8C; &#xD544;&#xC694;&#xD55C; &#xCD94;&#xAC00; &#xC791;&#xC5C5;&#xC744; &#xBC18;&#xC601;&#xD55C; &#xBCF4;&#xC0C1; &#xCCB4;&#xACC4;&#xB97C; &#xB9CC;&#xB4E4;&#xC5B4;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;. &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC5D0;&#xC11C; &#xC0AC;&#xC6A9;&#xD558;&#xB294; &#xB3C4;&#xAD6C;&#xB97C; &#xBC30;&#xC6B0;&#xACE0;, &#xCC44;&#xD305; &#xBC0F; &#xBA54;&#xC77C;&#xB9C1; &#xB9AC;&#xC2A4;&#xD2B8;&#xC5D0; &#xCC38;&#xC5EC;&#xD558;&#xACE0;, &#xACBD;&#xD5D8;&#xC774; &#xBD80;&#xC871;&#xD55C; &#xB3D9;&#xB8CC;&#xB97C; &#xBA58;&#xD1A0;&#xB9C1;&#xD558;&#xACE0;, &#xB2E4;&#xB978; &#xC0AC;&#xB78C;&#xC774; &#xAE30;&#xC5EC;&#xD55C; &#xCF54;&#xB4DC;&#xB97C; &#xD655;&#xC778; &#xBC0F; &#xC218;&#xC815;&#xD558;&#xACE0;, &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC5D0; &#xB300;&#xD55C; &#xCEE8;&#xD37C;&#xB7F0;&#xC2A4;&#xB098; &#xB9AC;&#xB354; &#xBBF8;&#xD305;&#xC5D0; &#xCC38;&#xC11D;&#xD558;&#xAE30; &#xC704;&#xD55C; &#xC2DC;&#xAC04;&#xB3C4; &#xD560;&#xB2F9;&#xD574; &#xC8FC;&#xC5B4;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;.</p>
+<p>&#xD2B9;&#xD788; &#xAC1C;&#xBC1C;&#xC790;&#xB4E4;&#xACFC; &#xB2E4;&#xB978; &#xC9C1;&#xC6D0;&#xB4E4;&#xC774; &#xD2B9;&#xC815; &#xD300;&#xC758; &#xC9C1;&#xC811;&#xC801;&#xC778; &#xC131;&#xACFC;&#xBB3C;&#xACFC; &#xAD00;&#xB828;&#xC774; &#xC801;&#xC740; &#xC77C;&#xC5D0; &#xC2DC;&#xAC04;&#xC744; &#xD22C;&#xC790;&#xD574;&#xC57C; &#xD55C;&#xB2E4;&#xBA74;, &#xD574;&#xB2F9; &#xC9C1;&#xC6D0;&#xACFC; &#xAD00;&#xB9AC;&#xC790;&#xC5D0; &#xB300;&#xD55C; &#xC131;&#xACFC; &#xD3C9;&#xAC00; &#xAE30;&#xC900;&#xB3C4; &#xC870;&#xC815;&#xD574;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;. &#xC774;&#xB294; &#xC131;&#xACFC;&#xBCF4;&#xB108;&#xC2A4;&#xB97C; &#xC9C0;&#xAE09;&#xD558;&#xB294; &#xD68C;&#xC0AC;&#xC5D0; &#xD2B9;&#xD788; &#xD574;&#xB2F9;&#xB429;&#xB2C8;&#xB2E4;. &#xC624;&#xD508;&#xC18C;&#xC2A4; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC758; &#xC131;&#xACF5; &#xC694;&#xC778;&#xACFC; &#xD68C;&#xC0AC; &#xB0B4;&#xBD80;&#xC758; &#xBAA9;&#xD45C;&#xC640; &#xC778;&#xC13C;&#xD2F0;&#xBE0C;&#xC758; &#xACB0;&#xC744; &#xB9DE;&#xCD94;&#xB294; &#xAC83;&#xC774; &#xC911;&#xC694;&#xD569;&#xB2C8;&#xB2E4;. &#xC9C1;&#xC6D0;&#xB4E4;&#xC774; &#xCEE8;&#xD37C;&#xB7F0;&#xC2A4;&#xC5D0;&#xC11C; &#xBC1C;&#xD45C;&#xD558;&#xACE0; &#xD504;&#xB85C;&#xC81D;&#xD2B8; &#xC791;&#xC5C5;&#xC5D0; &#xB300;&#xD55C; &#xBE14;&#xB85C;&#xADF8;&#xB97C; &#xC791;&#xC131;&#xD558;&#xACE0;, &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC758; &#xAC70;&#xBC84;&#xB10C;&#xC2A4;&#xC5D0; &#xCC38;&#xC5EC;&#xD55C;&#xB2E4;&#xBA74;, &#xADF8;&#xB4E4;&#xC758; &#xAE30;&#xC5EC;&#xAC00; &#xD68C;&#xC0AC;&#xC758; &#xBA85;&#xC131;&#xC5D0;&#xB3C4; &#xC88B;&#xAC8C; &#xC791;&#xC6A9;&#xD558;&#xBA70;, &#xD5A5;&#xD6C4; &#xAC1C;&#xBC1C;&#xC790; &#xCC44;&#xC6A9;&#xACFC; &#xAC19;&#xC740; &#xBA74;&#xC5D0;&#xC11C; &#xC774;&#xB4DD;&#xC774; &#xB429;&#xB2C8;&#xB2E4;.</p>
+<p>&#xB9CE;&#xC740; &#xC9C1;&#xC6D0;&#xB4E4;&#xC5D0; &#xB300;&#xD55C; &#xAD11;&#xBC94;&#xC704;&#xD560; &#xC218;&#xB3C4; &#xC788;&#xB294; &#xBCF4;&#xC0C1; &#xACC4;&#xD68D;&#xC744; &#xC218;&#xC6A9;&#xD558;&#xB294; &#xAC83;&#xACFC;&#xB294; &#xBCC4;&#xAC1C;&#xB85C;, &#xAD00;&#xB9AC;&#xC790;&#xB4E4;&#xC740; &#xC18C;&#xD504;&#xD2B8;&#xC6E8;&#xC5B4; &#xB370;&#xB4DC;&#xB77C;&#xC778;&#xC774; &#xB0B4;&#xBD80; &#xC9C1;&#xC6D0;&#xBFD0;&#xB9CC; &#xC544;&#xB2C8;&#xB77C;, &#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0;&#xC758; &#xD65C;&#xB3D9;&#xC5D0; &#xC758;&#xD574;&#xC11C;&#xB3C4; &#xC88C;&#xC6B0;&#xB420; &#xC218; &#xC788;&#xC74C;&#xC744; &#xC778;&#xC2DD;&#xD574;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;. &#xC18C;&#xD504;&#xD2B8;&#xC6E8;&#xC5B4; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC758; &#xB370;&#xB4DC;&#xB77C;&#xC778;&#xC740; &#xC628;&#xC804;&#xD788; &#xB0B4;&#xBD80; &#xD300;&#xC5D0; &#xC758;&#xD574; &#xC2E4;&#xD589;&#xB418;&#xB294; &#xACBD;&#xC6B0;&#xC5D0;&#xB3C4; &#xC815;&#xD655;&#xD558;&#xAC8C; &#xC124;&#xC815;&#xD558;&#xAE30;&#xAC00; &#xC5B4;&#xB835;&#xC2B5;&#xB2C8;&#xB2E4;. &#xC678;&#xBD80;&#xC778;&#xC5D0; &#xC758;&#xD55C; &#xC774; &#xC0C8;&#xB85C;&#xC6B4; &#xC758;&#xC874;&#xC131;&#xC740; &#xAD00;&#xB9AC;&#xC790;&#xB4E4;&#xC774; &#xD604;&#xC2E4;&#xC744; &#xC778;&#xC2DD;&#xD558;&#xB294;&#xB370; &#xB3C4;&#xC6C0;&#xC774; &#xB420; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;. &#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0;&#xAC00; &#xC6B0;&#xB9AC;&#xAC00; &#xD544;&#xC694;&#xB85C; &#xD558;&#xB294; &#xAE30;&#xB2A5;&#xC5D0; &#xB300;&#xD55C; &#xC6B0;&#xC120;&#xC21C;&#xC704;&#xB97C; &#xB0AE;&#xAC8C; &#xC124;&#xC815;&#xD588;&#xB2E4;&#xBA74; &#xC790;&#xCCB4; &#xB9AC;&#xC18C;&#xC2A4;&#xB97C; &#xD22C;&#xC785;&#xD558;&#xC5EC; &#xC801;&#xC2DC;&#xC5D0; &#xC644;&#xB8CC;&#xD558;&#xACE0; &#xAC1C;&#xC120; &#xB0B4;&#xC6A9;&#xC744; &#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0;&#xC5D0; &#xAE30;&#xC5EC;&#xD558;&#xC2ED;&#xC2DC;&#xC624;. &#xB2E4;&#xB978; &#xD68C;&#xC0AC;&#xB3C4; &#xBE44;&#xC2B7;&#xD55C; &#xBC29;&#xC2DD;&#xC73C;&#xB85C; &#xC77C;&#xC744; &#xD560; &#xAC83;&#xC774;&#xBA70; &#xBAA8;&#xB450;&#xC5D0;&#xAC8C; &#xC774;&#xB4DD;&#xC774; &#xB429;&#xB2C8;&#xB2E4;.</p>
+<h4 id="ego-and-open-source">Ego and Open Source</h4>
+<p>Ego and Open Source</p>
+<p>&#xC624;&#xD508;&#xC18C;&#xC2A4;&#xC640; &#xC790;&#xBD80;&#xC2EC;</p>
+<p>It is natural to take pride in creative output. Software is rarely any longer a single person&#x2019;s ingenious inspiration in the way Donald Knuth developed TEX and Metafont on his own. But even when software requires team effort, working tightly together as a team provides its own sense of a unique shared identity. Furthermore, the team can boost a developer&#x2019;s personal needs. It&#x2019;s easy in a closeknit  group for each member to know the other&#x2019;s strengths. A manager can see exactly how someone contributed and base pay increases and promotions on those contributions.</p>
+<p>&#xCC3D;&#xC758;&#xC801;&#xC778; &#xACB0;&#xACFC;&#xBB3C;&#xC5D0; &#xC790;&#xBD80;&#xC2EC;&#xC744; &#xAC00;&#xC9C0;&#xB294; &#xAC83;&#xC740; &#xC790;&#xC5F0;&#xC2A4;&#xB7EC;&#xC6B4; &#xC77C;&#xC785;&#xB2C8;&#xB2E4;. &#xC18C;&#xD504;&#xD2B8;&#xC6E8;&#xC5B4;&#xB294; &#xB354; &#xC774;&#xC0C1; &#xB3C4;&#xB110;&#xB4DC; &#xCEE4;&#xB204;&#xC2A4;(Donald Knuth)&#xAC00; &#xD63C;&#xC790;&#xC11C; &#xB3C5;&#xCC3D;&#xC801;&#xC778; &#xC601;&#xAC10;&#xC73C;&#xB85C; TEX&#xC640; Metafont&#xB97C; &#xAC1C;&#xBC1C;&#xD588;&#xB358; &#xAC83;&#xACFC; &#xAC19;&#xC740; &#xBC29;&#xBC95;&#xC73C;&#xB85C;&#xB294; &#xAC1C;&#xBC1C;&#xD558;&#xC9C0; &#xC54A;&#xC2B5;&#xB2C8;&#xB2E4;. &#xD300; &#xB0B4;&#xC5D0;&#xC11C; &#xAE34;&#xBC00;&#xD55C; &#xD611;&#xC5C5;&#xC744; &#xD1B5;&#xD558;&#xC5EC; &#xC18C;&#xD504;&#xD2B8;&#xC6E8;&#xC5B4; &#xAC1C;&#xBC1C;&#xC744; &#xC9C4;&#xD589;&#xD558;&#xBA74;, &#xADF8; &#xD300;&#xB9CC;&#xC758; &#xC815;&#xCCB4;&#xC131;&#xC774; &#xC0DD;&#xAE41;&#xB2C8;&#xB2E4;. &#xAC8C;&#xB2E4;&#xAC00; &#xD300;&#xC73C;&#xB85C; &#xD558;&#xB294; &#xC791;&#xC5C5;&#xC744; &#xD1B5;&#xD558;&#xC5EC; &#xAC1C;&#xBC1C;&#xC790;&#xC758; &#xC2A4;&#xC2A4;&#xB85C;&#xC758; &#xC5ED;&#xB7C9;&#xB3C4; &#xD0A4;&#xC6B8; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;. &#xC11C;&#xB85C; &#xAE34;&#xBC00;&#xD558;&#xAC8C; &#xC791;&#xC5C5;&#xC744; &#xC9C4;&#xD589;&#xD558;&#xB294; &#xD300;&#xC5D0;&#xC11C;&#xB294; &#xC11C;&#xB85C;&#xC758; &#xC5ED;&#xB7C9;&#xC744; &#xC27D;&#xAC8C; &#xD30C;&#xC545;&#xD560; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;. &#xAD00;&#xB9AC;&#xC790;&#xB294; &#xB204;&#xAC00; &#xC5B4;&#xB5BB;&#xAC8C; &#xAE30;&#xC5EC;&#xB97C; &#xD588;&#xB294;&#xC9C0;&#xB97C; &#xC815;&#xD655;&#xD788; &#xD30C;&#xC545;&#xD560; &#xC218; &#xC788;&#xAE30; &#xB54C;&#xBB38;&#xC5D0;, &#xADF8; &#xAE30;&#xC5EC;&#xC5D0; &#xB530;&#xB77C; &#xC5F0;&#xBD09; &#xC778;&#xC0C1; &#xBC0F; &#xC2B9;&#xC9C4;&#xC744; &#xACB0;&#xC815;&#xD560; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;. </p>
+<p>This psychological and practical reward structure is profoundly changed by open source. We must consider how each developer finds personal fulfillment and anacknowledgment of their contributions in an open source context.</p>
+<p>&#xC774;&#xB7EC;&#xD55C; &#xC815;&#xC2E0;&#xC801;, &#xC2E4;&#xC9C8;&#xC801; &#xBCF4;&#xC0C1;&#xC774; &#xC624;&#xD508; &#xC18C;&#xC2A4;&#xB85C; &#xC778;&#xD558;&#xC5EC; &#xB9CE;&#xC774; &#xBC14;&#xB00C;&#xACE0; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;. &#xC624;&#xD508; &#xC18C;&#xC2A4; &#xAD00;&#xC810;&#xC5D0;&#xC11C;, &#xAC1C;&#xBC1C;&#xC790;&#xC2A4;&#xC2A4;&#xB85C;&#xC758; &#xAE30;&#xC5EC;&#xC5D0; &#xB300;&#xD55C; &#xAC1C;&#xC778;&#xC801;&#xC778; &#xC131;&#xCDE8;&#xC640; &#xBCF4;&#xC0C1;&#xC744; &#xC5B4;&#xB5A4; &#xC2DD;&#xC73C;&#xB85C; &#xC6D0;&#xD558;&#xB294;&#xC9C0;&#xB97C; &#xC54C;&#xC544;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;. </p>
+<p>When starting or joining an open source project, a team must give up some control and must learn to work within much more amorphous groups of people who come and go, all motivated by different goals. But ultimately, the individual has an even greater chance to shine on an open source project, because every contribution is available for the world to see. It might turn up in distantly related projects that were never imagined. And demonstrating solid contributions that other people choose to adopt is a wonderful boost to a job application. Open source also rewards people who have skills in communication, project and people management, design, web development, documentation, translation, and much more in addition to coding chops. All contributions matter in a project.</p>
+<p>&#xC624;&#xD508; &#xC18C;&#xC2A4; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xB97C; &#xC2DC;&#xC791;&#xD558;&#xAC70;&#xB098; &#xCC38;&#xC5EC;&#xD560; &#xB54C;, &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xB97C; &#xC778;&#xC704;&#xC801;&#xC73C;&#xB85C; &#xAD00;&#xB9AC;&#xD558;&#xB824; &#xD574;&#xC11C;&#xB294; &#xC548; &#xB418;&#xACE0;, &#xC11C;&#xB85C; &#xB2E4;&#xB978; &#xBAA9;&#xC801;&#xC744; &#xAC00;&#xC9C0;&#xACE0; &#xCC38;&#xC5EC;&#xD588;&#xB2E4; &#xC0AC;&#xB77C;&#xC9C0;&#xB294; &#xBD88;&#xD2B9;&#xC815;&#xC758; &#xC0AC;&#xB78C;&#xB4E4;&#xACFC; &#xD568;&#xAED8; &#xC77C;&#xD558;&#xB294; &#xBC95;&#xC744; &#xBC30;&#xC6CC;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;. &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC5D0; &#xAE30;&#xC5EC;&#xD55C; &#xB0B4;&#xC6A9;&#xC744; &#xB204;&#xAD6C;&#xB098; &#xD655;&#xC778;&#xD560; &#xC218; &#xC788;&#xAE30; &#xB54C;&#xBB38;&#xC5D0;, &#xC624;&#xD508;&#xC18C;&#xC2A4;&#xB85C; &#xC778;&#xD574;&#xC11C; &#xAC1C;&#xC778;&#xC774; &#xBE5B;&#xC774; &#xB098;&#xAC8C; &#xB429;&#xB2C8;&#xB2E4;. &#xADF8;&#xB9AC;&#xACE0;, &#xC0C1;&#xC0C1;&#xD558;&#xC9C0;&#xB3C4; &#xBABB; &#xD588;&#xB358; &#xC5C9;&#xB6B1;&#xD55C; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC5D0;&#xC11C; &#xADF8; &#xACB0;&#xACFC;&#xAC00; &#xB098;&#xD0C0;&#xB098;&#xAE30;&#xB3C4; &#xD569;&#xB2C8;&#xB2E4;. &#xADF8;&#xB9AC;&#xACE0;, &#xB2E4;&#xB978; &#xC5EC;&#xB7EC; &#xACF3;&#xC5D0;&#xC11C; &#xC774; &#xACB0;&#xACFC;&#xB97C; &#xC0AC;&#xC6A9;&#xD558;&#xAC8C; &#xB418;&#xBA74;, &#xCDE8;&#xC5C5;&#xC758; &#xAE30;&#xD68C;&#xB294; &#xB180;&#xB784;&#xB9CC;&#xD07C; &#xD655;&#xB300; &#xB429;&#xB2C8;&#xB2E4;. &#xCF54;&#xB529; &#xBFD0;&#xB9CC;&#xC774; &#xC544;&#xB2C8;&#xB77C;, &#xC18C;&#xD1B5;, &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC640; &#xC778;&#xB825;&#xC758; &#xAD00;&#xB9AC;, &#xB514;&#xC790;&#xC778;, &#xC6F9; &#xAC1C;&#xBC1C;, &#xBB38;&#xC11C;&#xD654;, &#xBC88;&#xC5ED; &#xB4F1; &#xB9CE;&#xC740; &#xBD84;&#xC57C;&#xC5D0;&#xC11C; &#xC624;&#xD508;&#xC18C;&#xC2A4;&#xC5D0; &#xAE30;&#xC5EC;&#xD560; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;. </p>
+<p>This high visibility of open source projects can also scare managers who worry that their best contributors will be lured by higher salaries or more prestigious jobs offered by a competitor. The solution to that problem is to be that competitor. Make sure your employees have the time to contribute to the open source software you use, both as coders and in a leadership role. Give them the freedom to run with good ideas and provide them the resources to implement useful tools that developers or teams come up with. If you have star performers, encourage them to join boards and speak at conferences. They will help turn your companyinto a magnet for other top developers</p>
+<p>&#xC624;&#xD508; &#xC18C;&#xC2A4; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xB97C; &#xD1B5;&#xD574; &#xB178;&#xCD9C;&#xB418;&#xB294; &#xB180;&#xB77C;&#xC6B4; &#xC131;&#xACFC;&#xB85C; &#xC778;&#xD558;&#xC5EC; &#xAD00;&#xB9AC;&#xC790;&#xB294; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC758; &#xCD5C;&#xACE0; &#xAE30;&#xC5EC;&#xC790;&#xB97C; &#xB192;&#xC740; &#xC5F0;&#xBD09;&#xC774;&#xB098; &#xC88B;&#xC740; &#xC790;&#xB9AC;&#xB85C; &#xACBD;&#xC7C1;&#xC0AC;&#xC5D0;&#xAC8C; &#xBE7C;&#xC558;&#xAE30;&#xC9C0; &#xC54A;&#xC744;&#xAE4C;&#xD558;&#xB294; &#xC6B0;&#xB824;&#xB97C; &#xAC00;&#xC9C8; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;. &#xC774; &#xBB38;&#xC81C;&#xB97C; &#xD574;&#xACB0;&#xD558;&#xB294; &#xBC29;&#xBC95;&#xC740; &#xBC14;&#xB85C;, &#xACBD;&#xC7C1;&#xC790;&#xAC00; &#xB418;&#xB294; &#xAC83;&#xC785;&#xB2C8;&#xB2E4;. &#xC9C1;&#xC6D0;&#xB4E4;&#xC774; &#xC9C0;&#xAE08; &#xC0AC;&#xC6A9;&#xD558;&#xACE0; &#xC788;&#xB294; &#xC624;&#xD508; &#xC18C;&#xC2A4; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC5D0; &#xAE30;&#xC5EC;&#xD560; &#xC218; &#xC788;&#xB3C4;&#xB85D; &#xD558;&#xC2ED;&#xC2DC;&#xC624;. &#xC9C0;&#xAE08; &#xC0AC;&#xC6A9;&#xD558;&#xACE0; &#xC788;&#xB294; &#xC624;&#xD508; &#xC18C;&#xC2A4; &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xC5D0; &#xCF54;&#xB354;&#xB098; &#xB9AC;&#xB354;&#xB85C; &#xAE30;&#xC5EC;&#xD560; &#xC218; &#xC788;&#xB294; &#xAE30;&#xD68C;&#xB97C; &#xC8FC;&#xC2ED;&#xC2DC;&#xC624;. &#xC88B;&#xC740; &#xC544;&#xC774;&#xB514;&#xC5B4;&#xB97C; &#xC2E4;&#xD589;&#xD560; &#xC218; &#xC788;&#xB294; &#xC790;&#xC720;&#xB97C; &#xC8FC;&#xACE0;, &#xAC1C;&#xBC1C;&#xC790;&#xB098; &#xD300;&#xC5D0;&#xC11C; &#xB9CC;&#xB4E4;&#xC5B4; &#xB0B8; &#xC720;&#xC6A9;&#xD55C; &#xB3C4;&#xAD6C;&#xB97C; &#xD65C;&#xC6A9;&#xD560; &#xC218; &#xC788;&#xB294; &#xC790;&#xC6D0;&#xC744; &#xC81C;&#xACF5;&#xD558;&#xC2ED;&#xC2DC;&#xC624;. &#xB9CC;&#xC77C; &#xC720;&#xBA85;&#xD55C; &#xAC1C;&#xBC1C;&#xC790;&#xB97C; &#xB370;&#xB9AC;&#xACE0; &#xC788;&#xB2E4;&#xBA74;, &#xC774;&#xC0AC;&#xD68C;&#xC5D0; &#xCC38;&#xC5EC;&#xC2DC;&#xD0A4;&#xACE0;, &#xCEE8;&#xD37C;&#xB7F0;&#xC2A4;&#xB97C; &#xD1B5;&#xD574; &#xBC1C;&#xD45C;&#xD558;&#xB3C4;&#xB85D; &#xD558;&#xC2ED;&#xC2DC;&#xC624;. &#xC774;&#xB807;&#xAC8C; &#xD558;&#xBA74;, &#xB2E4;&#xB978; &#xCD5C;&#xACE0;&#xC758; &#xAC1C;&#xBC1C;&#xC790;&#xB97C; &#xC720;&#xD639;&#xD560; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.</p>
+<ul>
+<li>(&#xBC88;&#xC5ED;&#xC911; : &#xC724;&#xC885;&#xBBFC;)</li>
+<li>(1&#xCC28; &#xB9AC;&#xBDF0; : )</li>
+<li>(1&#xCC28; &#xB9AC;&#xBDF0; &#xBC18;&#xC601; : )</li>
+<li>(2&#xCC28; &#xB9AC;&#xBDF0; : )</li>
+<li>(2&#xCC28; &#xB9AC;&#xBDF0; &#xBC18;&#xC601; : )</li>
+<li>...</li>
+<li></li>
+</ul>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="06-groundworks-for-understanding-open-source.html" class="navigation navigation-prev " aria-label="Previous page: 오픈소스를 이해하기 위한 기초">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="08-participating-in-a-projects-community.html" class="navigation navigation-next " aria-label="Next page: 프로젝트 커뮤니티에의 참여">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"오픈소스 코드의 도입과 사용","level":"1.8","depth":1,"next":{"title":"프로젝트 커뮤니티에의 참여","level":"1.9","depth":1,"path":"src/08-participating-in-a-projects-community.md","ref":"src/08-participating-in-a-projects-community.md","articles":[]},"previous":{"title":"오픈소스를 이해하기 위한 기초","level":"1.7","depth":1,"path":"src/06-groundworks-for-understanding-open-source.md","ref":"src/06-groundworks-for-understanding-open-source.md","articles":[]},"dir":"ltr"},"config":{"plugins":[],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","author":"이민석 外","pdf.fontSize":14,"pdf.fontFamily":"NanumGothic","pdf.paperSize":"a5","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"기업에서의 오픈소스","language":"ko","gitbook":"*","description":"Zaheda Bhorat, Andy Oram의 저서 'Open Source in the Enterprise'의 한글 번역본. https://aws.amazon.com/opensource/enterprise-oss-book/","pdf.pageNumbers":true},"file":{"path":"src/07-adopting-and-using-open-source-code.md","mtime":"2019-01-03T08:27:03.907Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-01-03T08:28:29.523Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
