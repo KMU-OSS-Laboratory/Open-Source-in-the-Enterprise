@@ -90,7 +90,7 @@ gitbook의 자세한 사용법에 대해서는 아래를 참조하시기 바랍�
   - Change Your Reward and Management Structure (번역완료)
   - Ego and Open Source (번역중:윤종민)
 * [Participating in a Project’s Community](src/08-participating-in-a-projects-community.md) (번역중:윤건영)
-  - Quality and Security: A Comparison of Open and Closed Source (번역중:김대희)
+  - Quality and Security: A Comparison of Open and Closed Source (번역완료)
 * [Contributing to Open Source Projects](src/09-contributing-to-open-source-project.md) (번역완료)
   - Establish the "Why" Throughout the Company (번역완료)
   - Hire from the Community (번역완료)
@@ -111,4 +111,4 @@ gitbook의 자세한 사용법에 대해서는 아래를 참조하시기 바랍�
 * [About Authors](src/13-about-authors.md) (번역완료)
 * [역자 소개](src/14-translators.md) (각자 자기 소개 추가)
 * [이 책에 있는 모든 외부 링크](src/15-links.md) (각자 맡은 영역 추가)
-
+* 
