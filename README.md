@@ -88,7 +88,7 @@ gitbook의 자세한 사용법에 대해서는 아래를 참조하시기 바랍�
   - Comply with the License (번역완료)
   - Manage Community Code as Seriously as the Code You Create (번역완료)
   - Change Your Reward and Management Structure (번역완료)
-  - Ego and Open Source (번역중:윤종민)
+  - Ego and Open Source (번역완료)
 * [Participating in a Project’s Community](src/08-participating-in-a-projects-community.md) (번역중:윤건영)
   - Quality and Security: A Comparison of Open and Closed Source (번역완료)
 * [Contributing to Open Source Projects](src/09-contributing-to-open-source-project.md) (번역완료)
