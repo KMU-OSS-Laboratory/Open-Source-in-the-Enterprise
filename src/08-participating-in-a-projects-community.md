@@ -61,8 +61,7 @@ a different direction, ratchets up the cost of the product precipitously, refuse
 fix a bug or add a feature that is important to you, or even inserts malware that
 tracks your activity. 
 
-즉, 사업을 접게 만들고, 당신이 생각했던 제품의 분야가 아닌 다른 방향으로 제품을 
-당신이 생각하는 제품의 방향이 아닌 다른 방향으로 제품을 몰게 하며,
+즉, 사업을 접게 만들고, 당신이 생각하는 제품의 방향이 아닌 다른 방향으로 제품을 몰게 하며,
 제품의 비용을 급격히 상승시키고, 버그를 고치거나 또는 당신에게 중요한 기능을 추가하는것을 
 거부하거나, 심지어 당신의 활동을 추적하게 하는 악성 소프트웨어를 삽입하는 것입니다.
 
@@ -91,8 +90,8 @@ The question has not been resolved either way.
 To encourage robust development practices, the Core Infrastructure Initiative at the Linux Foundation has created a 
 “best practices” guide covering a wide range of common issues, from source control to testing and code analysis.
 
-강력한 개발 관행을 장려하기 위해, 리눅스 재단의 핵심 인프라 이니셔티브는 소스 제어에서 
-테스트 및 코드 분석에 이르기까지 광범위한 공통 문제를 다루고 있는 "모범 사례" 가이드를 작성했습니다.
+탄탄한 개발 관행을 확산시키기 위해 리눅스 재단의 Core Infrastructure Initiative는 모범 사례 가이드를 작성했습니다. 
+이 가이드는 소스코드 관리에서부터 테스트, 코드 분석에 이르는 광범위한 범위에서 공통적으로 발생하는 이슈들에 대해 다룹니다.
 
 Security experts almost universally agree that an open source process is better for
 secure code and standards, because experts everywhere can evaluate it. 
