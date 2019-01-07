@@ -1,6 +1,6 @@
 ### Participating in a Project’s Community
 
-* (번역중 : 윤건영)
+* (번역완료 : 윤건영 / 김대희)
 * (1차 리뷰 : )
 * (1차 리뷰 반영 : )
 * (2차 리뷰 : )
@@ -41,9 +41,9 @@ Many successful projects in free and open source software follow community princ
 
 -
 
-Developers will come to your company with these values or will learn them as they work on open source projects. What’s really difficult for the company is that similar values—tempered by the need for confidentiality in certain areas, which every organization experiences—must percolate from the developers through the entire organization. Advocates for open source work need to schedule discus‐ sions with management and get their buy-in on the culture needed to reap the benefits of open source. The value of transparency and community participation must be accepted at all levels of the company by managers, giving developers the freedom to determine where best to invest their efforts.
+Developers will come to your company with these values or will learn them as they work on open source projects. What’s really difficult for the company is that similar values—tempered by the need for confidentiality in certain areas, which every organization experiences—must percolate from the developers through the entire organization. Advocates for open source work need to schedule discussions with management and get their buy-in on the culture needed to reap the benefits of open source. The value of transparency and community participation must be accepted at all levels of the company by managers, giving developers the freedom to determine where best to invest their efforts.
 
-(번역필요)
+개발자들은 이러한 가치관을 가지고 당신의 회사에 오거나 오픈소스 프로젝트를 하면서 그러한 원칙들을 배울 것입니다. 회사에 있어서 정말로 어려운 것은 비슷한 가치들이 특정 분야에서 기밀의 필요성에 의해 완화된다는 점인데, 그것은 모든 조직 경험들이 개발자로부터 전체 조직을 통해 퍼져야 합니다. 오픈소스 사업을 옹호하는 사람들은 경영진과의 토론을 계획하고 오픈소스로부터 이익을 얻는 데 필요한 문화를 입수할 필요가 있습니다. 투명성과 커뮤니티 참여의 가치는 관리자들에 의해 회사의 모든 수준에서 받아들여져야 하며, 개발자들에게 그들의 노력을 어디에 투자해야 할지를 결정할 수 있는 자유를 주어야 합니다.
 
 -
 
