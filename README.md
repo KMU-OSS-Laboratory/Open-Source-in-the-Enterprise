@@ -65,50 +65,47 @@ gitbook의 자세한 사용법에 대해서는 아래를 참조하시기 바랍�
 # 목차 및 작업 현황
 
 ```
-'번역중:아무나'' - (아무나)가 번역 중, 완료 후 '번역완료'
-'1차리뷰중:아무거'' - (아무거)가 1차 리뷰 중, 완료 후 '1차리뷰완료'
-'2차리뷰중:아무개'' - (아무개)가 2차 리뷰 중, 완료 후 '2차리뷰완료'
-'n차리뷰중:아무고' - 3차, 4차 등 뭔가 찜찜하면 계속
-'일단완료' - 일단 번역과 리뷰가 끝난 상태
+현재 1차 번역은 완료
+PDF를 배포하여 외부 리뷰 준비중
 ```
 
-* [Acknowledgments](src/00-acknowledgments.md) (번역완료)
+* [Acknowledgments](src/00-acknowledgments.md)
 * [역자 서문](src/01-preface.md) (작성중:이민석)
-* [Table of Contents](src/02-toc.md) (번역완료)
-* [Open Source in the Enterprise](src/03-open-source-in-the-enteprise.md) (번역완료)
-* [Why Are Companies and Governments Turning to Open Source?](src/04-why-are-companies-and-governments-turning-to-open-source.md) (번역완료)
-* [More Than a License or Even Code](src/05-more-than-a-license-or-even-code.md) (번역완료)
-* [Groundwork for Understanding Open Source](src/06-groundworks-for-understanding-open-source.md) (번역완료)
-  - Terminology: Free and Open Source (번역완료)
-* [Adopting and Using Open Source Code](src/07-adopting-and-using-open-source-code.md) (1차리뷰완료)
-  - Create and Document an Internal Open Source Policy (번역완료)
-  - Formalize Your Strategy Through an OSPO (1차리뷰완료)
-  - Build Ties Throughout the Company (1차리뷰완료)
-  - Assess Potential Projects (번역완료)
-  - Comply with the License (번역완료)
-  - Manage Community Code as Seriously as the Code You Create (번역완료)
-  - Change Your Reward and Management Structure (번역완료)
-  - Ego and Open Source (번역완료)
-* [Participating in a Project’s Community](src/08-participating-in-a-projects-community.md) (번역완료)
-  - Quality and Security: A Comparison of Open and Closed Source (번역완료)
-* [Contributing to Open Source Projects](src/09-contributing-to-open-source-project.md) (번역완료)
-  - Establish the "Why" Throughout the Company (번역완료)
-  - Hire from the Community (번역완료)
-  - Develop Mentoring and Support (번역완료)
-  - Set Rules for Participation (번역완료)
-  - Foster Open Communication (번역완료)
-* [Launching an Open Source Project](src/10-launching-an-open-source-project.md) (번역완료)
-  - Choose a License (1차리뷰완료)
-  - Open the Code Right Out of the Gate (번역완료)
-  - Use Best Practices for Stable Code (번역완료)
-  - Set Up Public Discussion Forums (번역완료)
-  - Make Life Easy for Newbies (번역완료)
-  - Keep Up Communication (번역완료)
-  - Adopt Metrics and Measurement (번역완료)
-  - Release the Project to an Independent Governance Organization (1차리뷰완료)
-* [Open Source and the Cloud](src/11-open-source-and-the-cloud.md) (번역완료)
-* [Conclusion](src/12-conclusion.md) (번역완료)
-* [About Authors](src/13-about-authors.md) (번역완료)
-* [역자 소개](src/14-translators.md) (각자 자기 소개 추가)
-* [이 책에 있는 모든 외부 링크](src/15-links.md) (각자 맡은 영역 추가)
-* 
+* [Table of Contents](src/02-toc.md)
+* [Open Source in the Enterprise](src/03-open-source-in-the-enteprise.md)
+* [Why Are Companies and Governments Turning to Open Source?](src/04-why-are-companies-and-governments-turning-to-open-source.md)
+* [More Than a License or Even Code](src/05-more-than-a-license-or-even-code.md)
+* [Groundwork for Understanding Open Source](src/06-groundworks-for-understanding-open-source.md)
+  - Terminology: Free and Open Source
+* [Adopting and Using Open Source Code](src/07-adopting-and-using-open-source-code.md)
+  - Create and Document an Internal Open Source Policy
+  - Formalize Your Strategy Through an OSPO
+  - Build Ties Throughout the Company
+  - Assess Potential Projects
+  - Comply with the License
+  - Manage Community Code as Seriously as the Code You Create
+  - Change Your Reward and Management Structure
+  - Ego and Open Source
+* [Participating in a Project’s Community](src/08-participating-in-a-projects-community.md)
+  - Quality and Security: A Comparison of Open and Closed Source
+* [Contributing to Open Source Projects](src/09-contributing-to-open-source-project.md)
+  - Establish the "Why" Throughout the Company
+  - Hire from the Community
+  - Develop Mentoring and Support
+  - Set Rules for Participation
+  - Foster Open Communication
+* [Launching an Open Source Project](src/10-launching-an-open-source-project.md)
+  - Choose a License
+  - Open the Code Right Out of the Gate
+  - Use Best Practices for Stable Code
+  - Set Up Public Discussion Forums
+  - Make Life Easy for Newbies
+  - Keep Up Communication
+  - Adopt Metrics and Measurement
+  - Release the Project to an Independent Governance Organization
+* [Open Source and the Cloud](src/11-open-source-and-the-cloud.md)
+* [Conclusion](src/12-conclusion.md)
+* [About Authors](src/13-about-authors.md)
+* [역자 소개](src/14-translators.md) (각자 자기 소개 추가 필요)
+* [이 책에 있는 모든 외부 링크](src/15-links.md) (확인 필요)
+
