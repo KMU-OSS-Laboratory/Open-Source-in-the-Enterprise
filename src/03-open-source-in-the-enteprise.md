@@ -1,12 +1,5 @@
 ﻿### Open Source in the Enterprise
 
-* (번역완료 : 홍승환)
-* (1차 리뷰 : )
-* (1차 리뷰 반영 : )
-* (2차 리뷰 : )
-* (2차 리뷰 반영 : )
-* ...
-
 ### 엔터프라이즈에서의 오픈소스
 
 Free and open source software is everywhere, frequently taking over entire fields of computing. [GNU/Linux](https://www.linuxfoundation.org/) is now the most common operating system, powering data centers and controlling Android devices around the world. Apache [Hadoop](http://hadoop.apache.org/) and its follow-on open source technologies brought the big data revolution to a wide range of organizations, whereas [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/) underpin microservices-based cloud computing, and artificial intelligence (AI) has over‐whelmingly become the province of open source technologies such as [TensorFlow](https://www.tensorflow.org/) and Apache [MXNet](https://mxnet.apache.org/). The major players in computing such as Amazon, Apple, Facebook, Google, Huawei, IBM, Intel, Microsoft, PayPal, Red Hat, and Twitter have launched and maintain open source projects, and they’re not doing it out of altruism. Every business and government involved with digital transformation or with building services in the cloud is consuming open source software because it’s good for business and for their mission.

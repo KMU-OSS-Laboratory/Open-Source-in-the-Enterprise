@@ -1,12 +1,5 @@
 ﻿### Groundwork for Understanding Open Source
 
-* (번역완료)
-* (1차 리뷰 : )
-* (1차 리뷰 반영 : )
-* (2차 리뷰 : )
-* (2차 리뷰 반영 : )
-* ...
-
 ### 오픈소스를 이해하기 위한 기초
 
 Before discussing open source software from three angles—how to adopt software developed elsewhere, how to contribute to a project, and how to launch a project of your own—let’s quickly try to dispel a few myths:

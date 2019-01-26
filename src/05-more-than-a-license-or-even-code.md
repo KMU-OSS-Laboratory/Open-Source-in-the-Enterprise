@@ -1,12 +1,5 @@
 ﻿### More Than a License or Even Code
 
-* (번역 완료: 정원혁)
-* (1차 리뷰 : )
-* (1차 리뷰 반영 : )
-* (2차 리뷰 : )
-* (2차 리뷰 반영 : )
-* ...
-
 ### 저작권이나 심지어 코드보다 더 중요한 것
 
 In open source, a productive community and its accompanying practices are just as important as the code itself. Officially, of course, open source is defined by a license. Popular ones include the [GNU General Public License](https://www.gnu.org/licenses/licenses.en.html), the [Mozilla Public License](https://www.mozilla.org/en-US/MPL/), and the [Apache License](https://www.apache.org/licenses/), all of which go through occasional version changes. But in practical terms, you need much more than a license to have a thriving open source project.
