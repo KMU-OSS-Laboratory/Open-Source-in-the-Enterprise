@@ -1,4 +1,20 @@
-Open-Source-in-the-Enterprise
+Open-Source-in-the-Enterprise 한글 리뷰본
+
+=====
+
+# 리뷰 안내
+
+**이 pdf 파일은 한글 리뷰본입니다. 리뷰가 끝나면 정리되어, 온라인 및 책자로 배포될 예정입니다. 
+리뷰는 이 pdf 파일에 메모(스티커노트)를 추가하거나 고치기는 뭐한데 영 이상한 부분은 형광펜(텍스트강조)으로 줄을 그어주시면 잘 보고 반영하겠습니다.**
+
+**여러 사람이 번역을 하느라 말투가 조금 다릅니다. 그리고 일부는 존댓말로 일부는 반말로 번역이 되었습니다. 우선 잘못 전달된 의미와 중대한 단어 오류, 문맥상 더 의역이 필요한 경우, 그리고 아름다운 문장으로 만들기 위한 리뷰를 해서 아래 주소로 보내주시면 감사하겠습니다.**
+
+* [slack : opensource-enterprise.slack.com](opensource-enterprise.slack.com)
+* [slack 초대 link: https://join.slack.com/t/opensource-enterprise/shared_invite/enQtNTMzMzgyNTk5NjAxLTE3NTI1NTg0OTM4MzdhOTk2MTFjZGQ5ZjkwOTdiNjIwYWVhZmMzMmNiY2I2YWNhMzlhNDk0MzJmYmIyMmU3OTE](https://join.slack.com/t/opensource-enterprise/shared_invite/enQtNTMzMzgyNTk5NjAxLTE3NTI1NTg0OTM4MzdhOTk2MTFjZGQ5ZjkwOTdiNjIwYWVhZmMzMmNiY2I2YWNhMzlhNDk0MzJmYmIyMmU3OTE)
+* Email : [ykhl1itj@gmail.com](mailto:ykhl1itj@gmail.com)
+* Facebook Message : https://www.facebook.com/minsuk.lee0
+* 또는 이 PDF 파일을 발견한 곳에 댓글로 알려주시면 됩니다. 
+
 =====
 
 Open Source in the Enterprise의 한글 버전입니다.
