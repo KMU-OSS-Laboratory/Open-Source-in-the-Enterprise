@@ -47,12 +47,12 @@ ebook 생성 기능을 사용하기 위해서는 [calibre toolset](https://calib
 npm install ebook-convert
 ```
 
-프로젝트를 전자책 형식으로 변환하기 위해서는 아래와 같이 하면 됩니다:
+프로젝트를 전자책 (enterprise-oss-book-kr.pdf) 형식으로 변환하기 위해서는 아래와 같이 하면 됩니다:
 
 ```
-gitbook pdf ./ ./mybook.pdf    # pdf 파일 생성
-gitbook epub ./ ./mybook.epub  # epub 파일 생성
-gitbook mobi ./ ./mybook.mobi  # mobi 파일 생성
+gitbook pdf ./ ./enterprise-oss-book-kr.pdf    # pdf 파일 생성
+gitbook epub ./ ./enterprise-oss-book-kr.epub  # epub 파일 생성
+gitbook mobi ./ ./enterprise-oss-book-kr.mobi  # mobi 파일 생성
 ```
 
 ## 기타
