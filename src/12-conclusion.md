@@ -1,12 +1,11 @@
-﻿
-### Conclusion
+﻿### Conclusion
 
 ### 결어
 
 The production and use of open source software has matured tremendously over the past decade. From informal collaboration, often around a “benevolent dicta‐ tor,” it has evolved into a discipline. Community managers, open source program offices, codes of conduct, and other facets of organized development practices are widespread. Websites have become more sophisticated, good communication practices and processes are codified on collaboration sites such as GitHub by groups like the TODO Group, and projects recognize the importance of that long-neglected cousin to source code: documentation.
 
 지난 10 년 동안 오픈소스 소프트웨어의 생산과 활용은 엄청나게 성숙해졌습니다. 
-가끔은 어떤 "자비로운 독재자" 주변에서 이루어지던 형식이 없는 협력에서 하나의 규율로 발전했습니다. 
+가끔은 어떤 "자비로운 독재자" 주변에서 이루어지던 형식이 없는 협력에서 하나의 규율로 발전이 이루어졌습니다. 
 커뮤니티 관리자, OSPO(오픈소스 프로그램 사무소), 행동 규범과 조직적인 개발 관행과 같은 다른 측면들도 널리 보급었습니다. 
 웹사이트는 더욱 정교해지고 좋은 의사소통 방식과 프로세스는 TODO 그룹과 같은 그룹에 의해 GitHub와 같은 공동 작업 사이트에 녹아들었으며, 프로젝트들은 정말 오랫동안 중요성이 인식되지 않았던, 소스 코드의 사촌격인, 문서의 중요성을 인식하고 있습니다. 
 
@@ -14,14 +13,14 @@ This book described open source as it is conducted by the most advanced, tech‐
 
 이 책에서는 2018년에 가장 기술 주도적인 기업 및 정부 기관들에 의해 오픈소스활동이 미래지향적으로 진행되고 있다고 기술했습니다. 
 또 여러 정보와 참고 자료들을 종합하여 오픈소스를 추진하려는 시도를 성공할 수 있도록 하고, 우려되는 부분에 관한 질문에 답변했습니다. 
-그렇습니다. 오픈소스 코드를 채택하여 사용하고 릴리스 하려면 배워야 할 것이 많습니다. 
+그렇습니다. 오픈소스 코드를 채택하여 사용하고 릴리스하려면 배워야 할 것들이 많습니다. 
 그럼에도 불구하고 많은 기업들이 꽤 성공적으로 진행하고 있습니다. 그 기업들은 회사 내의 컬처를 바꾸고 이러한 노력에 참여하는 개발자와 모든 직원들을 지원함으로써 오픈소스를 채택의 전략적 가치를 극대화하고 있습니다. 
 
 Thousands of companies use open source software, and many contribute to it. This book showed you how to start your own journey with a pilot project, working with developers and other key stakeholders. Poll your developers to find out whether they are already using open source code. It’s important for the members of your organization to learn from their experiences and perhaps to involve them in a more formal policy regarding open source. The community will be a willing mentor as you embark on this journey.
 
 수 많은 회사가 오픈소스 소프트웨어를 사용하고 있으며, 많은 회사들이 오픈소스 소프트웨어에 기여하고 있습니다. 
-이 책은 개발자 및 기타 주요 이해 관계자들과 협력하여 파일럿 프로젝트로 이 과정을 시작하는 방법을 설명했습니다. 
-개발자들을 대상으로 이미 오픈소스 코드를 사용하고 있는지 확인을 위한 조사를  해보십시오. 
+이 책은 파일럿 프로젝트로 개발자 및 기타 주요 이해 관계자들과 협력하면서 이 과정을 시작하는 방법을 설명했습니다. 
+개발자들을 대상으로 이미 오픈소스 코드를 사용하고 있는지 확인을 위한 조사해보십시오. 
 조직 구성원들이 그들의 경험을 통해 배우고 오픈소스 관련한 좀 더 공식적인 정책을 가지는 것이 중요합니다. 
 커뮤니티는 이런 활동을 시작하는 과정에서 기꺼이 멘토 역할을 해줄 것입니다. 
 

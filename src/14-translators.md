@@ -21,7 +21,7 @@
 
 * [**이 서연**](mailto:) :
 
-* [**이 윤준**](mailto:) :
+* [**이 윤준**](mailto:yoonjoon.lee@gmail.com) : [KAIST 전산학부](http://cs.kaist.ac.kr) 교수, 1973년 대학 1학년때 KIST 전산교육센터에서 FORTRAN과 COBOL를 배우면서 소프트웨어 분야에 발을 들여 놓아 46년째 이 길을 걷고 있음. 84년 KAIST 전산학과 교수로 부임하여 은퇴 직전임. 하나 DB, BADA DBMS 등 여러 DBMS 개발에 참여했으나 자신의 제품은 없음. 아직 소프트웨어 개발에 흥미를 갖고 있음. 특히 최근에는 소프트웨어 공학에 관심을 갖고 공부하고 있음. [페이스북](https://www.facebook.com/yoonjoon.lee)에 계정이 있으며, 읽은 책들을 [book log](http://www.syncclip.com/yjbenlee)에 정리하고 있음.
 
 * [**장 학성**](mailto:hakssung@gmail.com) : https://github.com/hakssung
 
@@ -30,3 +30,7 @@
 * [**허 경영**](mailto:bbvch13531@gmail.com) :
 
 * [**홍 승환**](mailto:hj332921@gmail.com) : 국민대학교 소프트웨어학부의 학부생이자, 한 블록체인 스타트업의 소프트웨어 엔지니어이다. 많은 것을 보고 들으며 경험을 쌓고 싶어 다양한 스타트업들에서 일해보며, 오픈소스의 중요성을 몸으로 체감하고 있다. 좋아하는 사람들과 같은 관심사를 공유하는 것을 좋아하며, 지금은 블록체인에 깊은 관심을 갖고 공부하고 있다.
+
+### 리뷰어
+
+* [**이 홍현**](mailto:hlee993@gmail.com) : 한성대학교 IT융합공학부
