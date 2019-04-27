@@ -16,6 +16,7 @@
 | Best Practice | 모범 사례 |
 | boundary | 경계 |
 | Branch | 브랜치 |
+| Bug Report | 버그리포트 |
 | Business | 비즈니스 |
 | Business Logic | 비지니스 로직 |
 | Code | 코드 |
@@ -37,7 +38,7 @@
 | Forum | 포럼 |
 | Governance | 거버넌스 |
 | Government | 정부 |
-| InnerSource | InnerSource |
+| InnerSource | InnerSource 또는 내부협동개발 |
 | License | 라이선스 |
 | Mailing List | 메일링 리스트 |
 | Manager | 관리자 |
@@ -45,13 +46,14 @@
 | Obligation | 의무 |
 | Open Source | 오픈소스 |
 | Organization | 조직 |
-| OSPO(Open Source Project Office) | 오픈소스 프로젝트 부서 |
+| OSPO(Open Source Program Office) | 오픈소스 관리 부서 |
 | Ownership | 소유권 |
 | Policy | 정책 |
 | Process | 프로세스 |
 | Project | 프로젝트 |
 | Public Scrutiny | 공개 조사 |
-| Pull Request | ?? |
+| Pull Request | 풀-리퀘스트|
+| Release | 릴리즈 |
 | Repository | 저장소 |
 | Resource | 자료 또는 자원 또는 리소스 |
 | Roll Back | 롤백 |

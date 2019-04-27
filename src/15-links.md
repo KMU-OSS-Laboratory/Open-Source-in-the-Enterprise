@@ -49,10 +49,12 @@
 * [open source templates and policies](https://github.com/todogroup/policies) : https://github.com/todogroup/policies
 * [GitHub](https://github.com/) : https://github.com/
 * [GitLab](https://about.gitlab.com/) : https://about.gitlab.com/
-* [Linux Foundation guide](https://www.linuxfoundation.org/using-open-source-code/) : https://www.linuxfoundation.org/using-open-source-code/
+* [Linux Foundation Guide](https://www.linuxfoundation.org/using-open-source-code/) : https://www.linuxfoundation.org/using-open-source-code/
 * [Open Source for the Enterprise](http://shop.oreilly.com/product/9780596101190.do) : http://shop.oreilly.com/product/9780596101190.do
 
 #### [Participating in a Project’s Community](08-participating-in-a-projects-community.md)
+
+* [Heartbleed](http://heartbleed.com/) : http://heartbleed.com/
 
 #### [Contributing to Open Source Projects](09-contributing-to-open-source-project.md)
 
