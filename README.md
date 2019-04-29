@@ -4,7 +4,7 @@ Open-Source-in-the-Enterprise 한글 리뷰본
 
 # 리뷰 안내
 
-**이 pdf 파일은 한글 리뷰본입니다. 리뷰가 끝나면 정리되어, 온라인 및 책자로 배포될 예정입니다. 
+**현재 pdf 파일은 한글 리뷰본입니다. 리뷰가 모두 끝나면 정리되어, 온라인 및 책자로 배포될 예정입니다. 
 리뷰는 이 pdf 파일에 메모(스티커노트)를 추가하거나 고치기는 뭐한데 영 이상한 부분은 형광펜(텍스트강조)으로 줄을 그어주시면 잘 보고 반영하겠습니다.**
 
 **여러 사람이 번역을 하느라 말투가 조금 다릅니다. 그리고 일부는 존댓말로 일부는 반말로 번역이 되었습니다. 우선 잘못 전달된 의미와 중대한 단어 오류, 문맥상 더 의역이 필요한 경우, 그리고 아름다운 문장으로 만들기 위한 리뷰를 해서 아래 주소로 보내주시면 감사하겠습니다.**
@@ -81,12 +81,13 @@ gitbook의 자세한 사용법에 대해서는 아래를 참조하시기 바랍�
 # 목차 및 작업 현황
 
 ```
-현재 1차 번역은 완료
+1차 번역 완료
+1차 리뷰 완료
 PDF를 배포하여 외부 리뷰 준비중
 ```
 
 * [Acknowledgments](src/00-acknowledgments.md)
-* [역자 서문](src/01-preface.md) (작성중:이민석)
+* [역자 서문](src/01-preface.md)
 * [Table of Contents](src/02-toc.md)
 * [Open Source in the Enterprise](src/03-open-source-in-the-enteprise.md)
 * [Why Are Companies and Governments Turning to Open Source?](src/04-why-are-companies-and-governments-turning-to-open-source.md)
