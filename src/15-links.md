@@ -68,6 +68,7 @@
 
 #### [Launching an Open Source Project](10-launching-an-open-source-project.md)
 
+* [Linux Foundation Guide](http://bit.ly/2sWo0cO) : http://bit.ly/2sWo0cO
 * [Open Source Initiative](https://opensource.org/licenses) : https://opensource.org/licenses
 * [라이선스 선별 가이드](https://choosealicense.com/) : https://choosealicense.com/
 * [LibreOffice](https://www.libreoffice.org/) : https://www.libreoffice.org/
