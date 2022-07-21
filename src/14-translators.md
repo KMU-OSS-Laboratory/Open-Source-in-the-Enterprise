@@ -22,7 +22,7 @@
 
 * [**이 윤준**](mailto:yoonjoon.lee@gmail.com) : [KAIST 전산학부](http://cs.kaist.ac.kr) 교수, 1973년 대학 1학년때 KIST 전산교육센터에서 FORTRAN과 COBOL를 배우면서 소프트웨어 분야에 발을 들여 놓아 46년째 이 길을 걷고 있음. 84년 KAIST 전산학과 교수로 부임하여 은퇴 직전임. 하나 DB, BADA DBMS 등 여러 DBMS 개발에 참여했으나 자신의 제품은 없음. 아직 소프트웨어 개발에 흥미를 갖고 있음. 특히 최근에는 소프트웨어 공학에 관심을 갖고 공부하고 있음. [페이스북](https://www.facebook.com/yoonjoon.lee)에 계정이 있으며, 읽은 책들을 [book log](http://www.syncclip.com/yjbenlee)에 정리하고 있음.
 
-* [**장 학성**](mailto:hakssung@gmail.com) : https://github.com/hakssung
+* [**장 학성**](mailto:hakssung@gmail.com) : https://haksungjang.github.io/
 
 * [**정 원혁**](mailto:williamc@dplus.company) : "전공따위" - 전공에 얽매이지 않고 삽니다. 사회학사, 이러닝석사. 이랜드 개발자로 시작, 마이크로소프트 엔지니어, 퇴사 후 프리랜서 8년. 실직자 구제를 목적으로 (주)필라넷 공동창업. 데이터베이스 컨설팅을 하는 (주)씨퀄로 분사후 11년차. 이제 또 새로 스타트업, "데이터 분석을 돕는 자" 디플러스 대표 3년차.
 
